@@ -1,6 +1,6 @@
 # Domain list community
 
-This project manages a list of domains, to be used as geosites for routing purpose in Project V.
+This project manages a list of domains, to be used as geosites for routing purpose in Project V/Project X/Mihomo.
 
 ## Purpose of this project
 
@@ -8,8 +8,8 @@ This project is not opinionated. In other words, it does NOT endorse, claim or i
 
 ## Download links
 
-- **geosite.dat**：[https://github.com/v2fly/domain-list-community/releases/latest/download/geosite.dat](https://github.com/v2fly/domain-list-community/releases/latest/download/geosite.dat)
-- **geosite.dat.sha256sum**：[https://github.com/v2fly/domain-list-community/releases/latest/download/geosite.dat.sha256sum](https://github.com/v2fly/domain-list-community/releases/latest/download/geosite.dat.sha256sum)
+- **geosite.dat**：[https://github.com/R3pl4c3r/domain-list-custom/releases/latest/download/geosite.dat](https://github.com/R3pl4c3r/domain-list-custom/releases/latest/download/geosite.dat)
+- **geosite.dat.sha256sum**：[https://github.com/R3pl4c3r/domain-list-custom/releases/latest/download/geosite.dat.sha256sum](https://github.com/R3pl4c3r/domain-list-custom/releases/latest/download/geosite.dat.sha256sum)
 
 ## Usage example
 
@@ -68,7 +68,7 @@ Each file in the `data` directory can be used as a rule in this format: `geosite
 ## Generate `geosite.dat` manually
 
 - Install `golang` and `git`
-- Clone project code: `git clone https://github.com/v2fly/domain-list-community.git`
+- Clone project code: `git clone https://github.com/R3pl4c3r/domain-list-custom.git`
 - Navigate to project root directory: `cd domain-list-community`
 - Install project dependencies: `go mod download`
 - Generate `geosite.dat` (without `datapath` option means to use domain lists in `data` directory of current working directory):
