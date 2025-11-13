@@ -26,15 +26,15 @@ jobs:
           echo "TAG_NAME=$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
         shell: bash
 
-      - name: Build dlc.dat file
+      - name: Build geosite.dat file
         run: |
           cd code || exit 1
           go run ./ --outputdir=../ --exportlists=category-ads-all,tld-cn,cn,tld-\!cn,geolocation-\!cn,apple,icloud
           cd ../ && rm -rf code
-          mv dlc.dat TEST-${{ github.run_number }}-dlc.dat
+          mv geosite.dat TEST-${{ github.run_number }}-geosite.dat
 
-      - name: Upload TEST-${{ github.run_number }}-dlc.dat
+      - name: Upload TEST-${{ github.run_number }}-geosite.dat
         uses: actions/upload-artifact@v5
         with:
-          name: TEST-${{ github.run_number }}-dlc.dat
-          path: TEST-${{ github.run_number }}-dlc.dat
+          name: TEST-${{ github.run_number }}-geosite.dat
+          path: TEST-${{ github.run_number }}-geosite.dat
