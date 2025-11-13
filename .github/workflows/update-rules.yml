@@ -2,7 +2,7 @@ name: Update and Build Rules
 
 on:
   schedule:
-    - cron: "0 0 4 * * ?"
+    - cron: "0 20 * * *"
 
 jobs:
   build:
