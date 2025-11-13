@@ -23,42 +23,115 @@ Each file in the `data` directory can be used as a rule in this format: `geosite
       "type": "field",
       "outboundTag": "Reject",
       "domain": [
-        "geosite:category-ads-all",
-        "geosite:category-porn"
+        "geosite:sogouinput",
+        "geosite:reject",
+        "geosite:reject_extra",
+        "geosite:reject-drop",
+        "geosite:reject-no-drop"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Proxy",
+      "domain": ["geosite:cdn"]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Stream",
+      "domain": ["geosite:stream"]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Telegram",
+      "domain": ["geosite:telegram"]
+    },
+    {
+      "type": "field",
+      "outboundTag": "AppleCDN",
+      "domain": [
+        "geosite:apple_cdn"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "MicrosoftCDN",
+      "domain": [
+        "geosite:microsoft_cdn"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Download",
+      "domain": [
+        "geosite:download"
       ]
     },
     {
       "type": "field",
       "outboundTag": "Direct",
       "domain": [
-        "domain:icloud.com",
-        "domain:icloud-content.com",
-        "domain:cdn-apple.com",
-        "geosite:cn",
-        "geosite:private"
+        "geosite:apple_cn"
       ]
     },
     {
       "type": "field",
-      "outboundTag": "Proxy-1",
+      "outboundTag": "Apple",
       "domain": [
-        "geosite:category-anticensorship",
-        "geosite:category-media",
-        "geosite:category-vpnservices"
+        "geosite:apple_services"
       ]
     },
     {
       "type": "field",
-      "outboundTag": "Proxy-2",
+      "outboundTag": "Microsoft",
       "domain": [
-        "geosite:category-dev"
+        "geosite:microsoft"
       ]
     },
     {
       "type": "field",
-      "outboundTag": "Proxy-3",
+      "outboundTag": "AI",
       "domain": [
-        "geosite:geolocation-!cn"
+        "geosite:ai"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Proxy",
+      "domain": [
+        "geosite:global"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Direct",
+      "domain": [
+        "geosite:domestic",
+        "geosite:lan"
+      ]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Reject",
+      "domain": [
+        "geoip:reject"
+      ]
+    }
+    {
+      "type": "field",
+      "outboundTag": "Telegram",
+      "domain": ["geoip:telegram"]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Stream",
+      "domain": ["geoip:stream"]
+    },
+    {
+      "type": "field",
+      "outboundTag": "Direct",
+      "domain": [
+        "geoip:lan",
+        "geoip:cn"
       ]
     }
   ]
