@@ -1,0 +1,10 @@
+full:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+full:av.jkforum.net
+full:avbebe.com
+full:hanime1.me
+domain:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+domain:cdn.hinet.net
+regexp:^[\w.-]*?\.ffzy-online[\w.-]\.com$
+regexp:^[\w.-]*?\.ffzy-play[\w.-]\.com$
+regexp:^[\w.-]*?\.lz-cdn[\w.-]\.com$
+regexp:^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$
