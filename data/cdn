@@ -24,6 +24,7 @@ full:cdn.glitch.global
 full:code.iconify.design
 full:api.iconify.design
 full:fonts1.unidays.world
+full:tubi.video
 full:img.api.video
 full:namedotcom-cdn.name.tools
 full:pics.javhd.today
@@ -1012,6 +1013,7 @@ full:media.nbcnewyork.com
 full:media.nationwide.com
 full:tags.nationwide.com
 full:r2cdn.myshopline.com
+full:cdn.myfutanari.com
 full:assets.mastercard.com
 full:lift-ai-js.marketlinc.com
 full:clickup.marketlinc.com
@@ -1136,6 +1138,7 @@ full:files.armorgames.com
 full:cache.armorgames.com
 full:agi.armorgames.com
 full:static.adguardvpn.com
+full:static.3dporndude.com
 full:cdn.zhujiwiki.com
 full:assets.zerohedge.com
 full:cdn.scripts.wtwhmedia.com
@@ -1231,6 +1234,7 @@ full:images.macrumors.com
 full:cdn.lineicons.com
 full:scdn.line-apps.com
 full:cdn.lgrckt-in.com
+full:images.justwatch.com
 full:cdn.joypixels.com
 full:cdn.joinhoney.com
 full:cdn.jetphotos.com
@@ -1879,6 +1883,7 @@ full:widgets.turnto.com
 full:cdn-web.tunein.com
 full:cdn-cms.tunein.com
 full:static.tumblr.com
+full:canvas-lb.tubitv.com
 full:cdn2.ttloli.com
 full:cdn.ttloli.com
 full:cdn.tracxn.com
@@ -2045,6 +2050,7 @@ full:d2c.aws.amazon.com
 full:time.akamai.com
 full:static.ahrefs.com
 full:cdn1.affirm.com
+full:img.321cdn.com
 full:static.zuora.com
 full:barracuda-assets.zoovu.com
 full:barracuda-cdn.zoovu.com
@@ -2242,6 +2248,8 @@ full:assets.play.xbox.com
 full:livemap-tiles1.waze.com
 full:web-assets.waze.com
 full:cdnstatic.w1mp.com
+full:images2.vudu.com
+full:images.vudu.com
 full:cdn.vnoc.com
 full:tn.vjav.com
 full:vice-web-statics-cdn.vice.com
@@ -2466,10 +2474,15 @@ full:cdn1.hotmoza.tv
 full:clips-media-assets2.twitch.tv
 full:assets.twitch.tv
 full:embed.twitch.tv
+full:static.tella.tv
+full:static-homepage-en.pluto.tv
 full:images.pluto.tv
 full:assets-cdn.jable.tv
 full:assetscdn.jable.tv
 full:assets.jable.tv
+full:himeko.iwara.tv
+full:files.iwara.tv
+full:clara.iwara.tv
 full:i.iwara.tv
 full:imgcn5.bgmbk.tv
 full:imgcn4.bgmbk.tv
@@ -2478,6 +2491,7 @@ full:imgcn2.bgmbk.tv
 full:imgcn.bgmbk.tv
 full:cdn.18jav.tv
 full:static.yfsp.tv
+full:mcdn.tubi.tv
 full:s-cdnstatic.svc.litv.tv
 full:p-cdnstatic.svc.litv.tv
 full:jsmodule.svc.litv.tv
@@ -3261,6 +3275,7 @@ domain:superfiliate-cdn.com
 domain:steamusercontent.com
 domain:spreadshirtmedia.com
 domain:googleadservices.com
+domain:dolphin-anty-cdn.com
 domain:cloudflarestream.com
 domain:squarespace-cdn.com
 domain:runkit-packages.com

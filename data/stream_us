@@ -3,10 +3,16 @@ full:staticasiafox.akamaized.net
 full:dashasiafox.akamaized.net
 full:bcbolt446c5271-a.akamaihd.net
 full:edge.api.brightcove.com
+full:athome.fandango.com
 full:cbsplaylistserver.aws.syncbak.com
 full:cbsservice.aws.syncbak.com
 full:prod-api.crackle.com
+full:tubitv.com
+full:www.tubitv.com
 full:cbsi.live.ott.irdeto.com
+full:vudu.com
+full:tubi.tv
+full:www.tubi.tv
 domain:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 domain:paramountplus.com
 domain:discoveryplus.com
@@ -23,7 +29,6 @@ domain:uplynk.com
 domain:huluim.com
 domain:foxdcg.com
 domain:dnitv.com
-domain:vudu.com
 domain:hulu.com
 domain:cbsi.com
 domain:sho.com
@@ -35,4 +40,5 @@ domain:hulu.tv
 domain:hjholdings.jp
 domain:happyon.jp
 domain:hulu.jp
+domain:production-public.tubi.io
 domain:discoveryplus.in
