@@ -830,5 +830,4 @@ domain:22.cn
 domain:t.cn
 domain:6.cn
 domain:3.cn
-domain:chaoxing.cc
 regexp:^[\w.-]*?\.qhimgs[\w.-]\.com$

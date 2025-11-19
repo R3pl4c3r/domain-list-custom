@@ -72,6 +72,7 @@ full:statics-prod.mirrordaily.news
 full:assets-next.matters.news
 full:assets.matters.news
 full:web-api-cdn.ground.news
+full:media.raven.news
 full:static.bad.news
 full:content.api.news
 full:pics.hentai.name
@@ -166,6 +167,7 @@ full:cdn.simpleicons.org
 full:storage.sciencecast.org
 full:cdn.sciencecast.org
 full:play.publicradio.org
+full:covers.openlibrary.org
 full:tiles.openfreemap.org
 full:media.hentaifreak.org
 full:ximage.c-spanvideo.org
@@ -348,6 +350,7 @@ full:cdn.wishpond.net
 full:scontent.whatsapp.net
 full:static.whatsapp.net
 full:cdn.viafoura.net
+full:cdn.pi.spectrum.net
 full:cdn.mcauto-images-production.sendgrid.net
 full:static.queue-it.net
 full:assets.queue-it.net
@@ -548,6 +551,7 @@ full:static.bit.dev
 full:cdn.bfe.dev
 full:cdn.builderprofile.aws.dev
 full:cdn.us-east-1.prod.moon.dubai.aws.dev
+full:cdn.decrypt.day
 full:runkit-packages-static-executables.com
 full:cdn-a.sonyentertainmentnetwork.com
 full:useruploads.visualwebsiteoptimizer.com
@@ -664,6 +668,7 @@ full:js.verygoodvault.com
 full:cdn.thewirecutter.com
 full:cdn.stellarhosted.com
 full:assets.static-upwork.com
+full:images.spectrumnews1.com
 full:cdn.sitesearch360.com
 full:cdn.shoppinggives.com
 full:scripts.scriptwrapper.com
@@ -1071,6 +1076,10 @@ full:widget.freshworks.com
 full:dam.freshworks.com
 full:static.freeimages.com
 full:images.freeimages.com
+full:s4.freebeacon.com
+full:s3.freebeacon.com
+full:s2.freebeacon.com
+full:s1.freebeacon.com
 full:imgproxy.fourthwall.com
 full:themes.fourthwall.com
 full:cdn.fourthwall.com
@@ -1302,6 +1311,7 @@ full:www-res.cablelabs.com
 full:badge.buildkite.com
 full:media.breitbart.com
 full:static.bravoporn.com
+full:cdn.blogarama.com
 full:images.blockscan.com
 full:assets.bitwarden.com
 full:upos-sz-mirrorcosbstar1.bilivideo.com
@@ -1523,6 +1533,7 @@ full:s1.coincarp.com
 full:dynamic-assets.coinbase.com
 full:static-assets.coinbase.com
 full:assets.coinbase.com
+full:assets.codeguru.com
 full:logo.clearbit.com
 full:assets-growth-common.circleci.com
 full:assets-docs.circleci.com
@@ -1751,6 +1762,12 @@ full:perf.hsforms.com
 full:static.hosting.com
 full:static.heavy-r.com
 full:public.hare200.com
+full:us3.hamreus.com
+full:us2.hamreus.com
+full:us1.hamreus.com
+full:eu3.hamreus.com
+full:eu2.hamreus.com
+full:eu1.hamreus.com
 full:us.hamreus.com
 full:eu.hamreus.com
 full:cf.hamreus.com
@@ -1861,6 +1878,7 @@ full:static.zaobao.com
 full:rapid-cdn.yottaa.com
 full:cdn.xvidzz.com
 full:img.xhacgn.com
+full:img.xbooru.com
 full:website-prod.cache.wpscdn.com
 full:frontend-apps.workos.com
 full:cdn.workos.com
@@ -2077,6 +2095,7 @@ full:cdn.whoer.com
 full:content.wepik.com
 full:scripts.webeo.com
 full:cdnstatic.w4nkr.com
+full:swan.prod.merch.vpsvc.com
 full:assets.volvo.com
 full:assets.vogue.com
 full:player.vimeo.com
@@ -2118,6 +2137,7 @@ full:fesdk.nexon.com
 full:static.music.com
 full:cdn.music.com
 full:assets.monei.com
+full:cf.mhgui.com
 full:static.lingq.com
 full:cdn.lihkg.com
 full:static-exp3.licdn.com
@@ -2155,6 +2175,7 @@ full:talk.hyvor.com
 full:video-meta.humix.com
 full:assets.humix.com
 full:static.gopro.com
+full:i.git99.com
 full:media4.giphy.com
 full:media3.giphy.com
 full:media2.giphy.com
@@ -2805,6 +2826,8 @@ full:static.ffx.io
 full:eep.io
 full:registry.api.cnn.io
 full:cdn.db.io
+full:sr-cdn-1.shiprocket.in
+full:sellon.shiprocket.in
 full:static.snaptube.in
 full:object.innei.in
 full:assets.monica.im
@@ -3123,6 +3146,7 @@ domain:blackbaudcdn.net
 domain:storage.yandexcloud.net
 domain:tapecontent.net
 domain:staticworld.net
+domain:staticstack.net
 domain:f.hubspotfree.net
 domain:hsappstatic.net
 domain:divio-media.net
@@ -3360,6 +3384,7 @@ domain:trackerslist.com
 domain:tiktokcdn-us.com
 domain:tiktokcdn-eu.com
 domain:susercontent.com
+domain:strpssts-ana.com
 domain:stripeassets.com
 domain:staticflickr.com
 domain:ipfs.soul-network.com
@@ -3827,6 +3852,7 @@ domain:ypcdn.com
 domain:xhcdn.com
 domain:wsimg.com
 domain:wixmp.com
+domain:cloudinary.vpsvc.com
 domain:uvcdn.com
 domain:unpkg.com
 domain:twimg.com

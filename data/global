@@ -25,11 +25,13 @@ domain:dnscheck.tools
 domain:bgp.tools
 domain:archive.today
 domain:javhd.today
+domain:rocks
 domain:party
 domain:smashing.media
 domain:github.media
 domain:discourse.group
 domain:sketch.cloud
+domain:fish.audio
 domain:minecraft.wiki
 domain:w.wiki
 domain:matters.town
@@ -49,6 +51,7 @@ domain:goog
 domain:sfmcompile.club
 domain:cafe
 domain:github.blog
+domain:micro.blog
 domain:picacomic.xyz
 domain:wikawika.xyz
 domain:bikaios.xyz
@@ -78,11 +81,13 @@ domain:lumendatabase.org
 domain:annas-archive.org
 domain:waveprotocol.org
 domain:thepiratebay.org
+domain:freecodecamp.org
 domain:wikiversity.org
 domain:whatbrowser.org
 domain:webmproject.org
 domain:signalusers.org
 domain:shadowsocks.org
+domain:openlibrary.org
 domain:openfreemap.org
 domain:letsencrypt.org
 domain:dnsleaktest.org
@@ -181,6 +186,7 @@ domain:vesselfinder.net
 domain:tokto-motion.net
 domain:reutersmedia.net
 domain:azure-mobile.net
+domain:underhentai.net
 domain:tokyomotion.net
 domain:sourceforge.net
 domain:myanimelist.net
@@ -234,9 +240,11 @@ domain:hanmail.net
 domain:edgeapp.net
 domain:blogjav.net
 domain:behance.net
+domain:av-wiki.net
 domain:apkpure.net
 domain:yandex.net
 domain:sc-cdn.net
+domain:riseup.net
 domain:osmand.net
 domain:nitter.net
 domain:komoot.net
@@ -252,6 +260,7 @@ domain:reimu.net
 domain:quad9.net
 domain:pximg.net
 domain:pixiv.net
+domain:pawoo.net
 domain:naixi.net
 domain:hinet.net
 domain:fbcdn.net
@@ -367,6 +376,7 @@ domain:githubstatus.com
 domain:githubassets.com
 domain:girlsgogames.com
 domain:downdetector.com
+domain:dockerstatus.com
 domain:digitalocean.com
 domain:creativelab5.com
 domain:clubhouseapi.com
@@ -383,6 +393,7 @@ domain:truthsocial.com
 domain:tradingview.com
 domain:thingiverse.com
 domain:theregister.com
+domain:theporndude.com
 domain:theguardian.com
 domain:theatlantic.com
 domain:techpowerup.com
@@ -443,9 +454,11 @@ domain:javlibrary.com
 domain:influxdata.com
 domain:imagevenue.com
 domain:iconfinder.com
+domain:html5rocks.com
 domain:happy-porn.com
 domain:gqhongkong.com
 domain:fxnetworks.com
+domain:freebeacon.com
 domain:firebaseio.com
 domain:findagrave.com
 domain:feedburner.com
@@ -464,6 +477,7 @@ domain:androidify.com
 domain:adguardcdn.com
 domain:accountkit.com
 domain:3dporndude.com
+domain:xvideo-jp.com
 domain:xdaforums.com
 domain:wordpress.com
 domain:wireguard.com
@@ -493,6 +507,8 @@ domain:newyorker.com
 domain:myipstack.com
 domain:messenger.com
 domain:mediafire.com
+domain:manhuagui.com
+domain:mailchimp.com
 domain:macupdate.com
 domain:line-apps.com
 domain:instagram.com
@@ -545,6 +561,7 @@ domain:quillbot.com
 domain:porntube.com
 domain:porntrex.com
 domain:pornpics.com
+domain:pornmate.com
 domain:pornhost.com
 domain:poeditor.com
 domain:pastebin.com
@@ -568,6 +585,7 @@ domain:liteapks.com
 domain:linkedin.com
 domain:linecorp.com
 domain:leetcode.com
+domain:konachan.com
 domain:jsdelivr.com
 domain:instatus.com
 domain:imagefap.com
@@ -713,6 +731,7 @@ domain:4shared.com
 domain:zbporn.com
 domain:yandex.com
 domain:y2mate.com
+domain:xbooru.com
 domain:weebly.com
 domain:vrporn.com
 domain:vmware.com
@@ -762,6 +781,7 @@ domain:mojang.com
 domain:missav.com
 domain:meetup.com
 domain:medium.com
+domain:maxjav.com
 domain:mapbox.com
 domain:macpaw.com
 domain:ledger.com
@@ -784,6 +804,7 @@ domain:gitlab.com
 domain:github.com
 domain:getchu.com
 domain:genius.com
+domain:framer.com
 domain:forbes.com
 domain:flickr.com
 domain:fixupx.com
@@ -910,6 +931,7 @@ domain:kwai.com
 domain:kobo.com
 domain:kick.com
 domain:kagi.com
+domain:jiji.com
 domain:java.com
 domain:ixxx.com
 domain:imdb.com
@@ -946,6 +968,7 @@ domain:sex.com
 domain:one.com
 domain:okx.com
 domain:nyt.com
+domain:ny1.com
 domain:now.com
 domain:nbc.com
 domain:kik.com
@@ -982,6 +1005,7 @@ domain:z.com
 domain:x.com
 domain:pomf.cat
 domain:line.biz
+domain:bet
 domain:aws
 domain:signal.art
 domain:edgecompute.app
@@ -1019,11 +1043,13 @@ domain:sb
 domain:sa
 domain:ru
 domain:rs
+domain:ro
 domain:re
 domain:jav.pw
 domain:ps
 domain:pm
 domain:pl
+domain:pk
 domain:ph
 domain:pe
 domain:nz
@@ -1034,6 +1060,7 @@ domain:mx
 domain:ms
 domain:j.mp
 domain:mn
+domain:mg
 domain:line-beta.me
 domain:hanimeone.me
 domain:mangafox.me
@@ -1059,6 +1086,7 @@ domain:kg
 domain:jp
 domain:it
 domain:is
+domain:ir
 domain:azurecontainer.io
 domain:cla-assistant.io
 domain:ubuntu-touch.io
@@ -1129,6 +1157,9 @@ domain:elgoog.im
 domain:spot.im
 domain:npm.im
 domain:imo.im
+domain:ff.im
+domain:il
+domain:ie
 domain:id
 domain:hk
 domain:gs
@@ -1141,6 +1172,7 @@ domain:fm
 domain:eu
 domain:es
 domain:ee
+domain:ec
 domain:linux.do
 domain:dk
 domain:de
@@ -1173,6 +1205,7 @@ domain:520cc.cc
 domain:tiny.cc
 domain:ptt.cc
 domain:ca
+domain:bg
 domain:be
 domain:au
 domain:at
