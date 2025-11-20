@@ -1216,6 +1216,7 @@ full:static.parallels.com
 full:assets.openshift.com
 full:media-cms.onesignal.com
 full:cdn.onesignal.com
+full:cdn.nodeimage.com
 full:cms-assets.nodecraft.com
 full:media.newyorker.com
 full:files.namecheap.com
@@ -3141,6 +3142,7 @@ domain:vusercontent.net
 domain:vscode-unpkg.net
 domain:f.hubspotemail.net
 domain:directupload.net
+domain:dc-telemetry.net
 domain:coral.coralproject.net
 domain:blackbaudcdn.net
 domain:storage.yandexcloud.net
@@ -3365,6 +3367,7 @@ domain:gadgets360cdn.com
 domain:envato-static.com
 domain:dropboxstatic.com
 domain:discourse-cdn.com
+domain:digikeyassets.com
 domain:codepenassets.com
 domain:chesscomfiles.com
 domain:cdn-cookieyes.com
