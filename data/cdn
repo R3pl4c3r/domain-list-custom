@@ -730,6 +730,7 @@ full:static.threatlocker.com
 full:cdn.sunofbeaches.com
 full:media.steampowered.com
 full:cdn.staticdelivr.com
+full:api-cdn.shutterstock.com
 full:image.shutterstock.com
 full:static.serverhunter.com
 full:ak.sail-horizon.com
@@ -792,6 +793,7 @@ full:assets.atlasobscura.com
 full:img.atlasobscura.com
 full:cdn77-t.ashemaletube.com
 full:cdn77.ashemaletube.com
+full:server.arcgisonline.com
 full:photos5.appleinsider.com
 full:widgets.zohosalesiq.com
 full:images.youracclaim.com
@@ -3461,6 +3463,7 @@ domain:e.crashlytics.com
 domain:cloudatacdn.com
 domain:cdn-website.com
 domain:bstarstatic.com
+domain:storage.boilerplate.com
 domain:bleepstatic.com
 domain:bestfreecdn.com
 domain:ancestrycdn.com
