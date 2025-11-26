@@ -274,6 +274,7 @@ full:cdn.tokyo-motion.net
 full:blacklist.tampermonkey.net
 full:cdn.sapphire.microsoftapp.net
 full:static.edge.microsoftapp.net
+full:images.wurstclient.net
 full:images.wsjcommerce.net
 full:static.underhentai.net
 full:sourcemaps.squarespace.net
@@ -378,6 +379,7 @@ full:spoprod-a.akamaihd.net
 full:lumiere-a.akamaihd.net
 full:img.adspower.net
 full:cdn.yamibuy.net
+full:image.xmanhua.net
 full:cdn.writeas.net
 full:unlimited-cdn.waifu2x.net
 full:social-cdn.vivaldi.net
@@ -1338,6 +1340,9 @@ full:app.1password.com
 full:i.1password.com
 full:c.1password.com
 full:ws-assets.zoominfo.com
+full:image.yymanhua.com
+full:cover.yymanhua.com
+full:css.yymanhua.com
 full:static.xxxshake.com
 full:i.xxxshake.com
 full:images-eds-ssl.xboxlive.com
@@ -1834,6 +1839,10 @@ full:cdn.devdojo.com
 full:import-cdn.default.com
 full:cdn.datdota.com
 full:proxy.csidetm.com
+full:static.comicbz.com
+full:image.comicbz.com
+full:cover.comicbz.com
+full:css.comicbz.com
 full:player-frontend.cnevids.com
 full:player.cnevids.com
 full:data.web.clickup.com
@@ -2004,6 +2013,7 @@ full:staging-pubfeed.linkby.com
 full:ledger-wp-website-s3-prd.ledger.com
 full:assets-cms.kraken.com
 full:assets.kraken.com
+full:public.komiic.com
 full:brand-sdk.kmsmep.com
 full:js.klarna.com
 full:cdn.kinsta.com
