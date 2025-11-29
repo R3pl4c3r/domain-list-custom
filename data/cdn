@@ -268,6 +268,7 @@ full:headway-widget.net
 full:cdn.consentmanager.net
 full:oct8neproxy.azurewebsites.net
 full:d4.alternativeto.net
+full:ecn.dev.virtualearth.net
 full:static.vesselfinder.net
 full:map.vesselfinder.net
 full:cdn.tokyo-motion.net
@@ -2336,6 +2337,7 @@ full:zephr-templates.cnbc.com
 full:production-cmp.isgprivacy.cbsi.com
 full:at.cbsi.com
 full:th.bing.com
+full:r.bing.com
 full:i.bang.com
 full:img.atom.com
 full:g-static.ap4r.com
@@ -2874,6 +2876,7 @@ full:cdn.player.fm
 full:icons.llamao.fi
 full:cdn.european-alternatives.eu
 full:cravatar.eu
+full:upload.movim.eu
 full:img.agrd.eu
 full:st.agrd.eu
 full:versionbadg.es
@@ -3153,6 +3156,7 @@ domain:gitlab-static.net
 domain:cdn.prod.atlassian-dev.net
 domain:vusercontent.net
 domain:vscode-unpkg.net
+domain:tiles.virtualearth.net
 domain:f.hubspotemail.net
 domain:directupload.net
 domain:dc-telemetry.net
