@@ -11,6 +11,7 @@ full:mirror.eliv.digital
 full:mirror.jeonnam.school
 full:mirrors.gethosted.online
 full:mirror.kkg.berlin
+full:gotest.tools
 full:mirror.bgp.rodeo
 full:dl.thorium.rocks
 full:jing.rocks
@@ -118,7 +119,10 @@ full:mirrors.edge.kernel.org
 full:mirrors.us.kernel.org
 full:plugins-artifacts.gradle.org
 full:repo.gradle.org
+full:google.golang.org
 full:proxy.golang.org
+full:index.golang.org
+full:sum.golang.org
 full:mirror.faraso.org
 full:security.debian.org
 full:ftp.us.debian.org
@@ -988,6 +992,7 @@ full:ctan.yazd.ac.ir
 full:repo.iut.ac.ir
 full:ctan.um.ac.ir
 full:download.projectbluefin.io
+full:go.opentelemetry.io
 full:packagecloud.io
 full:assets-production.packagecloud.io
 full:mirror.realcompute.io
@@ -1030,6 +1035,7 @@ full:mirror.bom2.albony.in
 full:mirror.del.albony.in
 full:mirror.bom.albony.in
 full:gopkg.in
+full:go.yaml.in
 full:ctan.imsc.res.in
 full:ubuntu-mirror.snu.edu.in
 full:mirror.ietlucknow.ac.in
