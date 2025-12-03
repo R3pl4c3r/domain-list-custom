@@ -435,6 +435,8 @@ full:static.vocadb.net
 full:images1.vinted.net
 full:craftassets.unraid.net
 full:components.trynow.net
+full:lzd-img-global.slatic.net
+full:icms-image.slatic.net
 full:maptile.osmand.net
 full:data.osmand.net
 full:attachments.office.net
@@ -3829,6 +3831,7 @@ domain:tiles.mapbox.com
 domain:loggly.com
 domain:lodash.com
 domain:locimg.com
+domain:lazcdn.com
 domain:app.khoros.com
 domain:jwpsrv.com
 domain:jwpcdn.com
