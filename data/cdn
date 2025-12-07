@@ -1126,7 +1126,6 @@ full:favicons.teams.cloudflare.com
 full:cdnjs.cloudflare.com
 full:time.cloudflare.com
 full:info.cloudflare.com
-full:static.dash.cloudflare.com
 full:ajax.cloudflare.com
 full:cf-assets.www.cloudflare.com
 full:imagecdn.clips4sale.com
@@ -3545,6 +3544,7 @@ domain:descopecdn.com
 domain:ipfs0.sjc.cloudsigma.com
 domain:privacy-gateway.cloudflare.com
 domain:csp-reporting.cloudflare.com
+domain:static.dash.cloudflare.com
 domain:nel.cloudflare.com
 domain:static.chaosgroup.com
 domain:cdnclouder.com
