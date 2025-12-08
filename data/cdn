@@ -189,9 +189,6 @@ full:cdn.travis-ci.org
 full:light.spicegems.org
 full:user-uploads.perchance.org
 full:s13.maxstream.org
-full:s11.maxstream.org
-full:s10.maxstream.org
-full:s9.maxstream.org
 full:s8.maxstream.org
 full:s1.maxstream.org
 full:cdn.freesound.org
@@ -1700,6 +1697,7 @@ full:cdn-main.plus500.com
 full:cdn.plus500.com
 full:cdn.pixabay.com
 full:static.pingcap.com
+full:hawky.pcgamer.com
 full:c17.patreon.com
 full:c16.patreon.com
 full:c14.patreon.com
@@ -1860,7 +1858,6 @@ full:api.bintray.com
 full:affportal.bhphoto.com
 full:promotions.betfair.com
 full:media.beehiiv.com
-full:chat-content.beanfun.com
 full:assets.basehub.com
 full:hiveplayer-static.bamgrid.com
 full:cdn-mobile.aptoide.com
@@ -2537,7 +2534,6 @@ full:imgcn2.bgmbk.tv
 full:imgcn.bgmbk.tv
 full:cdn.18jav.tv
 full:static.yfsp.tv
-full:mcdn.tubi.tv
 full:s-cdnstatic.svc.litv.tv
 full:p-cdnstatic.svc.litv.tv
 full:jsmodule.svc.litv.tv
@@ -2745,6 +2741,7 @@ full:cdn.metadata.io
 full:cdn.jetboost.io
 full:widget.intercom.io
 full:icon.icepanel.io
+full:cdn.hackaday.io
 full:cdn.commento.io
 full:static.assetlab.io
 full:code.upscope.io
@@ -2904,7 +2901,6 @@ full:before.good-apps.co
 full:static.convertio.co
 full:assets.jolipage.co
 full:cdn.jolipage.co
-full:statics.erothots.co
 full:img.decrypt.co
 full:cdn.decrypt.co
 full:s4.anilist.co

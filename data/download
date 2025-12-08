@@ -63,7 +63,6 @@ full:mirror.keystealth.org
 full:update.greasyfork.org
 full:releases.grapheneos.org
 full:dennou-k.gfd-dennou.org
-full:gnu.freemirror.org
 full:repo.extreme-ix.org
 full:repos.del.extreme-ix.org
 full:artifacts.electronjs.org
@@ -1036,7 +1035,6 @@ full:mirror.del.albony.in
 full:mirror.bom.albony.in
 full:gopkg.in
 full:go.yaml.in
-full:ctan.imsc.res.in
 full:ubuntu-mirror.snu.edu.in
 full:mirror.ietlucknow.ac.in
 full:mirror.nitc.ac.in
@@ -1367,6 +1365,7 @@ domain:copr.fedorainfracloud.org
 domain:mirrorservice.org
 domain:pythonhosted.org
 domain:getcomposer.org
+domain:freemirror.org
 domain:dl.wireshark.org
 domain:packagist.org
 domain:tmpfiles.org
