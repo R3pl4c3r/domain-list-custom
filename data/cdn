@@ -1,5 +1,4 @@
 full:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-full:website-cdn
 full:cdn.arcade.software
 full:media.infosec.exchange
 full:static.ada.support
@@ -806,6 +805,7 @@ full:static.webclicks24.com
 full:cdn.webclicks24.com
 full:live.visually-io.com
 full:app.viral-loops.com
+full:vectorified.com
 full:static-cdn.usertesting.com
 full:asset-cdn.uscardforum.com
 full:www-cdn.uscardforum.com
@@ -897,6 +897,7 @@ full:a.kickstarter.com
 full:asset.jamieoliver.com
 full:cdn.jamieoliver.com
 full:media.istockphoto.com
+full:cdn.ip2location.com
 full:content.invisioncic.com
 full:media.invisioncic.com
 full:static.hugedomains.com
@@ -1909,6 +1910,7 @@ full:marketplace-web-assets.vinted.com
 full:static-assets.vinted.com
 full:static.vinted.com
 full:img.vim-cn.com
+full:images.vexels.com
 full:telemetry.vercel.com
 full:assets.vercel.com
 full:image.ship.vercel.com
@@ -2033,6 +2035,7 @@ full:cdn5.hextom.com
 full:cdn3.hextom.com
 full:cdn2.hextom.com
 full:cdn.hextom.com
+full:nel.heroku.com
 full:image.gyutto.com
 full:android-safebrowsing.google.com
 full:safebrowsing.google.com
@@ -2758,6 +2761,7 @@ full:static.opensea.io
 full:favicons.nextdns.io
 full:cdn.logbase.io
 full:media.lantern.io
+full:cdn.ipwhois.io
 full:cdn.icomoon.io
 full:assets.holopin.io
 full:geojson.io
@@ -2785,6 +2789,7 @@ full:files.readme.io
 full:cdn.readme.io
 full:favicon.pirsch.io
 full:edge.marker.io
+full:website-cdn.ipinfo.io
 full:assets.hackmd.io
 full:gohugo.io
 full:cdn-web.fydeos.io
