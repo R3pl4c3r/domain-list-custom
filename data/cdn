@@ -1073,6 +1073,9 @@ full:fonts.googleapis.com
 full:chart.googleapis.com
 full:ajax.googleapis.com
 full:sync.getpublica.com
+full:identity-assets.getpostman.com
+full:static.getpostman.com
+full:assets.getpostman.com
 full:connect.getflowbox.com
 full:static-r2.gear4music.com
 full:r2.gear4music.com
@@ -2024,6 +2027,7 @@ full:assets.khoros.com
 full:kdata1.com
 full:code.jquery.com
 full:cdn.jitbit.com
+full:cache.ip-api.com
 full:static.inferno.iheart.com
 full:web-static.pages.iheart.com
 full:i.iheart.com
@@ -2179,6 +2183,7 @@ full:icdn.javxx.com
 full:cdn.javmg.com
 full:creator-image.javhd.com
 full:static.javhd.com
+full:assets.ipapi.com
 full:i.ioiox.com
 full:pim-media.intel.com
 full:imgopt.infoq.com
@@ -2705,6 +2710,7 @@ full:images.microcms-assets.io
 full:assets-next.mattersprotocol.io
 full:cdn.simplelocalize.io
 full:edge.sitecorecloud.io
+full:static.ipgeolocation.io
 full:telemetry.stepsecurity.io
 full:edge.personalizer.io
 full:images.contentstack.io
@@ -2743,6 +2749,7 @@ full:img.telemetr.io
 full:prettier.io
 full:cdn.metadata.io
 full:cdn.jetboost.io
+full:static.iplocate.io
 full:widget.intercom.io
 full:icon.icepanel.io
 full:cdn.hackaday.io
@@ -2807,6 +2814,7 @@ full:cdn.split.io
 full:apps.sophi.io
 full:js.smile.io
 full:js.short.io
+full:documenter-assets.pstmn.io
 full:skills-assets.pstmn.io
 full:topbar-static.piano.io
 full:experience-ap.piano.io
@@ -3252,6 +3260,7 @@ domain:pximg.net
 domain:pixfs.net
 domain:nsimg.net
 domain:imgix.net
+domain:hrcdn.net
 domain:ftcdn.net
 domain:fonts.net
 domain:fmcdn.net
