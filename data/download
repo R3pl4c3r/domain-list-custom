@@ -54,6 +54,8 @@ full:mirror.mci-1.serverforge.org
 full:mirror.cyberchains.org
 full:cpan.cpantesters.org
 full:dl-cdn.alpinelinux.org
+full:static.torproject.org
+full:deb.torproject.org
 full:mirror.team-cymru.org
 full:mirror.stjschools.org
 full:update.sleazyfork.org
@@ -102,6 +104,8 @@ full:mirror.freedif.org
 full:distcache.freebsd.org
 full:ftp.kr.freebsd.org
 full:dl.flathub.org
+full:f-droid.org
+full:cloudflare.f-droid.org
 full:httpd-mirror.sergal.org
 full:ftp-osl.osuosl.org
 full:ftp-nyc.osuosl.org
@@ -228,6 +232,7 @@ full:ftp.ubuntu-tw.net
 full:ubuntu.pishgaman.net
 full:mirror.ossplanet.net
 full:mirror.fi.ossplanet.net
+full:mirror.eu.ossplanet.net
 full:mirror.us.oneandone.net
 full:mirror.eu.oneandone.net
 full:mirror.olnevhost.net
