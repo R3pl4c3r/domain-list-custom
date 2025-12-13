@@ -1007,7 +1007,6 @@ full:assets.sendinblue.com
 full:resources.help.salesforce.com
 full:wp.salesforce.com
 full:cdn.safecharge.com
-full:cdn.report-uri.com
 full:qmod.quotemedia.com
 full:app.quotemedia.com
 full:cdn.promotekit.com
@@ -1994,6 +1993,7 @@ full:i.niupic.com
 full:article-image-ix.nikkei.com
 full:instafeed.nfcube.com
 full:cdn.nfcube.com
+full:images10.newegg.com
 full:c1.newegg.com
 full:nbcnewsdigital-static.nbcuni.com
 full:s.namemc.com
@@ -2559,6 +2559,7 @@ full:pptstatic.iyf.tv
 full:static.iyf.tv
 full:lain.bgm.tv
 full:embed-v2.testimonial.to
+full:icdn.missav123.to
 full:img.sflix.to
 full:embed.tawk.to
 full:media.mas.to
@@ -3065,6 +3066,7 @@ domain:imgmrplay.xyz
 domain:ipfs.4everland.xyz
 domain:hencover.xyz
 domain:flk-ipfs.xyz
+domain:fembeqv2.xyz
 domain:zorocdn.xyz
 domain:pornimg.xyz
 domain:jstatic.xyz
@@ -3522,6 +3524,7 @@ domain:cdn.serverable.com
 domain:sentry-cdn.com
 domain:sbcdnvideo.com
 domain:ipfs.runfission.com
+domain:report-uri.com
 domain:placewaifu.com
 domain:patientpop.com
 domain:cdn.optimizely.com
@@ -3618,6 +3621,7 @@ domain:hentaiera.com
 domain:hentaicdn.com
 domain:hdzyk-cdn.com
 domain:img.haiwaikan.com
+domain:gitmirror.com
 domain:assets.getpocket.com
 domain:framercdn.com
 domain:forbesimg.com
@@ -3958,6 +3962,9 @@ domain:storry.tv
 domain:ninjastream.to
 domain:easylist.to
 domain:pixhost.to
+domain:2026cdn.sx
+domain:2025cdn.sx
+domain:2024cdn.sx
 domain:jpg5.su
 domain:cdn-zlib.sk
 domain:registry.gitplac.si
