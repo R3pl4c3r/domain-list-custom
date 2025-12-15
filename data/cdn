@@ -1299,6 +1299,7 @@ full:cdn2.epicgames.com
 full:cdn1.epicgames.com
 full:talon-website-prod.ecosec.on.epicgames.com
 full:epic-social-social-modules-prod.ol.epicgames.com
+full:assets.endorsely.com
 full:marber-cdn.economist.com
 full:cmp-cdn.p.aws.economist.com
 full:cdn.doofinder.com
@@ -1409,6 +1410,7 @@ full:source.roboflow.com
 full:cdn.roboflow.com
 full:app.roboflow.com
 full:api.roboflow.com
+full:prod-images.rippling.com
 full:staticsource1.redotpay.com
 full:redircdn.com
 full:cacerts.rapidssl.com
@@ -2676,6 +2678,7 @@ full:img3.yna.co.kr
 full:img2.yna.co.kr
 full:img1.yna.co.kr
 full:img0.yna.co.kr
+full:img.yna.co.kr
 full:media.cmx.edu.kg
 full:media.yukimochi.jp
 full:listing-thumbnail.live.nicovideo.jp
@@ -2906,6 +2909,7 @@ full:sp-spiegel-de.spiegel.de
 full:cdn.prod.www.spiegel.de
 full:www.acgpix.de
 full:cdn.ionos.de
+full:assets.openalternative.co
 full:cdn.stackoverflow.co
 full:cdn-avatars.huggingface.co
 full:waitlisted.co
@@ -3583,6 +3587,7 @@ domain:ut-assets.com
 domain:ttwstatic.com
 domain:tokyvideo.com
 domain:tnastatic.com
+domain:tinifycdn.com
 domain:tiktokcdn.com
 domain:thisiscdn.com
 domain:stripecdn.com
