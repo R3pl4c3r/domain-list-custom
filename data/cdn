@@ -70,6 +70,7 @@ full:res2.weblium.site
 full:nextra.site
 full:p.inari.site
 full:imgfile.shop
+full:placeholder.pics
 full:statics-prod.mirrordaily.news
 full:assets-next.matters.news
 full:assets.matters.news
@@ -538,6 +539,7 @@ full:i.jpg.dog
 full:tuf-repo-cdn.sigstore.dev
 full:pkg-size.dev
 full:cdn-web.orbstack.dev
+full:logos.composio.dev
 full:stats.setapp.macpaw.dev
 full:assets.github.dev
 full:fiddle.fastly.dev
@@ -1747,6 +1749,8 @@ full:cdn.moeload.com
 full:static.moegoat.com
 full:images.moegoat.com
 full:image.mgstage.com
+full:acdn.mercury.com
+full:cdn.mercury.com
 full:static.maxmind.com
 full:img-cos.mandaoo.com
 full:assets.mailgun.com
@@ -2640,6 +2644,7 @@ full:cdn.fasterthanli.me
 full:api.crashguard.me
 full:cdn.daradara.me
 full:cf.javfree.me
+full:circle-flags.zeljko.me
 full:cdn.picrew.me
 full:cdn.glitch.me
 full:static.start.me
@@ -2756,6 +2761,7 @@ full:static.tokenview.io
 full:assets.keysquare.io
 full:media.hachyderm.io
 full:static.getbutton.io
+full:assets.mcp.corespeed.io
 full:sandpack-cdn-staging.blazingly.io
 full:img.badgesize.io
 full:img.telemetr.io
@@ -3646,6 +3652,7 @@ domain:doppiocdn.com
 domain:disquscdn.com
 domain:data.debugbear.com
 domain:cnbetacdn.com
+domain:cdn-plain.com
 domain:bnbstatic.com
 domain:bitgetimg.com
 domain:awsstatic.com
