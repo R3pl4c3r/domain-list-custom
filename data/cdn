@@ -2476,12 +2476,14 @@ full:uploads.linear.app
 full:static.linear.app
 full:public.linear.app
 full:e.linear.app
+full:chat-assets.front.app
 full:cdn.rive.app
 full:web-cdn.bsky.app
 full:video.bsky.app
 full:cdn.7tv.app
 full:cdn.24.co.za
 full:s.pacn.ws
+full:appstatico.electronic.us
 full:cdn.donmai.us
 full:us01ccistatic.zoom.us
 full:eu01ccistatic.zoom.us
@@ -2761,6 +2763,7 @@ full:static.tokenview.io
 full:assets.keysquare.io
 full:media.hachyderm.io
 full:static.getbutton.io
+full:r2cdn.corespeed.io
 full:assets.mcp.corespeed.io
 full:sandpack-cdn-staging.blazingly.io
 full:img.badgesize.io
@@ -3391,6 +3394,7 @@ domain:datocms-assets.com
 domain:customeriomail.com
 domain:crunchyrollcdn.com
 domain:colliderimages.com
+domain:betterstackcdn.com
 domain:b2c-contenthub.com
 domain:alonestreaming.com
 domain:zohowebstatic.com
