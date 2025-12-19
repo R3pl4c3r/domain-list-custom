@@ -1935,6 +1935,7 @@ full:stc.utdstc.com
 full:img.utdstc.com
 full:backinstock.useamp.com
 full:api.unisvg.com
+full:i.typlog.com
 full:widgets.turnto.com
 full:cdn-web.tunein.com
 full:cdn-cms.tunein.com
@@ -2322,6 +2323,7 @@ full:static.v2ex.com
 full:cdn.v2ex.com
 full:widget.user.com
 full:media.user.com
+full:prd-www-cdn.ubnt.com
 full:assets.time.com
 full:cdn.sift.com
 full:attach.setn.com
@@ -2458,6 +2460,7 @@ full:oss.moe.cat
 full:ns-cdn.neustar.biz
 full:pics.mf8.biz
 full:static.sdkassets.chime.aws
+full:img.fzf404.art
 full:disco-static.productessentials.app
 full:cdn.giftcardpro.app
 full:do.featurebase.app
@@ -2760,6 +2763,7 @@ full:loutre.blockchair.io
 full:js-cdn.blockchair.io
 full:cdn.transcend.io
 full:static.tokenview.io
+full:cdn.simplesat.io
 full:assets.keysquare.io
 full:media.hachyderm.io
 full:static.getbutton.io
