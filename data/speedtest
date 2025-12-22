@@ -80,7 +80,6 @@ full:speedtest.whiteprovider.net
 full:dllstx-ookla1.vyvebroadband.net
 full:hkthspeedtest02.telstraglobal.net
 full:speed.telcomnetwork.net
-full:nkf-ams.speedtest.royalehosting.net
 full:speedtest.provisiondata.net
 full:speedtest.cenosnetworks.net
 full:speedtest-rd-1.zoominternet.net
@@ -93,7 +92,6 @@ full:speedtest.webdiscount.net
 full:speedtest.ufinetlatam.net
 full:qspt.technofiber.net
 full:speedtest-tr-bursa.servosphere.net
-full:txda.speedtest.pavlovmedia.net
 full:speedtest.packetworks.net
 full:speedtest.nftctelecom.net
 full:dal-speedtest.transtelco.net
@@ -289,6 +287,7 @@ full:speedtest.apnic.net
 full:ny3-speedtest.tier.net
 full:ny2-speedtest.tier.net
 full:speedtest-fkt-eqx.retn.net
+full:speedtest-tpe.retn.net
 full:speedtest-msk.retn.net
 full:speedtest-lon.retn.net
 full:speedtest-hkg.retn.net
@@ -455,7 +454,6 @@ full:beijing.unicomtest.com
 full:speedtestlon.telefonica.com
 full:speedtest-dallas.swyftfiber.com
 full:speedtest.solutechzk.com
-full:ams.speedtest.serverside.com
 full:speedtest.serveroyun.com
 full:speed.serveroyun.com
 full:lg.mia.plasmarack.com
@@ -519,7 +517,6 @@ full:vanspeedtest.altimatel.com
 full:trtspeedtest.altimatel.com
 full:speedtest.altimatel.com
 full:tsdvuspeedtest01p.allstream.com
-full:us.speedtest.airlinkdc.com
 full:speedtest-1.london.network.youfibre.com
 full:sp-thn2.wildanet.com
 full:speedtest.wilcasji.com
@@ -574,7 +571,6 @@ full:speedtest-de.unihost.com
 full:speedtest.tushino.com
 full:speed.turbodc.com
 full:speedtestmiabr.telxius.com
-full:dfw01.speedtest.soraxus.com
 full:speedtest.sercomm.com
 full:sydspeedtest.rackdog.com
 full:ldnspeedtest.rackdog.com
@@ -921,8 +917,6 @@ full:speedtest2.telin.sg
 full:speedtest-sg1.simba.sg
 full:speedtest.myrepublic.com.sg
 full:speedtest.axclusive.com.sg
-full:speedtest.singnet.com.sg
-full:pl.speedtest.singnet.com.sg
 full:m1speedtest1.m1net.com.sg
 full:lon-ix1-tptest1.31173.se
 full:fra-eq5-tptest1.31173.se
@@ -1550,6 +1544,8 @@ domain:measurement-lab.org
 domain:backend.librespeed.org
 domain:speed.misaka.one
 domain:measurementlab.net
+domain:speedtest.royalehosting.net
+domain:speedtest.pavlovmedia.net
 domain:ooklaserver.net
 domain:speed.googlefiber.net
 domain:speedtest.cmcnetworks.net
@@ -1576,7 +1572,9 @@ domain:speedtestcustom.com
 domain:speedtestkorea.com
 domain:hizinitestet.com
 domain:speedtest.gslnetworks.com
+domain:speedtest.serverside.com
 domain:speed.cloudflare.com
+domain:speedtest.airlinkdc.com
 domain:wifiman-stability-test.ubncloud.com
 domain:wifiman.ubncloud.com
 domain:speedtest.kansuiun.com
@@ -1585,6 +1583,7 @@ domain:ookla.ddnsgeek.com
 domain:wifiman.com
 domain:speedtest.waicore.com
 domain:speedtest.starhub.com
+domain:speedtest.soraxus.com
 domain:speedtest.highnet.com
 domain:speedtest.tjokas.com
 domain:speedtest.linode.com
@@ -1600,6 +1599,7 @@ domain:speednet.net.tr
 domain:speedtest.gibir.net.tr
 domain:speedtest.comnet.com.tr
 domain:speedtest.com.sg
+domain:speedtest.singnet.com.sg
 domain:speedtest.timeweb.ru
 domain:speedtest.rascom.ru
 domain:speedtest.rt.ru
