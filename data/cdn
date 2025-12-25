@@ -913,6 +913,7 @@ full:content.invisioncic.com
 full:media.invisioncic.com
 full:static.hugedomains.com
 full:images.hothardware.com
+full:themes.hibootstrap.com
 full:media.graphassets.com
 full:static.gettyimages.com
 full:media.gettyimages.com
@@ -2081,6 +2082,7 @@ full:assets.fastly.com
 full:s3.envato.com
 full:creative.eizzih.com
 full:videos2.edclub.com
+full:sessions-bugsnag.docker.com
 full:media.dlsite.com
 full:cdn.cxense.com
 full:mkt-site-asset.crypto.com
@@ -2760,6 +2762,7 @@ full:tracking.inflection.io
 full:gtranslate.io
 full:cdn.growthbook.io
 full:boards.greenhouse.io
+full:www.envoyproxy.io
 full:analytics.canarymail.io
 full:status.canarymail.io
 full:cdn.brandfetch.io
