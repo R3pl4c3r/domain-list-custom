@@ -1661,7 +1661,6 @@ full:img2.tnaflix.com
 full:cdnl.tnaflix.com
 full:artworks.thetvdb.com
 full:cdn.termius.com
-full:nel.teo-rum.com
 full:upload.teftera.com
 full:wpmedia.tealium.com
 full:cdn.svgator.com
@@ -3377,6 +3376,7 @@ domain:dolphin-anty-cdn.com
 domain:cloudflarestream.com
 domain:squarespace-cdn.com
 domain:runkit-packages.com
+domain:replicateassets.com
 domain:project1content.com
 domain:pipedriveassets.com
 domain:msftconnecttest.com
@@ -3757,6 +3757,7 @@ domain:userapi.com
 domain:ubembed.com
 domain:ttcache.com
 domain:tripcdn.com
+domain:teo-rum.com
 domain:stripst.com
 domain:sqspcdn.com
 domain:snzypic.com
