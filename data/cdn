@@ -689,7 +689,6 @@ full:images.purevpn-tools.com
 full:assets.prowritingaid.com
 full:cdn.prowritingaid.com
 full:media.pointandplace.com
-full:www.paypalobjects.com
 full:static.newmobilelife.com
 full:media.nbclosangeles.com
 full:assets.nationbuilder.com
@@ -751,6 +750,7 @@ full:cdn.privacy-mgmt.com
 full:ui.powerreviews.com
 full:js.partnerstack.com
 full:sbl.onfastspring.com
+full:cdn.onfastspring.com
 full:static.observablehq.com
 full:meteorclient.com
 full:cdn.manageengine.com
@@ -811,6 +811,7 @@ full:photos5.appleinsider.com
 full:widgets.zohosalesiq.com
 full:images.youracclaim.com
 full:bookface-static.ycombinator.com
+full:image.worthepenny.com
 full:storage.windiscover.com
 full:static.webclicks24.com
 full:cdn.webclicks24.com
@@ -2483,6 +2484,7 @@ full:webassets.linear.app
 full:uploads.linear.app
 full:static.linear.app
 full:public.linear.app
+full:s.linear.app
 full:e.linear.app
 full:chat-assets.front.app
 full:cdn.rive.app
@@ -3421,6 +3423,7 @@ domain:slidesharecdn.com
 domain:simplecastcdn.com
 domain:cdn.printfriendly.com
 domain:pressidiumcdn.com
+domain:paypalobjects.com
 domain:oreillystatic.com
 domain:notion-static.com
 domain:agechecker.northern-apps.com
