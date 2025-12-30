@@ -119,6 +119,7 @@ full:mirror.krfoss.org
 full:http.krfoss.org
 full:mirrors.kernel.org
 full:mirrors.edge.kernel.org
+full:eu.edge.kernel.org
 full:mirrors.us.kernel.org
 full:plugins-artifacts.gradle.org
 full:repo.gradle.org
@@ -171,10 +172,13 @@ full:repository.jboss.org
 full:www.gnupg.org
 full:ftp.gnome.org
 full:cdn.fwupd.org
+full:eclats.crans.org
 full:ftpmirror.your.org
 full:downloads.xiph.org
 full:kebo.vlsm.org
 full:mirrors.tino.org
+full:packages.sury.org
+full:deb.sury.org
 full:ftp.ktug.org
 full:cdimage.kali.org
 full:archive.kali.org
@@ -229,6 +233,7 @@ full:debian-mirror.behostings.net
 full:mirrors.centos.behostings.net
 full:mirror.webtastix.net
 full:ftp.ubuntu-tw.net
+full:mirror.steadfast.net
 full:ubuntu.pishgaman.net
 full:mirror.ossplanet.net
 full:mirror.fi.ossplanet.net
@@ -371,6 +376,7 @@ full:speedtest-net-servers.cdn.skk.moe
 full:chnroutes2.cdn.skk.moe
 full:filters.cdn.skk.moe
 full:mirror.gsl.icu
+full:ftp.cc.uoc.grs
 full:linux-mirrors.fnal.gov
 full:maven.is-quite.gay
 full:ctan.math.washington.edu
@@ -458,6 +464,7 @@ full:mirror.raiolanetworks.com
 full:mirror2.evolution-host.com
 full:ctldl.windowsupdate.com
 full:mirror.mythic-beasts.com
+full:mirror.dimensiondata.com
 full:vfat.classicreload.com
 full:updates-cdn.bravesoftware.com
 full:updates.bravesoftware.com
@@ -508,6 +515,7 @@ full:update.googleapis.com
 full:mirror.downloadvn.com
 full:linux.domainesia.com
 full:cpan.develooper.com
+full:mirror.datapacket.com
 full:mirror.nl.datapacket.com
 full:pkg.cloudflare.com
 full:mirrors-ubuntu.behostings.com
@@ -614,6 +622,7 @@ full:dist.blizzard.com
 full:desktop.wifiman.com
 full:mirror.virtury.com
 full:autoupdate.termius.com
+full:mirrors.eze.sysarmy.com
 full:enterprise.proxmox.com
 full:ubuntu.parsvds.com
 full:mirrors.nxthost.com
@@ -757,6 +766,7 @@ full:mirror.timkevin.us
 full:cdn.zoom.us
 full:mirrors.xtom.us
 full:mirror.xtom.us
+full:mirror.quickhost.uk
 full:mirror.yuki.net.uk
 full:rsync.yuki.net.uk
 full:mirror.freethought-internet.co.uk
@@ -783,6 +793,7 @@ full:opensource.nchc.org.tw
 full:free.nchc.org.tw
 full:debian.cs.nycu.edu.tw
 full:ubuntu.cs.nctu.edu.tw
+full:linux.cs.nctu.edu.tw
 full:ubuntu.ccns.ncku.edu.tw
 full:debian.ccns.ncku.edu.tw
 full:ftp.tku.edu.tw
@@ -978,6 +989,7 @@ full:ftp.sakura.ad.jp
 full:ftp.tsukuba.wide.ad.jp
 full:ftp.nara.wide.ad.jp
 full:ftp.iij.ad.jp
+full:linux2.yz.yamagata-u.ac.jp
 full:linux.yz.yamagata-u.ac.jp
 full:ftp.yz.yamagata-u.ac.jp
 full:ubuntutym.u-toyama.ac.jp
@@ -1120,6 +1132,7 @@ full:ftp.univ-pau.fr
 full:distrib-coffee.ipsl.jussieu.fr
 full:mirror.its-tps.fr
 full:apache.crihan.fr
+full:ftp.crihan.fr
 full:ubuntu.syxpi.fr
 full:debian.obspm.fr
 full:mirrors.ircam.fr
@@ -1260,6 +1273,7 @@ full:mirror.solnet.ch
 full:mirror.siati.ch
 full:mirror.iway.ch
 full:ubuntu.ethz.ch
+full:mirror.ethz.ch
 full:debian.ethz.ch
 full:rsync-linuxsoft.cern.ch
 full:linuxsoft.cern.ch
@@ -1270,6 +1284,7 @@ full:mirror.csclub.uwaterloo.ca
 full:mirror.dsrg.utoronto.ca
 full:mirror.cpsc.ucalgary.ca
 full:download.mersenne.ca
+full:mirrors.switch.ca
 full:mirror.estone.ca
 full:muug.ca
 full:ftp.muug.ca
