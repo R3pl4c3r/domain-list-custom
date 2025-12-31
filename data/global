@@ -11,6 +11,7 @@ domain:community
 domain:network
 domain:x.company
 domain:taipei
+domain:studio
 domain:social
 domain:generated.photos
 domain:animes.garden
@@ -178,6 +179,7 @@ domain:sysctl-explorer.net
 domain:minecraftforum.net
 domain:hubspotstarter.net
 domain:cloudfunctions.net
+domain:videodelivery.net
 domain:azurewebsites.net
 domain:vesselfinder.net
 domain:tokto-motion.net
@@ -294,6 +296,7 @@ domain:orbstack.dev
 domain:workers.dev
 domain:sentry.dev
 domain:github.dev
+domain:pages.dev
 domain:zenn.dev
 domain:web.dev
 domain:fly.dev
@@ -309,13 +312,16 @@ domain:precisionhydration.com
 domain:lineshoppingseller.com
 domain:minecraftservices.com
 domain:githubusercontent.com
+domain:cloudflarestorage.com
 domain:cloudflareresolve.com
+domain:cloudflarepreview.com
 domain:chromeexperiments.com
 domain:1passwordservices.com
 domain:surge-activation.com
 domain:smashingmagazine.com
 domain:fastly-analytics.com
 domain:elasticbeanstalk.com
+domain:cloudflaretunnel.com
 domain:cloudflarestatus.com
 domain:cloudflareaccess.com
 domain:bleepingcomputer.com
@@ -327,6 +333,7 @@ domain:speedtestcustom.com
 domain:spankinglibrary.com
 domain:perfect-privacy.com
 domain:downdetectorapi.com
+domain:cloudflare-ipfs.com
 domain:businessinsider.com
 domain:washingtonpost.com
 domain:thefreelibrary.com
@@ -336,9 +343,11 @@ domain:rottentomatoes.com
 domain:redtubepremium.com
 domain:opencollective.com
 domain:line-apps-beta.com
+domain:cloudflareapps.com
 domain:cloudflare-dns.com
 domain:adguardaccount.com
 domain:xpressunblock.com
+domain:trycloudflare.com
 domain:thaiheadlines.com
 domain:stackoverflow.com
 domain:stackexchange.com
@@ -700,6 +709,7 @@ domain:haproxy.com
 domain:hanime1.com
 domain:gumroad.com
 domain:gstatic.com
+domain:grafana.com
 domain:gooogle.com
 domain:godaddy.com
 domain:gitbook.com
@@ -713,6 +723,7 @@ domain:drtuber.com
 domain:doujins.com
 domain:dnsleak.com
 domain:detnews.com
+domain:cf-ipfs.com
 domain:cbsnews.com
 domain:camsoda.com
 domain:blogger.com
