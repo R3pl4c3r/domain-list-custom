@@ -63,7 +63,7 @@ full:img.itch.zone
 full:static.frame.work
 full:tn.txxx.tube
 full:js.txxx.tube
-full:ipfs.d.tube
+full:media.d.tube
 full:media.remax-prod.eng.remax.tech
 full:static.pepy.tech
 full:packages.jetbrains.team
@@ -404,7 +404,6 @@ full:i.nhentai.net
 full:cdn.myfonts.net
 full:interactive-examples.mdn.mozilla.net
 full:pg2dhpc3p5ec22g3.jkforum.net
-full:play.izanmei.net
 full:file.izanmei.net
 full:cdn-img3.iporntv.net
 full:cdn-img2.iporntv.net
@@ -496,6 +495,7 @@ full:c-bin.b-cdn.net
 full:amp.azure.net
 full:s3.arkjp.net
 full:cdn.ywxi.net
+full:static.wwto.net
 full:fonts.sony.net
 full:www-static.ripe.net
 full:static.plus.net
@@ -534,6 +534,7 @@ full:static.coinall.ltd
 full:image.acg.lol
 full:cdn.cbd.int
 full:tile2.intervals.icu
+full:static.izanmei.icu
 full:time-a.nist.gov
 full:images-assets.nasa.gov
 full:assets.science.nasa.gov
@@ -755,7 +756,6 @@ full:cdn.onfastspring.com
 full:static.observablehq.com
 full:meteorclient.com
 full:cdn.manageengine.com
-full:player.louisvuitton.com
 full:assets.lemonsqueezy.com
 full:cdn.lemonsqueezy.com
 full:unsubscribe-imgs.leavemealone.com
@@ -1510,7 +1510,6 @@ full:cdn.getkoala.com
 full:assets.getkirby.com
 full:geoip-js.com
 full:maps.geoapify.com
-full:img4.gelbooru.com
 full:img2.gelbooru.com
 full:media.gamestop.com
 full:assets.frontegg.com
@@ -1564,7 +1563,6 @@ full:dynamic-assets.coinbase.com
 full:static-assets.coinbase.com
 full:assets.coinbase.com
 full:assets.codeguru.com
-full:logo.clearbit.com
 full:assets-growth-common.circleci.com
 full:assets-docs.circleci.com
 full:cdn-assets.circleci.com
@@ -1703,6 +1701,8 @@ full:image.prntscr.com
 full:st.prntscr.com
 full:cdn.privacy.com
 full:app-static.eu.posthog.com
+full:us-assets.i.posthog.com
+full:eu-assets.i.posthog.com
 full:cdn77-t.pornoxo.com
 full:cdn77.pornoxo.com
 full:pics.pornfhd.com
@@ -2033,7 +2033,8 @@ full:glyph.medium.com
 full:miro.medium.com
 full:twemoji.maxcdn.com
 full:static-assets.mapbox.com
-full:sato.manyse.com
+full:test.manyse.com
+full:img.manyse.com
 full:cdn2-imgix.macpaw.com
 full:api-lytics.macpaw.com
 full:cdn2.macpaw.com
@@ -2594,8 +2595,6 @@ full:media.dev.to
 full:video2.7mmtv.sx
 full:video1.7mmtv.sx
 full:piccdn.7mmtv.sx
-full:img.kemono.su
-full:img.coomer.su
 full:0x0.st
 full:udata.namespace.so
 full:cdn.seline.so
@@ -3014,6 +3013,7 @@ full:assets.cloudpilot.ai
 full:api.instantly.ai
 full:sdk.customfit.ai
 full:static.returngo.ai
+full:file.xiaohai.ai
 full:prod-cdn.webtune.ai
 full:widget.docsbot.ai
 full:cdn.aimerce.ai
@@ -3021,6 +3021,7 @@ full:vetted.ai
 full:static.netify.ai
 full:r2.leadsy.ai
 full:cdn.fellou.ai
+full:play.xiaoh.ai
 full:tag.tvads.ai
 full:s3.masto.ai
 full:participants.evolv.ai
@@ -3125,6 +3126,7 @@ domain:pichost.top
 domain:gitcdn.top
 domain:balley.top
 domain:akidoo.top
+domain:dget.top
 domain:cktu01.sbs
 domain:bundle.run
 domain:esm.run
@@ -3331,6 +3333,10 @@ domain:delegated-ipfs.dev
 domain:usercontent.dev
 domain:workers.dev
 domain:skypack.dev
+domain:latam.orbitor.dev
+domain:ipfs.orbitor.dev
+domain:apac.orbitor.dev
+domain:eu.orbitor.dev
 domain:angular.dev
 domain:vercel.dev
 domain:react.dev
@@ -3736,6 +3742,7 @@ domain:gammacdn.com
 domain:frontapp.com
 domain:favicone.com
 domain:dtci-pe-vp-image-resizer.platform.edgedatg.com
+domain:ipfs.ecolatam.com
 domain:drivecdn.com
 domain:dditscdn.com
 domain:dditsadn.com
@@ -4081,6 +4088,7 @@ domain:cdn.runcloud.io
 domain:permaweb.io
 domain:ipfs.namebase.io
 domain:ik.imagekit.io
+domain:ipfs.filebase.io
 domain:ipfs.denarius.io
 domain:rum.cronitor.io
 domain:cloudimg.io

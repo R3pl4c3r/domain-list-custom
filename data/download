@@ -376,7 +376,6 @@ full:speedtest-net-servers.cdn.skk.moe
 full:chnroutes2.cdn.skk.moe
 full:filters.cdn.skk.moe
 full:mirror.gsl.icu
-full:ftp.cc.uoc.grs
 full:linux-mirrors.fnal.gov
 full:maven.is-quite.gay
 full:ctan.math.washington.edu
@@ -622,7 +621,6 @@ full:dist.blizzard.com
 full:desktop.wifiman.com
 full:mirror.virtury.com
 full:autoupdate.termius.com
-full:mirrors.eze.sysarmy.com
 full:enterprise.proxmox.com
 full:ubuntu.parsvds.com
 full:mirrors.nxthost.com
@@ -1329,8 +1327,6 @@ full:mirror.unix-solutions.be
 full:ctan.space-pro.be
 full:ftp.belnet.be
 full:lib.ugent.be
-full:apache.cu.be
-full:kde.cu.be
 full:mirror.visiontech.com.bd
 full:mirror.amberit.com.bd
 full:ubuntu-mirror.bhtelecom.ba
@@ -1361,7 +1357,6 @@ full:debian.mur.at
 full:ubuntu.uni-klu.ac.at
 full:ftp.tu-graz.ac.at
 full:mirrors.sarak.as
-full:mirrors.dc.clear.net.ar
 full:debian.unnoba.edu.ar
 full:ubuntu.unc.edu.ar
 full:cpan.mmgdesigns.com.ar
@@ -1885,6 +1880,7 @@ domain:mirror.web4u.cz
 domain:ubuntu.csg.uzh.ch
 domain:mirror.rafal.ca
 domain:mirror.iweb.ca
+domain:mirrors.cu.be
 domain:mirror.ba
 domain:mirror.serversaustralia.com.au
 domain:mirror.digitalpacific.com.au
