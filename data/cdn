@@ -210,6 +210,7 @@ full:static.opensuse.org
 full:open-vsx.org
 full:demotiles.maplibre.org
 full:design.keyoxide.org
+full:modules.kernelsu.org
 full:api.indexnow.org
 full:assets.exercism.org
 full:david-dm.org
@@ -1156,6 +1157,7 @@ full:cdn.britannica.com
 full:player.interactivity.brightcove.com
 full:app.brightback.com
 full:static.prd.borderfree.com
+full:cdn.boldmethod.com
 full:cdn-www.bluestacks.com
 full:widgets.automizely.com
 full:widget.automizely.com
@@ -1292,6 +1294,7 @@ full:assets.grammarly.com
 full:image.send.grammarly.com
 full:widget.gotolstoy.com
 full:play.gotolstoy.com
+full:media.glassdoor.com
 full:i.geekflare.com
 full:mosaic-blender.fxtwitter.com
 full:mosaic.fxtwitter.com
@@ -1530,6 +1533,7 @@ full:icons.ferndocs.com
 full:images.fandango.com
 full:graph.facebook.com
 full:static.euronews.com
+full:images.euronews.com
 full:assets.euractiv.com
 full:cdn.equalweb.com
 full:aff.equalweb.com
@@ -2004,6 +2008,7 @@ full:brandwidgets.outtra.com
 full:static.oracle.com
 full:cdn.openai.com
 full:static.oklink.com
+full:assets.nypost.com
 full:pbc.nypost.com
 full:images.nvidia.com
 full:images.now-tv.com
@@ -2057,6 +2062,8 @@ full:i.iheart.com
 full:img.icons8.com
 full:bst.icons8.com
 full:statici.icloud.com
+full:assets-v2.i-scmp.com
+full:cdn.i-scmp.com
 full:static.hotjar.com
 full:cdn5.hextom.com
 full:cdn3.hextom.com
@@ -2999,10 +3006,12 @@ full:static.k2s.cc
 full:images.tg.cc
 full:img.tg.cc
 full:cdn.adsninja.ca
+full:cdn4.focus.bg
 full:components.cyclingfactory.be
 full:images.cyclingfactory.be
 full:res.abc.net.au
 full:styleguide-assets.shannons.com.au
+full:subscriptions.news.com.au
 full:tags.news.com.au
 full:i.snap.as
 full:solve-widget.forethought.ai
@@ -3378,6 +3387,7 @@ domain:framerusercontent.com
 domain:envatousercontent.com
 domain:claudeusercontent.com
 domain:chargebeestaticv2.com
+domain:thecontentserver.com
 domain:superhumanstatic.com
 domain:superfiliate-cdn.com
 domain:steamusercontent.com
