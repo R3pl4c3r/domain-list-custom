@@ -1,5 +1,4 @@
 full:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-full:website-media
 full:cdn.arcade.software
 full:media.infosec.exchange
 full:static.ada.support
@@ -2372,6 +2371,7 @@ full:cms-cdn.goat.com
 full:assets.goat.com
 full:image.goat.com
 full:images.dmca.com
+full:website-media.deel.com
 full:sf-coze-web-cdn.coze.com
 full:zephr-templates.cnbc.com
 full:production-cmp.isgprivacy.cbsi.com
@@ -2452,6 +2452,7 @@ full:assets.ecomm.ui.com
 full:cdn.ecomm.ui.com
 full:net-fe-static-assets.network-controller.svc.ui.com
 full:uos-support-files.svc.ui.com
+full:content-cdn.svc.ui.com
 full:account-cdn.svc.ui.com
 full:images.svc.ui.com
 full:fonts.svc.ui.com
@@ -2784,6 +2785,7 @@ full:cdn.simplesat.io
 full:assets.keysquare.io
 full:media.hachyderm.io
 full:static.getbutton.io
+full:static.corespeed.io
 full:r2cdn.corespeed.io
 full:assets.mcp.corespeed.io
 full:sandpack-cdn-staging.blazingly.io
