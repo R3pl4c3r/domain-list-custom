@@ -112,6 +112,7 @@ full:speedtest.eidnet.org
 full:speedtest.advps.org
 full:akrd-speedtest.loni.org
 full:fla.brisanet.eu.org
+full:speedtest.internet.one
 full:speedtest.revolutionbroadband.net
 full:sp.esim-international.net
 full:speedtest.digitalconnections.net
@@ -132,6 +133,7 @@ full:speedtest.provedoracesso.net
 full:speedtest.newberlinfiber.net
 full:speedtest.whiteprovider.net
 full:dllstx-ookla1.vyvebroadband.net
+full:ukms-speedtest.tropicalgames.net
 full:ookla-london01.tropicalgames.net
 full:hkthspeedtest02.telstraglobal.net
 full:speed.telcomnetwork.net
@@ -953,6 +955,7 @@ full:speedtest-jp.tgb-host.com
 full:speedtest2-tor.teksavvy.com
 full:speedtest-tek.teksavvy.com
 full:speedtest-ookla-roc1.synoptek.com
+full:speedtest.surrytel.com
 full:speedtest.summithq.com
 full:kami.smartone.com
 full:par1speedtest01.skylogic.com
@@ -1183,6 +1186,7 @@ full:oak-speedtest.otelco.com
 full:speedtest.oopaya.com
 full:speedtest3.dal.nxlink.com
 full:speedtest1.chi.nxlink.com
+full:ookla.nieqtv.com
 full:mirror.nforce.com
 full:test-mi.netoip.com
 full:speedtest.netafy.com
@@ -1269,6 +1273,7 @@ full:speed.way2.us
 full:speedtest.hyperwave.uk
 full:speedtest.octaplus.uk
 full:speedtest-thn.krystal.uk
+full:speedtest-lon.krystal.uk
 full:speedtest2.lightningfibre.net.uk
 full:speedtest.cadence.net.uk
 full:speedtest-ookla-alpha.giant.net.uk
@@ -1288,6 +1293,7 @@ full:speedtest-manchester.vodafone.co.uk
 full:speedtest.redactus.co.uk
 full:speedtest.scotnet.co.uk
 full:speedtestvol.optinet.co.uk
+full:speedtestthw.optinet.co.uk
 full:speed.vm.brs.marcusn.co.uk
 full:speedtest.toob.co.uk
 full:speedtest.idsi.co.uk
@@ -1496,6 +1502,7 @@ full:smtest.supermedia.pl
 full:speed2.fiberlink.pl
 full:war-o1.speedtest.orange.pl
 full:speedtest.exatel.pl
+full:warsaw.netia.pl
 full:speedtestooklabal1.plus.pl
 full:speedtest.jmdi.pl
 full:speedtest.skynet.net.pl
@@ -1915,6 +1922,7 @@ full:speedtest.pfalzkom.de
 full:speed2.netlixor.de
 full:speed.netlixor.de
 full:speedtest.ip-works.de
+full:speedtest.twl-kom.de
 full:speedtest-gwn24.tele-ag.de
 full:speedtest1.t-m-net.de
 full:speedtest1.synlinq.de
@@ -2359,6 +2367,7 @@ full:speed.telfo.com.br
 full:speedtest.snnet.com.br
 full:spx.r2mpe.com.br
 full:speedtest.mixam.com.br
+full:speedtest.imais.com.br
 full:spd79.claro.com.br
 full:spd76.claro.com.br
 full:spd60.claro.com.br

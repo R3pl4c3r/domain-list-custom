@@ -164,6 +164,7 @@ full:cdn-media-2.freecodecamp.org
 full:cdn-media-1.freecodecamp.org
 full:cdn-media-0.freecodecamp.org
 full:cdn.freecodecamp.org
+full:media.fidoalliance.org
 full:embed.culturalspot.org
 full:files.writefreely.org
 full:simpleicons.org
@@ -545,6 +546,7 @@ full:tuf-repo-cdn.sigstore.dev
 full:pkg-size.dev
 full:cdn-web.orbstack.dev
 full:logos.composio.dev
+full:biomejs.dev
 full:stats.setapp.macpaw.dev
 full:assets.github.dev
 full:fiddle.fastly.dev
@@ -1228,6 +1230,7 @@ full:content.powerapps.com
 full:cdnstatic.porno-cum.com
 full:static.polldaddy.com
 full:assets.polarbyte.com
+full:image.pitchbook.com
 full:widgets.pinterest.com
 full:storage-b.picacomic.com
 full:img.picacomic.com
@@ -1416,6 +1419,7 @@ full:assets.scaleway.com
 full:embed.savvycal.com
 full:public.saasexch.com
 full:apps-static.route4me.com
+full:media-cdn.rollcall.com
 full:cdnassets.roboflow.com
 full:static.roboflow.com
 full:source.roboflow.com
@@ -2633,6 +2637,7 @@ full:static.zaobao.com.sg
 full:static.mysph.sph.com.sg
 full:cdp.sph.com.sg
 full:widget.datablocks.se
+full:media-cdn.factba.se
 full:curl.se
 full:avatars.dzeninfra.ru
 full:static.dzeninfra.ru
