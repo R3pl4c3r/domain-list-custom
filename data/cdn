@@ -5,6 +5,7 @@ full:static.ada.support
 full:images.web3.storage
 full:api.web3.storage
 full:cdn.robinpro.gallery
+full:screenshot.domains
 full:bcdn.starapps.studio
 full:cdn.starapps.studio
 full:public.flourish.studio
@@ -57,12 +58,14 @@ full:fscdn.eppo.cloud
 full:cdn-static.paw.cloud
 full:static.bit.cloud
 full:cdn.bigcloud.click
+full:cpp-content.bhn.cards
 full:turbo.build
 full:img.itch.zone
 full:static.frame.work
 full:tn.txxx.tube
 full:js.txxx.tube
 full:media.d.tube
+full:docs.mrchromebox.tech
 full:media.remax-prod.eng.remax.tech
 full:static.pepy.tech
 full:packages.jetbrains.team
@@ -145,6 +148,7 @@ full:static.themebuilder.aws.arc.pub
 full:cms-assets.webediamovies.pro
 full:img.foresightnews.pro
 full:pics.x-n-x-x.pro
+full:cdn.affine.pro
 full:play.xfvod.pro
 full:assets.gcore.pro
 full:static.freedownloadmanager.org
@@ -599,6 +603,7 @@ full:js.braintreegateway.com
 full:jslibs.blackmagicdesign.com
 full:images.blackmagicdesign.com
 full:css.blackmagicdesign.com
+full:dd.blackhawknetwork.com
 full:imgs02.aventertainments.com
 full:js.assemblyexchange.com
 full:cdn.worldvectorlogo.com
@@ -1139,6 +1144,7 @@ full:cloudinary-res.cloudinary.com
 full:fiverr-res.cloudinary.com
 full:pplx-res.cloudinary.com
 full:res.cloudinary.com
+full:report-uri.cloudflare.com
 full:favicons.teams.cloudflare.com
 full:cdnjs.cloudflare.com
 full:time.cloudflare.com
@@ -1761,6 +1767,8 @@ full:static.moonpay.com
 full:cdn.moeload.com
 full:static.moegoat.com
 full:images.moegoat.com
+full:video3.mingpao.com
+full:fs.mingpao.com
 full:image.mgstage.com
 full:acdn.mercury.com
 full:cdn.mercury.com
@@ -2140,6 +2148,7 @@ full:cdn-widgetsrepository.yotpo.com
 full:cdn-swell-assets.yotpo.com
 full:cdn-loyalty.yotpo.com
 full:staticw2.yotpo.com
+full:img1.yeggi.com
 full:yep.video.yahoo.com
 full:media.wired.com
 full:tiles.windy.com
@@ -2193,6 +2202,7 @@ full:fesdk.nexon.com
 full:static.music.com
 full:cdn.music.com
 full:assets.monei.com
+full:imagecdn.mixlr.com
 full:cf.mhgui.com
 full:static.lingq.com
 full:cdn.lihkg.com
@@ -2374,6 +2384,7 @@ full:assets.habr.com
 full:cms-cdn.goat.com
 full:assets.goat.com
 full:image.goat.com
+full:img04.en25.com
 full:images.dmca.com
 full:website-media.deel.com
 full:sf-coze-web-cdn.coze.com
@@ -2684,6 +2695,7 @@ full:static.fboom.me
 full:media-cms.ayoba.me
 full:dynamic-cdn.cms.ayoba.me
 full:emoji-css.afeld.me
+full:assets.about.me
 full:pic.7mmtv.me
 full:cdn.123av.me
 full:rsms.me
@@ -2909,6 +2921,7 @@ full:sr-cdn-1.shiprocket.in
 full:sellon.shiprocket.in
 full:static.snaptube.in
 full:object.innei.in
+full:favicon.im
 full:assets.monica.im
 full:img.majors.im
 full:badges.gitter.im
@@ -3605,6 +3618,7 @@ domain:hs-scripts.com
 domain:images.hentaicity.com
 domain:content-storage-upload.googleapis.com
 domain:crashlyticsreports-pa.googleapis.com
+domain:commondatastorage.googleapis.com
 domain:clientmetrics-pa.googleapis.com
 domain:firebasestorage.googleapis.com
 domain:firestore.googleapis.com
@@ -3729,6 +3743,7 @@ domain:roseimgs.com
 domain:radix-ui.com
 domain:quip-cdn.com
 domain:porn-cdn.com
+domain:poki-cdn.com
 domain:pastebin.com
 domain:otstatic.com
 domain:i.optimole.com
