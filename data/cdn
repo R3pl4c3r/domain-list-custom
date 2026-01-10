@@ -46,6 +46,7 @@ full:cms.therecord.media
 full:files.smashing.media
 full:images.github.media
 full:jssdk.opin.media
+full:global-assets.fitch.group
 full:node.green
 full:assets.buttondown.email
 full:media.cleanshot.cloud
@@ -1162,6 +1163,7 @@ full:static.buydomains.com
 full:media.bundlehunt.com
 full:cdn.britannica.com
 full:player.interactivity.brightcove.com
+full:assets.map.brightcove.com
 full:app.brightback.com
 full:static.prd.borderfree.com
 full:cdn.boldmethod.com
