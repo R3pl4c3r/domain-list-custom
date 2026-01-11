@@ -354,6 +354,7 @@ full:img-s-msn-com.akamaized.net
 full:mwf-service.akamaized.net
 full:viu-static.akamaized.net
 full:mycommerce.akamaized.net
+full:melonbooks.akamaized.net
 full:amp.akamaized.net
 full:mixin-images.zeromesh.net
 full:static.zerochan.net
@@ -583,6 +584,7 @@ full:loader.mantis-intelligence.com
 full:assets.freespeechcoalition.com
 full:screenshots.downloadtorrentfile.com
 full:cdn.cms-twdigitalassets.com
+full:im.np-payment-gateway.com
 full:media.datacenterdynamics.com
 full:demo.unified-streaming.com
 full:media.theresanaiforthat.com
@@ -857,6 +859,7 @@ full:static1.squarespace.com
 full:s3media.squarespace.com
 full:assets.squarespace.com
 full:assets.speedvitals.com
+full:cdn.activity.smart-bdash.com
 full:img.shoplineapp.com
 full:cdn.shoplineapp.com
 full:cdn.servicebell.com
@@ -924,6 +927,7 @@ full:media.invisioncic.com
 full:static.hugedomains.com
 full:images.hothardware.com
 full:themes.hibootstrap.com
+full:sdk.helloextend.com
 full:media.graphassets.com
 full:static.gettyimages.com
 full:media.gettyimages.com
@@ -1186,6 +1190,7 @@ full:cdn.zhujiwiki.com
 full:assets.zerohedge.com
 full:cdn.scripts.wtwhmedia.com
 full:hhhhhhome86227170.wordpress.com
+full:jetpack.wordpress.com
 full:s0.wordpress.com
 full:image.westinyou.com
 full:s3.eu-central-2.wasabisys.com
@@ -1536,6 +1541,7 @@ full:cdn-teams-slug.flaticon.com
 full:cdn-icons-png.flaticon.com
 full:cdn-uicons.flaticon.com
 full:media.flaticon.com
+full:flagsapi.com
 full:cdn.firebase.com
 full:widget.finlogix.com
 full:images.filepuma.com
@@ -2191,6 +2197,7 @@ full:images.pling.com
 full:cdn1.plesk.com
 full:cdn.plaid.com
 full:i.pcmag.com
+full:apps.paidy.com
 full:cdn.paidy.com
 full:package-assets.oomol.com
 full:registry.oomol.com
@@ -2278,6 +2285,7 @@ full:cdn.drata.com
 full:static.deepl.com
 full:cdn.db-ip.com
 full:static.cloud.coveo.com
+full:cdn.corso.com
 full:cdn.cliqz.com
 full:segapi.clerk.com
 full:scdn.clerk.com
@@ -2503,6 +2511,7 @@ full:img.announcekit.app
 full:cdn.announcekit.app
 full:cdn.matterhorn.app
 full:weather.istatmenus.app
+full:cdn.accessibly.app
 full:cdn.langshop.app
 full:assets.airbuddy.app
 full:videos.elephas.app
@@ -2734,6 +2743,8 @@ full:media.yukimochi.jp
 full:listing-thumbnail.live.nicovideo.jp
 full:resource.akashic.coe.nicovideo.jp
 full:cdn.wikiwiki.jp
+full:rt.rtoaster.jp
+full:js.rtoaster.jp
 full:parts.blog.livedoor.jp
 full:resize.blogsys.jp
 full:livedoor.blogimg.jp
@@ -2809,6 +2820,7 @@ full:r2cdn.corespeed.io
 full:assets.mcp.corespeed.io
 full:sandpack-cdn-staging.blazingly.io
 full:img.badgesize.io
+full:unavatar.io
 full:img.telemetr.io
 full:prettier.io
 full:cdn.metadata.io
