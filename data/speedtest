@@ -514,6 +514,7 @@ full:speedtest-mel.vocus.net
 full:speedtest-bne.vocus.net
 full:speedtest.telbo.net
 full:speedtest.dfw2.sonic.net
+full:speedtest.dfw1.sonic.net
 full:speedtest.sjc.sonic.net
 full:lnx01.smtns.net
 full:speedtest.rfnow.net
@@ -913,6 +914,7 @@ full:btlr-speedtest-02.brightspeed.com
 full:indianapolis.speedtest.brightspeed.com
 full:warrensburg.speedtest.brightspeed.com
 full:kansas-city.speedtest.brightspeed.com
+full:columbia.speedtest.brightspeed.com
 full:chicago.speedtest.brightspeed.com
 full:speedtest-tr.atakanozban.com
 full:speedtest.xprimehost.com
@@ -1939,6 +1941,7 @@ full:speedtestspc1.airtel.in
 full:speedtestmum1.airtel.in
 full:speedtestmrt1.airtel.in
 full:speedtestguw1.airtel.in
+full:speedtestjmu.airtel.in
 full:speedtest.stnet.in
 full:speedkle.htspl.in
 full:ns1.fybrg.in
