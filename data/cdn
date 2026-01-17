@@ -22,7 +22,6 @@ full:cdn.bsky.social
 full:objects.g0v.social
 full:static.generated.photos
 full:files.mastodon.online
-full:cdn.glitch.global
 full:code.iconify.design
 full:api.iconify.design
 full:fonts1.unidays.world
@@ -625,9 +624,8 @@ full:images.softwaresuggest.com
 full:searchserverapi.com
 full:static.planetminecraft.com
 full:openseauserdata.com
-full:gt1.onlyhentaistuff.com
 full:fs2.onlyhentaistuff.com
-full:cdn.onlyhentaistuff.com
+full:ca1.onlyhentaistuff.com
 full:cdn.northropgrumman.com
 full:irp-cdn.multiscreensite.com
 full:cache.hackedfreegames.com
@@ -1371,7 +1369,6 @@ full:wa1.aninoapps.com
 full:pm1.aninoapps.com
 full:pa1.aninoapps.com
 full:images.anandtech.com
-full:cm1.aminoapps.com
 full:ip-ranges.amazonaws.com
 full:app.1password.com
 full:i.1password.com
@@ -1718,6 +1715,7 @@ full:reader.readmoo.com
 full:cdn.readmoo.com
 full:cdn-rdstaticassets.readdle.com
 full:static.rakuten.com
+full:devicons.railway.com
 full:cdn.quadpay.com
 full:image.prntscr.com
 full:st.prntscr.com
@@ -1789,8 +1787,8 @@ full:img.ltyears.com
 full:img.logokit.com
 full:aurora-customization-usw2.lithium.com
 full:static-forms.klaviyo.com
+full:static-app.klaviyo.com
 full:static.klaviyo.com
-full:a.klaviyo.com
 full:cdnsecakmi.kaltura.com
 full:cdnapi.kaltura.com
 full:cfvod.kaltura.com
@@ -2097,8 +2095,6 @@ full:time.google.com
 full:static.corp.google.com
 full:s3.go2778.com
 full:static.gmgard.com
-full:content.product.glitch.com
-full:cdn.glitch.com
 full:tuf-repo.github.com
 full:raw.github.com
 full:assets.genius.com
@@ -2696,7 +2692,6 @@ full:cdn.daradara.me
 full:cf.javfree.me
 full:circle-flags.zeljko.me
 full:cdn.picrew.me
-full:cdn.glitch.me
 full:static.start.me
 full:f.start.me
 full:c.start.me
@@ -2830,7 +2825,6 @@ full:static.iplocate.io
 full:widget.intercom.io
 full:icon.icepanel.io
 full:cdn.hackaday.io
-full:cdn.commento.io
 full:static.assetlab.io
 full:code.upscope.io
 full:js.upscope.io
@@ -3008,6 +3002,7 @@ full:storageapi2.fleek.co
 full:storageapi.fleek.co
 full:previews.fleek.co
 full:load.csell.co
+full:cdn.chord.co
 full:log-collector.17app.co
 full:webcdn.17app.co
 full:cdn.17app.co
@@ -3837,6 +3832,7 @@ domain:lzzypic.com
 domain:lzzyimg.com
 domain:lulucdn.com
 domain:kym-cdn.com
+domain:a.klaviyo.com
 domain:imgyzzy.com
 domain:imgikzy.com
 domain:illiweb.com

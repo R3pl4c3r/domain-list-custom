@@ -22,7 +22,6 @@ full:mirror.improve.nordlo.cloud
 full:mirror.za.abantu.cloud
 full:mirrors.ubuntu.dimit.cloud
 full:cdn-builds.paw.cloud
-full:mirror.0-1.cloud
 full:repo.sleeping.town
 full:centos-stream.ip-connect.info
 full:gimp.ip-connect.info
@@ -234,7 +233,6 @@ full:mirrors.centos.behostings.net
 full:mirror.webtastix.net
 full:ftp.ubuntu-tw.net
 full:mirror.steadfast.net
-full:ubuntu.pishgaman.net
 full:mirror.ossplanet.net
 full:mirror.fi.ossplanet.net
 full:mirror.eu.ossplanet.net
@@ -317,7 +315,6 @@ full:mirror.bahnhof.net
 full:mirror.as43289.net
 full:mirror.as35701.net
 full:mirror.as29550.net
-full:mirror.as24220.net
 full:download.amelabs.net
 full:mirror.alwyzon.net
 full:mirror.xenyth.net
@@ -547,7 +544,6 @@ full:cdn.winget.microsoft.com
 full:msdl.microsoft.com
 full:mirrors.liquidweb.com
 full:packages.linuxmint.com
-full:ubuntu-mirror.kimiahost.com
 full:download-cdn.jetbrains.com
 full:download.jetbrains.com
 full:cdn.hyperbeam.com
@@ -641,7 +637,6 @@ full:mirror.dewabiz.com
 full:dl.devmate.com
 full:mirror.bacloud.com
 full:download.anydesk.com
-full:mirror.aminidc.com
 full:mirror.alastyr.com
 full:static.adguard.com
 full:pkg.adfinis.com
@@ -774,7 +769,6 @@ full:mirrors.ukfast.co.uk
 full:anorien.csc.warwick.ac.uk
 full:mirror.ox.ac.uk
 full:mirror.renu.ac.ug
-full:mirror.ucu.ac.ug
 full:ubuntu.org.ua
 full:ftp.gnu.org.ua
 full:alpha-gnu-org.ip-connect.vn.ua
@@ -1007,9 +1001,6 @@ full:centos.is
 full:repo.linuxmirrors.ir
 full:mirror.arvancloud.ir
 full:mirror.kernel.ir
-full:ctan.yazd.ac.ir
-full:repo.iut.ac.ir
-full:ctan.um.ac.ir
 full:download.projectbluefin.io
 full:go.opentelemetry.io
 full:packagecloud.io
@@ -1282,7 +1273,6 @@ full:mirror.csclub.uwaterloo.ca
 full:mirror.dsrg.utoronto.ca
 full:mirror.cpsc.ucalgary.ca
 full:download.mersenne.ca
-full:mirrors.switch.ca
 full:mirror.estone.ca
 full:muug.ca
 full:ftp.muug.ca
