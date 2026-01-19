@@ -1602,6 +1602,7 @@ full:static-3.bitchute.com
 full:static-2.bitchute.com
 full:static-1.bitchute.com
 full:bcmedia.bitchute.com
+full:cdn1.bambulab.com
 full:assets.awwwards.com
 full:cdn.accounts.autodesk.com
 full:images.profile.autodesk.com
@@ -2048,6 +2049,8 @@ full:img.ml0987.com
 full:thumbnail.missav.com
 full:static.missav.com
 full:cdn.missav.com
+full:public-frontend-cos.metadl.com
+full:mgx-backend-cdn.metadl.com
 full:static.meiguo.com
 full:cdn-static-1.medium.com
 full:cdn-images-1.medium.com
@@ -3072,6 +3075,7 @@ full:cdn.roof.ai
 full:metrics.kapa.ai
 full:widget.kapa.ai
 full:cdn.fera.ai
+full:assets-docs.dify.ai
 full:assets.dify.ai
 full:limitless.cmax.ai
 full:bot.ivy.ai
@@ -3380,6 +3384,7 @@ domain:angular.dev
 domain:vercel.dev
 domain:react.dev
 domain:pages.dev
+domain:ingest.atoms.dev
 domain:rss3.dev
 domain:jspm.dev
 domain:widgets.marketplace.aws.dev
