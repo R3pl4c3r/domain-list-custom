@@ -193,6 +193,7 @@ full:cdn.libravatar.org
 full:cdn.gamemonkey.org
 full:cdn.autoketing.org
 full:creativajs.altervista.org
+full:intake-logging.wikimedia.org
 full:upload.wikimedia.org
 full:cdn.travis-ci.org
 full:light.spicegems.org
@@ -593,6 +594,7 @@ full:assets.positional-bucket.com
 full:navismithapis-cdn.com
 full:tour-content-cdn.kellymadisonmedia.com
 full:conversiongorilla.com
+full:nel.bgptools-agent-cf.com
 full:b5x-sentry.1passwordservices.com
 full:telemetry.1passwordservices.com
 full:cdn.virtuoussoftware.com
@@ -2006,6 +2008,7 @@ full:sp.replit.com
 full:static.redhat.com
 full:cloud.redhat.com
 full:cdn.redhat.com
+full:w3-reporting.reddit.com
 full:embed.reddit.com
 full:sdk.qikify.com
 full:js.pusher.com
@@ -3427,6 +3430,7 @@ domain:superhumanstatic.com
 domain:superfiliate-cdn.com
 domain:steamusercontent.com
 domain:spreadshirtmedia.com
+domain:hsbrowserreports.com
 domain:googleadservices.com
 domain:dolphin-anty-cdn.com
 domain:cloudflarestream.com
