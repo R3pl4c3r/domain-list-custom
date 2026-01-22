@@ -551,6 +551,7 @@ full:i.jpg.dog
 full:tuf-repo-cdn.sigstore.dev
 full:pkg-size.dev
 full:cdn-web.orbstack.dev
+full:storybooks.fluentui.dev
 full:logos.composio.dev
 full:biomejs.dev
 full:stats.setapp.macpaw.dev
@@ -727,6 +728,7 @@ full:images8.design-editor.com
 full:images7.design-editor.com
 full:images.design-editor.com
 full:assets.cyberghostvpn.com
+full:storage.courtlistener.com
 full:s3.cointelegraph.com
 full:academy-public.coinmarketcap.com
 full:s3.coinmarketcap.com
@@ -831,6 +833,7 @@ full:live.visually-io.com
 full:app.viral-loops.com
 full:vectorified.com
 full:static-cdn.usertesting.com
+full:usehooks-ts.com
 full:asset-cdn.uscardforum.com
 full:www-cdn.uscardforum.com
 full:psp-logos.uptimerobot.com
@@ -1359,6 +1362,7 @@ full:assets.bitwarden.com
 full:upos-sz-mirrorcosbstar1.bilivideo.com
 full:upos-sz-mirroralibstar1.bilivideo.com
 full:secure.beer7live.com
+full:assets.bbystatic.com
 full:cdn.babylonjs.com
 full:atl-global.atlassian.com
 full:media-cdn.atlassian.com
@@ -1590,6 +1594,10 @@ full:cdn-assets.circleci.com
 full:assets-app.circleci.com
 full:app.chatwoot.com
 full:js.chargify.com
+full:cdn-stamplib.casetify.com
+full:cdn-image02.casetify.com
+full:cdn-image01.casetify.com
+full:cdn.casetify.com
 full:reviews-badge.capterra.com
 full:assets.capterra.com
 full:cdn.camweara.com

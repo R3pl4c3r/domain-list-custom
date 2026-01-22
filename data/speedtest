@@ -1144,6 +1144,7 @@ full:speed.inet-isp.com
 full:tr.hostligo.com
 full:speedtest.hostimux.com
 full:ookla-mia.gigsouth.com
+full:ookla-dfw.gigsouth.com
 full:ookla-atl.gigsouth.com
 full:sv-ookla.geolinks.com
 full:lv-ookla.geolinks.com
@@ -1154,6 +1155,7 @@ full:speedtest.fbc-tele.com
 full:kscy.speedtest.fastwyre.com
 full:blar.speedtest.fastwyre.com
 full:ookla-lax.extentit.com
+full:lg.bcn1.es.everywan.com
 full:speedtest-marseille-10g.emtelnet.com
 full:speedtest.comunica.com
 full:speedtest.brnchost.com
@@ -1842,6 +1844,7 @@ full:st-be-bo1.infra.garr.it
 full:st-be-ba1.infra.garr.it
 full:test.eolo.it
 full:two.speed.airc.it
+full:speedtest.4isp.it
 full:speedtest.cpn.it
 full:librespeed-rs.ir
 full:speedme.ir
@@ -2700,6 +2703,7 @@ full:speedtest-mel0.encoo.com.au
 full:speedtest.capti.com.au
 full:speedtest1.sxbb.com.au
 full:speedtest2.infotech-services.at
+full:speedtest2.power-speed.at
 full:speedtest.power-speed.at
 full:speedtest.inn-energie.at
 full:speedtest.cablevision.at
