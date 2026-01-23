@@ -291,6 +291,7 @@ full:sourcemaps.squarespace.net
 full:static-resource.np.community.playstation.net
 full:akamai-origin.myanimelist.net
 full:cdn.myanimelist.net
+full:sdk-static.loyaltylion.net
 full:sdk.loyaltylion.net
 full:telemetry2.devolutions.net
 full:cdnfonts.devolutions.net
@@ -1362,7 +1363,6 @@ full:assets.bitwarden.com
 full:upos-sz-mirrorcosbstar1.bilivideo.com
 full:upos-sz-mirroralibstar1.bilivideo.com
 full:secure.beer7live.com
-full:assets.bbystatic.com
 full:cdn.babylonjs.com
 full:atl-global.atlassian.com
 full:media-cdn.atlassian.com
@@ -1527,6 +1527,7 @@ full:fdn2.gsmarena.com
 full:fdn.gsmarena.com
 full:snippet.growsumo.com
 full:cdn.gofundme.com
+full:static.goaffpro.com
 full:static.gigabyte.com
 full:cdn.ghostery.com
 full:cdn.getkoala.com
@@ -1983,8 +1984,6 @@ full:canvas-lb.tubitv.com
 full:cdn2.ttloli.com
 full:cdn.ttloli.com
 full:cdn.tracxn.com
-full:static.toiimg.com
-full:assets.toiimg.com
 full:image.thefly.com
 full:www.tbstat.com
 full:gravatar.tapglb.com
@@ -2417,6 +2416,7 @@ full:r.bing.com
 full:i.bang.com
 full:img.atom.com
 full:g-static.ap4r.com
+full:content.9gtb.com
 full:bundle.9gtb.com
 full:accounts-cdn.9gag.com
 full:bundle.5gtb.com
@@ -2821,6 +2821,7 @@ full:loutre.blockchair.io
 full:js-cdn.blockchair.io
 full:cdn.transcend.io
 full:static.tokenview.io
+full:storage.synctrack.io
 full:cdn.simplesat.io
 full:assets.keysquare.io
 full:media.hachyderm.io
@@ -3741,6 +3742,7 @@ domain:cnbetacdn.com
 domain:cdn-plain.com
 domain:bnbstatic.com
 domain:bitgetimg.com
+domain:bbystatic.com
 domain:awsstatic.com
 domain:assettype.com
 domain:aspnetcdn.com
@@ -3909,6 +3911,7 @@ domain:cdn.turner.com
 domain:assets.tumblr.com
 domain:media.tumblr.com
 domain:tpucdn.com
+domain:toiimg.com
 domain:tmsimg.com
 domain:tkcdns.com
 domain:tiqcdn.com
