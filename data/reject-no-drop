@@ -1,10 +1,13 @@
 full:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+full:upos-sz-302ppio.bilivideo.com
+full:upos-sz-302kodo.bilivideo.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:livewebbs2pcdn.msstatic.com
 full:stun1.douyucdn.cn
 full:stun.douyucdn.cn
 domain:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 domain:ppio.cloud
+domain:bsccdn.net
 domain:yfp2p.net
 domain:yfcdn.net
 domain:ietheivaicai.com
@@ -29,6 +32,7 @@ domain:cdnnodedns.cn
 domain:mcdn.bilivideo.cn
 domain:p2perrorlog.douyucdn.cn
 domain:p2plog.douyucdn.cn
+domain:gjfzpt.cn
 keyword:-p2p.pull.yximgs.com
 keyword:-p2p-v2.pull.yximgs.com
 regexp:^p2p[\w.-]*?\.qq\.com$
