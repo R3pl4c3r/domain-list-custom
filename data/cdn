@@ -128,6 +128,7 @@ full:img.timero.xyz
 full:cdn.redwap.xyz
 full:cdn-longterm.mee6.xyz
 full:vod.jfly.xyz
+full:sdk-cdn.fun.xyz
 full:img.hentaihaven.xxx
 full:i.xozilla.xxx
 full:wimg.rule34.xxx
@@ -1026,6 +1027,7 @@ full:img.sparknotes.com
 full:w.soundcloud.com
 full:static.solarwinds.com
 full:rum-agent.na-01.cloud.solarwinds.com
+full:cdn.snaptravel.com
 full:webappassets.smartsheet.com
 full:static-web-prod.skillshare.com
 full:pics2.serviporno.com
@@ -1243,6 +1245,7 @@ full:img.riskified.com
 full:img.represent.com
 full:jfe-cdn.qualtrics.com
 full:js.qualified.com
+full:plugins.pubtailer.com
 full:vpncdn.protonweb.com
 full:pmecdn.protonweb.com
 full:content.powerapps.com
@@ -1369,6 +1372,7 @@ full:atl-global.atlassian.com
 full:media-cdn.atlassian.com
 full:wac-cdn.atlassian.com
 full:api.media.atlassian.com
+full:www-cdn.anthropic.com
 full:s-cdn.anthropic.com
 full:a-cdn.anthropic.com
 full:static.aninoapps.com
@@ -2191,6 +2195,7 @@ full:cdn.cloud.unity.com
 full:media1.tenor.com
 full:media.tenor.com
 full:c.tadst.com
+full:cdn.super.com
 full:assets.stash.com
 full:cdn.stash.com
 full:cdn.sprig.com
@@ -2842,6 +2847,7 @@ full:static.iplocate.io
 full:widget.intercom.io
 full:icon.icepanel.io
 full:cdn.hackaday.io
+full:assets.customer.io
 full:static.assetlab.io
 full:code.upscope.io
 full:js.upscope.io
@@ -3546,6 +3552,7 @@ domain:img-dpreview.com
 domain:images-iherb.com
 domain:hubspotlinks.com
 domain:githubassets.com
+domain:getaroom-cdn.com
 domain:framerstatic.com
 domain:fakestoreapi.com
 domain:esc-apps-cdn.com
@@ -4014,6 +4021,7 @@ domain:cloudinary.vpsvc.com
 domain:uvcdn.com
 domain:unpkg.com
 domain:twimg.com
+domain:tacdn.com
 domain:t8cdn.com
 domain:srcdn.com
 domain:sb-cd.com
