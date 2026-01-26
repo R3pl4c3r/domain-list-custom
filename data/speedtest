@@ -46,6 +46,10 @@ full:speedtest3.airbeam.cloud
 full:speedtest.witcom.cloud
 full:speedtest.net360.cloud
 full:speedtest.phx01.orion.cloud
+full:srv1298003.hstgr.cloud
+full:srv1298001.hstgr.cloud
+full:srv1297898.hstgr.cloud
+full:srv1297894.hstgr.cloud
 full:speedtest.herza.cloud
 full:speedtest.syd.mhn.cloud
 full:speedtest.mel.mhn.cloud
@@ -570,6 +574,7 @@ full:40gspeedtest.mnsi.net
 full:speedtest.mhtc.net
 full:speedtest.mdtc.net
 full:speedtest.lcom.net
+full:speedtest.ktis.net
 full:speedtest.k-fo.net
 full:ookla-speedtest.iu13.net
 full:speedtest.inoc.net
@@ -1007,6 +1012,7 @@ full:sky.almotafael.com
 full:reflector.aberythmic.com
 full:speedtest.zenex5ive.com
 full:speedtest.westianet.com
+full:speedtest.vuduacres.com
 full:test1.velocable.com
 full:speedtest.valleycom.com
 full:speed-test.ukservers.com
@@ -1431,6 +1437,7 @@ full:speedapi.race.com
 full:clg-105-sptest.ncri.com
 full:speedtest.mvec.com
 full:speedtest.itel.com
+full:speedtest.hbci.com
 full:one.speed.c4g7.com
 full:speedtest-6.aebc.com
 full:speedtest.upp.com

@@ -6,6 +6,7 @@ full:locationhistory-pa.googleapis.com
 full:userlocation.googleapis.com
 full:contents.meituan.com
 full:fyb-2.cdn.bcebos.com
+full:mpush-api.aliyun.com
 full:epay.10010.com
 full:loan-supermarket.faas.ele.me
 full:push.12306.cn
@@ -29,6 +30,7 @@ domain:cool3c.com
 domain:lmk.mipay.com
 domain:ule.com
 domain:look.163.com
+domain:jr.mi.com
 domain:microfin.ele.me
 domain:httpizza.ele.me
 domain:adobestats.io
