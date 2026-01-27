@@ -1601,6 +1601,9 @@ full:cdn-assets.circleci.com
 full:assets-app.circleci.com
 full:app.chatwoot.com
 full:js.chargify.com
+full:img-new.cgtrader.com
+full:assets.cgtrader.com
+full:media.cgtrader.com
 full:cdn-stamplib.casetify.com
 full:cdn-image02.casetify.com
 full:cdn-image01.casetify.com
@@ -1925,9 +1928,12 @@ full:promotions.betfair.com
 full:media.beehiiv.com
 full:assets.basehub.com
 full:hiveplayer-static.bamgrid.com
+full:static-images.aptoide.com
 full:cdn-mobile.aptoide.com
 full:ws2-cache.aptoide.com
+full:cdn-en.aptoide.com
 full:cdn6.aptoide.com
+full:cdn.aptoide.com
 full:images.en.aptoide.com
 full:img.apponic.com
 full:cdn.apponic.com
