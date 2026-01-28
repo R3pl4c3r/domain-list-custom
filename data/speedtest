@@ -52,6 +52,7 @@ full:srv1297902.hstgr.cloud
 full:srv1297898.hstgr.cloud
 full:srv1297896.hstgr.cloud
 full:srv1297894.hstgr.cloud
+full:srv1297868.hstgr.cloud
 full:speedtest.herza.cloud
 full:speedtest.syd.mhn.cloud
 full:speedtest.mel.mhn.cloud
@@ -270,6 +271,7 @@ full:speedtest.tierpoint.net
 full:speed1.syseleven.net
 full:speedtest.wp.shawcable.net
 full:speedtest.vc.shawcable.net
+full:speedtest.ok.shawcable.net
 full:speedtest.gv.shawcable.net
 full:speedtest.ed.shawcable.net
 full:speedtest.cg.shawcable.net
@@ -502,8 +504,21 @@ full:speed2.dg-sys.net
 full:warp.cronon.net
 full:speedtest.coreix.net
 full:st-oma-1.binary.net
+full:ookla.tv2.as6453.net
+full:ookla.svw.as6453.net
+full:ookla.pye.as6453.net
 full:ookla.pvu.as6453.net
 full:ookla.nw8.as6453.net
+full:ookla.n0v.as6453.net
+full:ookla.mtt.as6453.net
+full:ookla.mln.as6453.net
+full:ookla.m3h.as6453.net
+full:ookla.ldn.as6453.net
+full:ookla.hk2.as6453.net
+full:ookla.fnm.as6453.net
+full:ookla.dt8.as6453.net
+full:ookla.ct8.as6453.net
+full:ookla.a56.as6453.net
 full:ookla.mu.as6453.net
 full:ookla.dl.as4755.net
 full:speedtest.mci.as1003.net
@@ -1924,6 +1939,7 @@ full:guwahati.neconnect.in
 full:srmakspeed.hostycare.in
 full:speedtest-jgn.galaxynet.in
 full:speedtest.galaxynet.in
+full:speedtest.durgawifi.in
 full:speedtest.swiftify.in
 full:ooklaspeed.statenet.in
 full:spd.spiretel.in
@@ -2439,6 +2455,7 @@ full:teste.suprainternet.com.br
 full:teste.speedtestwnet.com.br
 full:velocimetro.speednetworks.com.br
 full:speedtest.redevisualnet.com.br
+full:speedteste.provedorkmnet.com.br
 full:speed.matrixtelecon.com.br
 full:speedtest.knettelecomce.com.br
 full:speedtest.infocotelecom.com.br
@@ -2551,6 +2568,7 @@ full:speednet-atn.brsserver.com.br
 full:uplinkfibra.brsserver.com.br
 full:lifitelecom.brsserver.com.br
 full:itanetwork.brsserver.com.br
+full:urbanonet.brsserver.com.br
 full:uptelecom.brsserver.com.br
 full:mitelecom.brsserver.com.br
 full:lvconnect.brsserver.com.br
