@@ -28,6 +28,7 @@ domain:chunyu.mobi
 domain:haowu.link
 domain:yqkk.link
 domain:gorouter.info
+domain:cnb.cool
 domain:landian.vip
 domain:icourse163.org
 domain:miot-spec.org
@@ -57,6 +58,7 @@ domain:dizzylab.net
 domain:biligame.net
 domain:smtcdns.net
 domain:oschina.net
+domain:oneplus.net
 domain:meituan.net
 domain:biliapi.net
 domain:baixing.net
@@ -100,6 +102,7 @@ domain:qy.net
 domain:39.net
 domain:kingsoft-office-service.com
 domain:alibabausercontent.com
+domain:luckincoffeecdn.com
 domain:anticheatexpert.com
 domain:alibabachengdun.com
 domain:samsungcloudcn.com
@@ -221,9 +224,11 @@ domain:freshhema.com
 domain:feishupkg.com
 domain:feishucdn.com
 domain:eastmoney.com
+domain:duokanbox.com
 domain:douyuscdn.com
 domain:douyinvod.com
 domain:douyinpic.com
+domain:douyinpay.com
 domain:douyincdn.com
 domain:dongchedi.com
 domain:didialift.com
@@ -273,6 +278,7 @@ domain:myalicdn.com
 domain:msstatic.com
 domain:miyoushe.com
 domain:luojilab.com
+domain:lkcoffee.com
 domain:lenovomm.com
 domain:kuaishou.com
 domain:ksmobile.com
@@ -360,7 +366,9 @@ domain:igamecj.com
 domain:idqqimg.com
 domain:ialicdn.com
 domain:huoshan.com
+domain:huanqiu.com
 domain:hongxiu.com
+domain:hisense.com
 domain:hihonor.com
 domain:hicloud.com
 domain:hichina.com
@@ -376,6 +384,8 @@ domain:dida365.com
 domain:dcarvod.com
 domain:dcarimg.com
 domain:dcarapi.com
+domain:d-ctrip.com
+domain:cqcbank.com
 domain:coolapk.com
 domain:coloros.com
 domain:cnblogs.com
@@ -423,6 +433,7 @@ domain:wpscdn.com
 domain:weiyun.com
 domain:weixin.com
 domain:wegame.com
+domain:webank.com
 domain:wangsu.com
 domain:volces.com
 domain:udache.com
@@ -458,6 +469,7 @@ domain:ngabbs.com
 domain:myoppo.com
 domain:mobike.com
 domain:mmstat.com
+domain:miwifi.com
 domain:mihoyo.com
 domain:mihayo.com
 domain:mi-img.com
@@ -551,8 +563,10 @@ domain:pipix.com
 domain:nubia.com
 domain:nlark.com
 domain:mzres.com
+domain:myssl.com
 domain:myapp.com
 domain:mtyun.com
+domain:mipay.com
 domain:meizu.com
 domain:meitu.com
 domain:m1905.com
@@ -644,10 +658,12 @@ domain:21cn.com
 domain:1905.com
 domain:1688.com
 domain:zui.com
+domain:zol.com
 domain:ys7.com
 domain:vip.com
 domain:qcc.com
 domain:okr.com
+domain:niu.com
 domain:ku6.com
 domain:id6.com
 domain:ccb.com
@@ -685,10 +701,13 @@ domain:coding.me
 domain:qbox.me
 domain:id6.me
 domain:ele.me
+domain:tool.lu
+domain:dns.la
 domain:openinstall.io
 domain:air-matters.io
 domain:daocloud.io
 domain:jianshu.io
+domain:dcloud.io
 domain:gitee.io
 domain:netease.im
 domain:jd.hk
@@ -703,6 +722,7 @@ domain:chinaunicom.cn
 domain:baishancdnx.cn
 domain:toutiaoimg.cn
 domain:sharepoint.cn
+domain:huanqiucdn.cn
 domain:tencentcs.cn
 domain:speedtest.cn
 domain:robloxdev.cn
@@ -767,6 +787,7 @@ domain:weibo.cn
 domain:udesk.cn
 domain:uczzd.cn
 domain:tbcdn.cn
+domain:quark.cn
 domain:qlogo.cn
 domain:qiyou.cn
 domain:nubia.cn

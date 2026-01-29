@@ -458,6 +458,7 @@ full:cdn.forms.office.net
 full:cdn.designerapp.osi.office.net
 full:res-geo.cdn.office.net
 full:shell.cdn.office.net
+full:res-3.cdn.office.net
 full:az700632.vo.msecnd.net
 full:alcdn.msauth.net
 full:images.mattel.net
@@ -557,6 +558,7 @@ full:storybooks.fluentui.dev
 full:logos.composio.dev
 full:biomejs.dev
 full:stats.setapp.macpaw.dev
+full:lucide.dev
 full:assets.github.dev
 full:fiddle.fastly.dev
 full:plugins.dprint.dev
@@ -1363,6 +1365,7 @@ full:www-res.cablelabs.com
 full:badge.buildkite.com
 full:media.breitbart.com
 full:static.bravoporn.com
+full:sourcepointcmp.bloomberg.com
 full:cdn.blogarama.com
 full:images.blockscan.com
 full:assets.bitwarden.com
@@ -2819,6 +2822,7 @@ full:badges.greenkeeper.io
 full:cdn.document360.io
 full:prod-packager-packages.codesandbox.io
 full:sandpack-cdn-v2.codesandbox.io
+full:nodebox-runtime.codesandbox.io
 full:screenshots.codesandbox.io
 full:uploads.codesandbox.io
 full:stats.codesandbox.io
@@ -2845,6 +2849,7 @@ full:static.getbutton.io
 full:static.corespeed.io
 full:r2cdn.corespeed.io
 full:assets.mcp.corespeed.io
+full:fast.chameleon.io
 full:sandpack-cdn-staging.blazingly.io
 full:img.badgesize.io
 full:unavatar.io

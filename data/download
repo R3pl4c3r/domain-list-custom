@@ -1013,6 +1013,7 @@ full:dl.cloudsmith.io
 full:registry.terraform.io
 full:ubuntu.letscloud.io
 full:mirror.datamossa.io
+full:version.cyberduck.io
 full:update.cyberduck.io
 full:release.runcloud.io
 full:mirror.katapult.io
@@ -1242,6 +1243,7 @@ full:builds.paranoidandroid.co
 full:mirrors.pardisco.co
 full:mirrors.atlas.net.co
 full:mirror.unimagdalena.edu.co
+full:cas-bridge.xethub.hf.co
 full:elmirror.cl
 full:ubuntu-mirror.puq.apoapsis.cl
 full:debian-mirror.puq.apoapsis.cl
