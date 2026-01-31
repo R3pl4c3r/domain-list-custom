@@ -224,6 +224,7 @@ full:design.codeberg.org
 full:fonts.codeberg.org
 full:static.aizanmei.org
 full:tools-static.wmflabs.org
+full:cdn.userway.org
 full:s.slideme.org
 full:pytorch.org
 full:videos.ohentai.org
@@ -247,6 +248,7 @@ full:assets.change.org
 full:vuejs.org
 full:gdb.rferl.org
 full:cdn.pagic.org
+full:jotai.org
 full:godoc.org
 full:static.gnome.org
 full:static.arxiv.org
@@ -511,6 +513,8 @@ full:www-static.ripe.net
 full:static.plus.net
 full:texture.laby.net
 full:static1.e621.net
+full:static.blip.net
+full:logs.blip.net
 full:images.wsj.net
 full:sts3.wsj.net
 full:vir.wsj.net
@@ -616,6 +620,7 @@ full:css.blackmagicdesign.com
 full:dd.blackhawknetwork.com
 full:imgs02.aventertainments.com
 full:js.assemblyexchange.com
+full:cdn.animenewsnetwork.com
 full:cdn.worldvectorlogo.com
 full:cms.worldpokerdeals.com
 full:analytics.welcomesoftware.com
@@ -639,6 +644,7 @@ full:cache.hackedfreegames.com
 full:images.financemagnates.com
 full:ui-cdn.digitalocean-ui.com
 full:imgssl.constantcontact.com
+full:conf.config-security.com
 full:shopify.cleverecommerce.com
 full:thumbnails.applegamingwiki.com
 full:images.applegamingwiki.com
@@ -996,6 +1002,7 @@ full:f002.backblazeb2.com
 full:f001.backblazeb2.com
 full:f000.backblazeb2.com
 full:img.applealmond.com
+full:cdn.amgreatness.com
 full:showcase.abovemarket.com
 full:assets.aboutamazon.com
 full:cdn2.abiresearch.com
@@ -1270,7 +1277,9 @@ full:cdn.onesignal.com
 full:cdn.nodeimage.com
 full:cms-assets.nodecraft.com
 full:media.newyorker.com
+full:static.newsbreak.com
 full:files.namecheap.com
+full:jssdkcdns.mparticle.com
 full:images.moovitapp.com
 full:static.mocortech.com
 full:public.mocortech.com
@@ -1446,6 +1455,7 @@ full:assets.scaleway.com
 full:embed.savvycal.com
 full:public.saasexch.com
 full:apps-static.route4me.com
+full:cdn.roseperl.com
 full:media-cdn.rollcall.com
 full:cdnassets.roboflow.com
 full:static.roboflow.com
@@ -2027,6 +2037,7 @@ full:cdn.setapp.com
 full:cdn.seondf.com
 full:vice-prod.sdiapi.com
 full:embed.runkit.com
+full:static.rumble.com
 full:i.rtings.com
 full:sp.replit.com
 full:static.redhat.com
@@ -2939,6 +2950,7 @@ full:sdk.gleap.io
 full:cdn.filen.io
 full:assets2.canny.io
 full:assets.canny.io
+full:cdn.bogos.io
 full:code.benco.io
 full:polyfill.bbhub.io
 full:assets.bbhub.io
@@ -3012,6 +3024,7 @@ full:cdn.ionos.de
 full:assets.openalternative.co
 full:cdn.stackoverflow.co
 full:cdn-avatars.huggingface.co
+full:js.convertflow.co
 full:waitlisted.co
 full:widgets.listenlive.co
 full:sdk.listenlive.co
@@ -3244,7 +3257,6 @@ domain:nextui.org
 domain:jw-cdn.org
 domain:adtidy.org
 domain:lencr.org
-domain:jotai.org
 domain:cdn.icann.org
 domain:eggjs.org
 domain:hits.b3log.org
@@ -3596,6 +3608,7 @@ domain:skypeassets.com
 domain:shoplineimg.com
 domain:dataplane.rudderstack.com
 domain:redditmedia.com
+domain:rechargecdn.com
 domain:qooqlevideo.com
 domain:pplusstatic.com
 domain:porndudecdn.com
