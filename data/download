@@ -95,6 +95,8 @@ full:repo.debiancn.org
 full:tukaani.org
 full:s3.teckids.org
 full:downloads.openwrt.org
+full:s2.animeko.openani.org
+full:s1.animeko.openani.org
 full:download.mozilla.org
 full:versioncheck-bg.addons.mozilla.org
 full:versioncheck.addons.mozilla.org
@@ -166,6 +168,7 @@ full:repo.maven.apache.org
 full:static.adtidy.org
 full:mirror.siwoo.org
 full:registry.npmjs.org
+full:d2.myani.org
 full:d.myani.org
 full:repo1.maven.org
 full:repository.jboss.org
