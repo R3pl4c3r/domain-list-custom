@@ -1272,6 +1272,7 @@ full:s3.picacomic.com
 full:cdn.permutive.com
 full:cdn.privacy.paramount.com
 full:static.parallels.com
+full:cdn.pagerduty.com
 full:assets.openshift.com
 full:media-cms.onesignal.com
 full:cdn.onesignal.com
@@ -2521,6 +2522,7 @@ full:net-fe-static-assets.network-controller.svc.ui.com
 full:uos-support-files.svc.ui.com
 full:content-cdn.svc.ui.com
 full:account-cdn.svc.ui.com
+full:cdn.academy.svc.ui.com
 full:images.svc.ui.com
 full:fonts.svc.ui.com
 full:files.svc.ui.com

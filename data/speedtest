@@ -944,6 +944,7 @@ full:columbia.speedtest.brightspeed.com
 full:chicago.speedtest.brightspeed.com
 full:speedtest001.bfinetworks.com
 full:speedtest-tr.atakanozban.com
+full:ookla-1.aerioncloud.com
 full:speedtest.xprimehost.com
 full:speedtest.xcdtelecom.com
 full:speedtest.wrinternet.com
@@ -2067,6 +2068,7 @@ full:lens.bbr.ookla.bytel.fr
 full:pau.bbr.ookla.bytel.fr
 full:idf.bbr.ookla.bytel.fr
 full:gre.bbr.ookla.bytel.fr
+full:speedtest.vyme.fr
 full:speedtest-1.netw.fr
 full:ookla.moji.fr
 full:testdebithom.enes.fr
@@ -2165,7 +2167,10 @@ full:speedtest.macht-dicht.de
 full:speedtest.ip-projects.de
 full:speedtest.fra01.datascheune.de
 full:ookla.ham-02.testpub.telefonica.de
+full:ookla.haj-01.testpub.telefonica.de
 full:ookla.fra-01.testpub.telefonica.de
+full:ookla.ess-01.testpub.telefonica.de
+full:ookla.dus-02.testpub.telefonica.de
 full:ookla.ber-01.testpub.telefonica.de
 full:nico2004uk.de
 full:speedtest.netcomnetz.de
