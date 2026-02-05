@@ -22,8 +22,13 @@ full:iad-eqx10-ookla-1.99.network
 full:dfw-eqx11-ookla-1.99.network
 full:mia-eqx1-ookla-1.99.network
 full:ewr-csq2-ookla-1.99.network
+full:speedtest-uk.the.hosting
+full:speedtest-tr.the.hosting
 full:speedtest-pl.the.hosting
+full:speedtest-nl.the.hosting
 full:speedtest-kr.the.hosting
+full:speedtest-it.the.hosting
+full:speedtest-es.the.hosting
 full:speedtest-de.pq.hosting
 full:speedtest-ca.pq.hosting
 full:t-moni.nebulax.digital
@@ -2139,6 +2144,7 @@ full:speedtest.sewan.es
 full:speedtestmad.adamo.es
 full:ookla.olin.es
 full:speedtest.ohz.es
+full:speedtest.uv.es
 full:172673828273027382738738.de
 full:speedtest2.stadtwerke-neustrelitz.de
 full:sp1.speedy.breitband-rostock.de
@@ -2185,6 +2191,7 @@ full:speedtest.pfalzkom.de
 full:speed2.netlixor.de
 full:speed.netlixor.de
 full:speedtest.ip-works.de
+full:armageddon.uvensys.de
 full:speedtest.twl-kom.de
 full:speedtest-gwn24.tele-ag.de
 full:speedtest1.t-m-net.de
@@ -2401,6 +2408,7 @@ full:teste.i9va.net.br
 full:speedam.wsp.net.br
 full:speedtest.mia.upx.net.br
 full:sp1.virtualnet.log.br
+full:velocidade.ip.eti.br
 full:speedtest.einet.etc.br
 full:sp1.fibernetespecializados.com.br
 full:speedtest.topnettelecomservicos.com.br
