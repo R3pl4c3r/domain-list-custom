@@ -51,6 +51,7 @@ full:assets.buttondown.email
 full:media.cleanshot.cloud
 full:cdn.bullwhip.cloud
 full:resources-live.sketch.cloud
+full:tiles.immich.cloud
 full:patterns.hiive.cloud
 full:cdn.craft.cloud
 full:cdn.tiny.cloud
@@ -70,6 +71,8 @@ full:media.remax-prod.eng.remax.tech
 full:static.pepy.tech
 full:packages.jetbrains.team
 full:pkg-cdn.jetbrains.team
+full:sdk.hubble.team
+full:cdn.hubble.team
 full:res2.weblium.site
 full:nextra.site
 full:p.inari.site
@@ -154,16 +157,20 @@ full:play.xfvod.pro
 full:assets.gcore.pro
 full:static.freedownloadmanager.org
 full:rawmarkdown.cloudflareaccess.org
+full:tile.waymarkedtrails.org
 full:i.creativecommons.org
 full:playgroundcdn.typescriptlang.org
 full:www.typescriptlang.org
 full:assets.squarewebsites.org
 full:sdk.privacy-center.org
+full:tile.openweathermap.org
+full:tiles.openrailwaymap.org
 full:assets.geeksforgeeks.org
 full:media.geeksforgeeks.org
 full:assets.documentcloud.org
 full:s3.documentcloud.org
 full:publicsuffix.org
+full:tile2.opencyclemap.org
 full:proxy.joinmastodon.org
 full:cdn-media-2.freecodecamp.org
 full:cdn-media-1.freecodecamp.org
@@ -177,6 +184,7 @@ full:cdn.simpleicons.org
 full:storage.sciencecast.org
 full:cdn.sciencecast.org
 full:play.publicradio.org
+full:tile.opentopomap.org
 full:covers.openlibrary.org
 full:tiles.openfreemap.org
 full:media.hentaifreak.org
@@ -187,6 +195,9 @@ full:app.backinstock.org
 full:easylist-downloads.adblockplus.org
 full:tiles.versatiles.org
 full:media.themoviedb.org
+full:tiles.openskimap.org
+full:tiles.maps.opensearch.org
+full:tiles.openseamap.org
 full:design.mayoclinic.org
 full:assets.mayoclinic.org
 full:seccdn.libravatar.org
@@ -225,11 +236,13 @@ full:design.codeberg.org
 full:fonts.codeberg.org
 full:static.aizanmei.org
 full:tools-static.wmflabs.org
+full:tiles.wmflabs.org
 full:cdn.userway.org
 full:s.slideme.org
 full:pytorch.org
 full:videos.ohentai.org
 full:assets.nxtrace.org
+full:tile.nextzen.org
 full:archive.mozilla.org
 full:cdn.mathjax.org
 full:pcz.javidol.org
@@ -251,6 +264,7 @@ full:gdb.rferl.org
 full:cdn.pagic.org
 full:jotai.org
 full:godoc.org
+full:tileserver.gnome.org
 full:static.gnome.org
 full:static.arxiv.org
 full:drscdn.500px.org
@@ -390,6 +404,7 @@ full:tvdownloaddw-a.akamaihd.net
 full:embedwistia-a.akamaihd.net
 full:ubistatic2-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:lolstatic-a.akamaihd.net
 full:steamcdn-a.akamaihd.net
 full:eaassets-a.akamaihd.net
 full:spoprod-a.akamaihd.net
@@ -452,7 +467,9 @@ full:craftassets.unraid.net
 full:components.trynow.net
 full:lzd-img-global.slatic.net
 full:icms-image.slatic.net
+full:tile.poloha.net
 full:maptile.osmand.net
+full:tile.osmand.net
 full:data.osmand.net
 full:attachments.office.net
 full:support.content.office.net
@@ -473,6 +490,7 @@ full:alt.idgesg.net
 full:practicaldev-herokuapp-com.freetls.fastly.net
 full:lastfm.freetls.fastly.net
 full:brick.freetls.fastly.net
+full:cartodb-basemaps-a.global.ssl.fastly.net
 full:brick.a.ssl.fastly.net
 full:screenshots.debian.net
 full:assets.video.yahoo.net
@@ -553,6 +571,7 @@ full:static.izanmei.icu
 full:time-a.nist.gov
 full:images-assets.nasa.gov
 full:assets.science.nasa.gov
+full:tile.loc.gov
 full:cdn.usd.fan
 full:cdn.onetime.dog
 full:i.jpg.dog
@@ -702,6 +721,7 @@ full:cdn.windowsreport.com
 full:assets-cdn.watchdisneyfe.com
 full:explorer-api.walletconnect.com
 full:js.verygoodvault.com
+full:tile.thunderforest.com
 full:cdn.thewirecutter.com
 full:files.thehackernews.com
 full:cdn.stellarhosted.com
@@ -932,6 +952,7 @@ full:assets2.lottiefiles.com
 full:assets1.lottiefiles.com
 full:cdn.livechatinc.com
 full:cdn.linearicons.com
+full:tiles-a.koordinates.com
 full:logos.kiwibrowser.com
 full:i.kickstarter.com
 full:a.kickstarter.com
@@ -1049,6 +1070,7 @@ full:assets.sendinblue.com
 full:resources.help.salesforce.com
 full:wp.salesforce.com
 full:cdn.safecharge.com
+full:tilecache.rainviewer.com
 full:qmod.quotemedia.com
 full:app.quotemedia.com
 full:cdn.promotekit.com
@@ -1077,6 +1099,7 @@ full:cdn.myfutanari.com
 full:assets.mastercard.com
 full:lift-ai-js.marketlinc.com
 full:clickup.marketlinc.com
+full:tiles.mapterhorn.com
 full:mantisloader.mantis-awx.com
 full:platforms.makemytrip.com
 full:fonts.mailerlite.com
@@ -1256,6 +1279,7 @@ full:cdn.schemaapp.com
 full:assets.scaleflex.com
 full:cdn.royaleapi.com
 full:img.riskified.com
+full:cdn.playersupport.riotgames.com
 full:img.represent.com
 full:jfe-cdn.qualtrics.com
 full:js.qualified.com
@@ -1303,6 +1327,7 @@ full:csp.microsoft.com
 full:js.memberful.com
 full:static.mediafire.com
 full:images.mathworks.com
+full:tiles.mapillary.com
 full:form-assets.mailchimp.com
 full:cdn-images.mailchimp.com
 full:static.macupdate.com
@@ -1524,6 +1549,7 @@ full:resources.digital-cloud.medallia.com
 full:c.marsflag.com
 full:media.maptiler.com
 full:cdn.maptiler.com
+full:tiles.mapilion.com
 full:imag.malavida.com
 full:img-api.mac4ever.com
 full:media.loom-app.com
@@ -1820,6 +1846,7 @@ full:image.mgstage.com
 full:acdn.mercury.com
 full:cdn.mercury.com
 full:static.maxmind.com
+full:tiles2.mapiful.com
 full:img-cos.mandaoo.com
 full:assets.mailgun.com
 full:i.magecdn.com
@@ -2055,6 +2082,11 @@ full:static.probit.com
 full:cdn-3.porn87.com
 full:cdn-2.porn87.com
 full:cdn-1.porn87.com
+full:tiles3.planet.com
+full:tiles2.planet.com
+full:tiles1.planet.com
+full:tiles0.planet.com
+full:tiles.planet.com
 full:assets.pixlee.com
 full:images.pexels.com
 full:static.peatio.com
@@ -2100,6 +2132,7 @@ full:cdn-client.medium.com
 full:glyph.medium.com
 full:miro.medium.com
 full:twemoji.maxcdn.com
+full:tile.mapzen.com
 full:static-assets.mapbox.com
 full:test.manyse.com
 full:img.manyse.com
@@ -2174,6 +2207,8 @@ full:icons.buffer.com
 full:img.bttimg.com
 full:static.beebom.com
 full:www.bbthat.com
+full:tiledbasemaps.arcgis.com
+full:tiles.arcgis.com
 full:assets.apnews.com
 full:dims.apnews.com
 full:preview.anysex.com
@@ -2546,6 +2581,8 @@ full:consent.dw.com
 full:static.dw.com
 full:evt.24.com
 full:a.pomf.cat
+full:geoserveis.icgc.cat
+full:tilemaps.icgc.cat
 full:oss.moe.cat
 full:ns-cdn.neustar.biz
 full:pics.mf8.biz
@@ -2579,6 +2616,7 @@ full:cdn.7tv.app
 full:cdn.24.co.za
 full:s.pacn.ws
 full:appstatico.electronic.us
+full:tile.ourmap.us
 full:cdn.donmai.us
 full:us01ccistatic.zoom.us
 full:eu01ccistatic.zoom.us
@@ -2806,6 +2844,7 @@ full:r.r10s.jp
 full:common-header.nimg.jp
 full:resource.video.nimg.jp
 full:i.gzn.jp
+full:tiles.gsj.jp
 full:nav.yumenosora.co.jp
 full:web-assets.zendesk.co.jp
 full:cdn.rex.contents.rakuten.co.jp
@@ -2871,6 +2910,7 @@ full:sandpack-cdn-staging.blazingly.io
 full:img.badgesize.io
 full:unavatar.io
 full:img.telemetr.io
+full:tile.skybrush.io
 full:prettier.io
 full:cdn.metadata.io
 full:cdn.jetboost.io
@@ -2909,6 +2949,7 @@ full:web-cdn.bitrise.io
 full:app-api.vidjet.io
 full:assets.upload.io
 full:js.upload.io
+full:tiles.terria.io
 full:static.status.io
 full:image.status.io
 full:media.smooch.io
@@ -2939,6 +2980,7 @@ full:cdn.split.io
 full:apps.sophi.io
 full:js.smile.io
 full:js.short.io
+full:cdn.rgpub.io
 full:documenter-assets.pstmn.io
 full:skills-assets.pstmn.io
 full:topbar-static.piano.io
@@ -3023,10 +3065,12 @@ full:versionbadg.es
 full:utteranc.es
 full:secure-res.craft.do
 full:res.craft.do
+full:tileserver.memomaps.de
 full:sp-spiegel-de.spiegel.de
 full:cdn.prod.www.spiegel.de
 full:www.acgpix.de
 full:cdn.ionos.de
+full:tile.mtbmap.cz
 full:assets.openalternative.co
 full:cdn.stackoverflow.co
 full:cdn-avatars.huggingface.co
@@ -3091,14 +3135,17 @@ full:static-cache.k2s.cc
 full:static.k2s.cc
 full:images.tg.cc
 full:img.tg.cc
+full:tiles.arcticconnect.ca
 full:cdn.adsninja.ca
 full:cdn4.focus.bg
 full:components.cyclingfactory.be
 full:images.cyclingfactory.be
+full:tile.osm.be
 full:res.abc.net.au
 full:styleguide-assets.shannons.com.au
 full:subscriptions.news.com.au
 full:tags.news.com.au
+full:tiles.maps.eox.at
 full:i.snap.as
 full:solve-widget.forethought.ai
 full:pplx-next-static-public.perplexity.ai
@@ -3233,6 +3280,7 @@ domain:rescript-lang.org
 domain:tile.openstreetmap.org
 domain:featureassets.org
 domain:streamhentai.org
+domain:openinframap.org
 domain:cdn-telegram.org
 domain:schemastore.org
 domain:qbittorrent.org
@@ -3962,6 +4010,7 @@ domain:tedcdn.com
 domain:sxccdn.com
 domain:surrit.com
 domain:strpst.com
+domain:tile.stamen.com
 domain:ss-cdn.com
 domain:sndimg.com
 domain:sndcdn.com
@@ -4093,6 +4142,7 @@ domain:contents.fc2.com
 domain:assets.brightspot.abebooks.a2z.com
 domain:wp.com
 domain:pixiv.cat
+domain:tile.openstreetmap.bzh
 domain:ipfs.kaleido.art
 domain:payloadcms.app
 domain:on-fleek.app
@@ -4134,6 +4184,7 @@ domain:imgsmail.ru
 domain:imageban.ru
 domain:images.androeed.ru
 domain:missuo.ru
+domain:tile.osmz.ru
 domain:qy0.ru
 domain:pixiv.re
 domain:fakeimg.pl
@@ -4241,6 +4292,8 @@ domain:cloudfront.net.in
 domain:yygimg.im
 domain:alexdav.id
 domain:ipfs.trusti.id
+domain:tile-cyclosm.openstreetmap.fr
+domain:tile.openstreetmap.fr
 domain:i-dont-care-about-cookies.eu
 domain:1passwordusercontent.eu
 domain:zohostatic.eu
@@ -4272,6 +4325,7 @@ domain:cas-bridge.xethub.hf.co
 domain:szjal.cn
 domain:applicationinsights.azure.cn
 domain:ipfs.xoqq.ch
+domain:tile.osm.ch
 domain:pravatar.cc
 domain:imagehub.cc
 domain:postimg.cc
