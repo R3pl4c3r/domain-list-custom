@@ -21,6 +21,7 @@ full:speedtest.mti.network
 full:iad-eqx10-ookla-1.99.network
 full:dfw-eqx11-ookla-1.99.network
 full:mia-eqx1-ookla-1.99.network
+full:lax-cos2-ookla-1.99.network
 full:ewr-csq2-ookla-1.99.network
 full:speedtest-uk.the.hosting
 full:speedtest-tr.the.hosting
@@ -2671,6 +2672,7 @@ full:speedtest-ash.vts.bf
 full:speedtest.qld.checknetworks.au
 full:speedtest.syd.hawknetlabs.au
 full:speed.sltry.au
+full:sydspeedtest.solitary.net.au
 full:speed-syd.gigacomm.net.au
 full:speed-mel.gigacomm.net.au
 full:speed-br2.gigacomm.net.au
