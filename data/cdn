@@ -771,6 +771,9 @@ full:static.cloudcachetci.com
 full:files.buildwithfern.com
 full:images.arigatotravel.com
 full:jac.yahoosandbox.com
+full:i3.xiaoyakankan.com
+full:i2.xiaoyakankan.com
+full:i1.xiaoyakankan.com
 full:cms-assets.xboxservices.com
 full:assets.xboxservices.com
 full:typescript.visualstudio.com
@@ -1534,6 +1537,7 @@ full:img.moviefap.com
 full:cdn-public-apis.moonlock.com
 full:pp-static.monotype.com
 full:momentjs.com
+full:play.modujx11.com
 full:launcher-files.modrinth.com
 full:cdn-raw.modrinth.com
 full:cdn.modrinth.com
@@ -3087,6 +3091,7 @@ full:before.good-apps.co
 full:static.convertio.co
 full:assets.jolipage.co
 full:cdn.jolipage.co
+full:cdn.inviter.co
 full:img.decrypt.co
 full:cdn.decrypt.co
 full:s4.anilist.co
@@ -3157,6 +3162,7 @@ full:sdk.customfit.ai
 full:static.returngo.ai
 full:file.xiaohai.ai
 full:prod-cdn.webtune.ai
+full:cms.mistral.ai
 full:widget.docsbot.ai
 full:cdn.aimerce.ai
 full:vetted.ai
