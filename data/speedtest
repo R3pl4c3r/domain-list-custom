@@ -20,6 +20,7 @@ full:speedtest.aeza.network
 full:speedtest.mti.network
 full:iad-eqx10-ookla-1.99.network
 full:dfw-eqx11-ookla-1.99.network
+full:ord-cos1-ookla-1.99.network
 full:mia-eqx1-ookla-1.99.network
 full:lax-cos2-ookla-1.99.network
 full:ewr-csq2-ookla-1.99.network
@@ -1941,6 +1942,7 @@ full:speedtest.sgbroadband.in
 full:sp1.mnetconnect.in
 full:speedtest4.fivenetwork.in
 full:speedtest.connectzone.in
+full:speedtest.aabroadband.in
 full:speedtest.worldphone.in
 full:speedtestsirsa.tripleplay.in
 full:speedtestdelhi.tripleplay.in
