@@ -1186,6 +1186,7 @@ full:cdn.conveythis.com
 full:assets.convertkit.com
 full:media.convertkit.com
 full:f.convertkit.com
+full:cdn.convertbox.com
 full:images.contentful.com
 full:cdn.contentful.com
 full:cdn.eu.contentful.com
@@ -3000,6 +3001,7 @@ full:cdn.piano.io
 full:data.pendo.io
 full:cdn.pendo.io
 full:media.mstdn.io
+full:purehalo.logto.io
 full:cdn-blocks.karte.io
 full:cdn-edge.karte.io
 full:statics.goorm.io
