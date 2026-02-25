@@ -390,6 +390,7 @@ full:s.midishow.net
 full:img.javstore.net
 full:img.highporn.net
 full:cdn.highporn.net
+full:files.gempages.net
 full:connect.facebook.net
 full:static.esimplus.net
 full:pub.creaders.net
@@ -900,6 +901,7 @@ full:static1.squarespace.com
 full:s3media.squarespace.com
 full:assets.squarespace.com
 full:assets.speedvitals.com
+full:images.socialblade.com
 full:cdn.activity.smart-bdash.com
 full:img.shoplineapp.com
 full:cdn.shoplineapp.com
@@ -973,6 +975,7 @@ full:sdk.helloextend.com
 full:media.graphassets.com
 full:static.gettyimages.com
 full:media.gettyimages.com
+full:assets.gemcommerce.com
 full:stories.freepiklabs.com
 full:static.foxbusiness.com
 full:use.fortawesome.com
@@ -1342,6 +1345,7 @@ full:images.macrumors.com
 full:cdn.lineicons.com
 full:scdn.line-apps.com
 full:cdn.lgrckt-in.com
+full:images.klipfolio.com
 full:images.justwatch.com
 full:cdn.joypixels.com
 full:cdn.joinhoney.com
@@ -2608,6 +2612,7 @@ full:cdn.matterhorn.app
 full:weather.istatmenus.app
 full:cdn.accessibly.app
 full:cdn.langshop.app
+full:widgets.goaffpro.app
 full:assets.airbuddy.app
 full:videos.elephas.app
 full:bundle.dyn-rev.app
@@ -2875,6 +2880,8 @@ full:cdn.insightmediagroup.io
 full:images.microcms-assets.io
 full:assets-next.mattersprotocol.io
 full:cdn.simplelocalize.io
+full:imgs.socialinsider.io
+full:cms.socialinsider.io
 full:edge.sitecorecloud.io
 full:static.ipgeolocation.io
 full:telemetry.stepsecurity.io

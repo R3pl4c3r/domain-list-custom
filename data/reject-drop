@@ -8,6 +8,7 @@ domain:null
 domain:telemetry.mozilla.org
 domain:getui.net
 domain:easytomessage.com
+domain:data.grammarly.com
 domain:slackb.com
 domain:gepush.com
 domain:getui.com
@@ -17,6 +18,10 @@ domain:tracking.miui.com
 domain:tracking.intl.miui.com
 domain:beacon.qq.com
 domain:trace.qq.com
+domain:f-log-extension.grammarly.io
+domain:f-log-assistant.grammarly.io
+domain:femetrics.grammarly.io
 domain:jpush.io
+domain:femetrics.qagr.io
 domain:jpush.cn
 regexp:^f-log[\w.-]*?\.grammarly\.io$
