@@ -408,6 +408,7 @@ full:steamvideo-a.akamaihd.net
 full:lolstatic-a.akamaihd.net
 full:steamcdn-a.akamaihd.net
 full:eaassets-a.akamaihd.net
+full:bitmovin-a.akamaihd.net
 full:spoprod-a.akamaihd.net
 full:lumiere-a.akamaihd.net
 full:img.adspower.net
@@ -618,6 +619,7 @@ full:screenshots.downloadtorrentfile.com
 full:cdn.cms-twdigitalassets.com
 full:im.np-payment-gateway.com
 full:media.datacenterdynamics.com
+full:nextplore.vercel.zapier-deployment.com
 full:demo.unified-streaming.com
 full:media.theresanaiforthat.com
 full:media.technologycounter.com
@@ -815,6 +817,12 @@ full:clientstream.launchdarkly.com
 full:clientsdk.launchdarkly.com
 full:static.launchdarkly.com
 full:events.launchdarkly.com
+full:lf16-larkversion.larksuitecdn.com
+full:sf19-scmcdn.larksuitecdn.com
+full:p16-hera-va.larksuitecdn.com
+full:p16-hera-sg.larksuitecdn.com
+full:sf-ibf-va.larksuitecdn.com
+full:sf-ibf-sg.larksuitecdn.com
 full:spcdn.incartupsell.com
 full:cdn.imago-images.com
 full:cdn1.identitymind.com
@@ -1673,6 +1681,7 @@ full:assets.calendly.com
 full:assets.byteplus.com
 full:assets.bravenet.com
 full:static.registration.bluehost.com
+full:cdn.bitmovin.com
 full:static.bitfinex.com
 full:static-files.bitchute.com
 full:static-4.bitchute.com
@@ -3282,11 +3291,18 @@ domain:imglink.win
 domain:cloudforfun.vip
 domain:cloudlin.vip
 domain:javcdn.vip
+domain:hydaelyn-25x-18.top
 domain:filecunhua.top
 domain:alphafish.top
 domain:mobilius.top
 domain:apperoni.top
 domain:pichost.top
+domain:imageg.top
+domain:imagef.top
+domain:imagee.top
+domain:imaged.top
+domain:imagec.top
+domain:imageb.top
 domain:gitcdn.top
 domain:balley.top
 domain:akidoo.top
@@ -3646,7 +3662,6 @@ domain:olemovienews.com
 domain:neweggimages.com
 domain:meetupstatic.com
 domain:media-amazon.com
-domain:larksuitecdn.com
 domain:kinja-static.com
 domain:jinyingimage.com
 domain:img-dpreview.com
@@ -3755,6 +3770,7 @@ domain:imgikuncdn.com
 domain:imagetwist.com
 domain:hs-scripts.com
 domain:images.hentaicity.com
+domain:hanime-cdn.com
 domain:content-storage-upload.googleapis.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:commondatastorage.googleapis.com
