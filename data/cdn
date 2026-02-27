@@ -226,6 +226,7 @@ full:static.spigotmc.org
 full:proxy.spigotmc.org
 full:static.opensuse.org
 full:open-vsx.org
+full:images.mobilism.org
 full:demotiles.maplibre.org
 full:design.keyoxide.org
 full:modules.kernelsu.org
@@ -515,6 +516,7 @@ full:bunnycdn-video-assets.b-cdn.net
 full:vz-c0fe498e-5ab.b-cdn.net
 full:vz-2222604c-50b.b-cdn.net
 full:hentaiworldtv.b-cdn.net
+full:vg-bunny-cdn.b-cdn.net
 full:divhunt-site.b-cdn.net
 full:groundnews.b-cdn.net
 full:mintlify.b-cdn.net
@@ -1192,6 +1194,7 @@ full:external-content.duckduckgo.com
 full:icons.duckduckgo.com
 full:assets.dictionary.com
 full:cdn.delight-vr.com
+full:static.websites.data-crypt.com
 full:static-beta.curseforge.com
 full:images.crunchbase.com
 full:cdn.conveythis.com
@@ -1420,6 +1423,7 @@ full:cdn.changelog.com
 full:sequoia.cdn-apple.com
 full:doppler-config.cbsivideo.com
 full:www-res.cablelabs.com
+full:cdn.buttercms.com
 full:badge.buildkite.com
 full:media.breitbart.com
 full:static.bravoporn.com
@@ -3313,6 +3317,7 @@ domain:esm.run
 domain:bmp.ovh
 domain:someonewhocares.org
 domain:wmfusercontent.org
+domain:eclipsecontent.org
 domain:rescript-lang.org
 domain:tile.openstreetmap.org
 domain:featureassets.org
@@ -3667,6 +3672,7 @@ domain:jinyingimage.com
 domain:img-dpreview.com
 domain:images-iherb.com
 domain:hubspotlinks.com
+domain:htv-hydaelyn.com
 domain:githubassets.com
 domain:getaroom-cdn.com
 domain:framerstatic.com

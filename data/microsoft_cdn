@@ -23,6 +23,7 @@ domain:collaborateppe.download.prss.microsoft.com
 domain:dreamsparkuat.download.prss.microsoft.com
 domain:azurestackhub.download.prss.microsoft.com
 domain:officemktuat.download.prss.microsoft.com
+domain:msproductuat.download.prss.microsoft.com
 domain:itacademyuat.download.prss.microsoft.com
 domain:azuremigrate.download.prss.microsoft.com
 domain:mpnbenefits.download.prss.microsoft.com
@@ -38,9 +39,11 @@ domain:vlportal.download.prss.microsoft.com
 domain:software.download.prss.microsoft.com
 domain:cbdstest.download.prss.microsoft.com
 domain:surface.download.prss.microsoft.com
+domain:myvsuat.download.prss.microsoft.com
 domain:windbg.download.prss.microsoft.com
 domain:vscode.download.prss.microsoft.com
 domain:oemsoc.download.prss.microsoft.com
+domain:mbsuat.download.prss.microsoft.com
 domain:lexuat.download.prss.microsoft.com
 domain:volic.download.prss.microsoft.com
 domain:myvs.download.prss.microsoft.com
