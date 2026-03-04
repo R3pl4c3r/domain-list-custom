@@ -460,6 +460,7 @@ full:mirror.domainhizmetleri.com
 full:downloads.cloudflareclient.com
 full:pkg.cloudflareclient.com
 full:mirror.bharatdatacenter.com
+full:typeless-static.com
 full:mirrors.advancedhosters.com
 full:ubuntu.securedservers.com
 full:mirror.raiolanetworks.com
@@ -582,6 +583,7 @@ full:assets1.xboxlive.com
 full:xvcf2.xboxlive.com
 full:xvcf1.xboxlive.com
 full:mirror.verinomi.com
+full:cdn.vemetric.com
 full:mirror.ukrnames.com
 full:mirrors.storpool.com
 full:download.snipaste.com
@@ -650,6 +652,7 @@ full:mirror.xeonbd.com
 full:dl.wechat.com
 full:ubuntu.vpsttt.com
 full:mirror.vpsnet.com
+full:download.umbrel.com
 full:security.ubuntu.com
 full:ubuntu.tuxuri.com
 full:mirror.tngnet.com
@@ -1028,6 +1031,7 @@ full:repo.nextdns.io
 full:pkgs.netbird.io
 full:download.cypress.io
 full:cdn.cypress.io
+full:cdn.affonso.io
 full:rep-ubuntu-il.upress.io
 full:download.typora.io
 full:packages.httpie.io
