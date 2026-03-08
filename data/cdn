@@ -1250,6 +1250,7 @@ full:quests.armorgames.com
 full:files.armorgames.com
 full:cache.armorgames.com
 full:agi.armorgames.com
+full:data3.answerbase.com
 full:widget.allkeyshop.com
 full:cdn.allkeyshop.com
 full:static.adguardvpn.com
@@ -1369,6 +1370,7 @@ full:static.incapsula.com
 full:vids.imagepost.com
 full:i.imagepost.com
 full:cdni.iconscout.com
+full:cdn.himetrica.com
 full:freeshippingbar.herokuapp.com
 full:snyk-widget.herokuapp.com
 full:heroicons.com
@@ -1616,6 +1618,7 @@ full:img2.gelbooru.com
 full:media.gamestop.com
 full:assets.frontegg.com
 full:badges.frapsoft.com
+full:cdn.foxycart.com
 full:filestore.fortinet.com
 full:resizing.flixster.com
 full:static-assets-web.flixcart.com
@@ -2902,6 +2905,7 @@ full:imgs.socialinsider.io
 full:cms.socialinsider.io
 full:edge.sitecorecloud.io
 full:static.ipgeolocation.io
+full:cdn.boostcommerce.io
 full:telemetry.stepsecurity.io
 full:edge.personalizer.io
 full:images.contentstack.io
@@ -3707,6 +3711,7 @@ domain:substackcdn.com
 domain:steamstatic.com
 domain:staticimgly.com
 domain:staticblitz.com
+domain:stackassets.com
 domain:splunkcloud.com
 domain:skypeassets.com
 domain:shoplineimg.com
