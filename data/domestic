@@ -857,4 +857,3 @@ domain:22.cn
 domain:t.cn
 domain:6.cn
 domain:3.cn
-regexp:^[\w.-]*?\.qhimgs[\w.-]\.com$

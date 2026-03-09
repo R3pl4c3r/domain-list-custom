@@ -24,4 +24,3 @@ domain:femetrics.grammarly.io
 domain:jpush.io
 domain:femetrics.qagr.io
 domain:jpush.cn
-regexp:^f-log[\w.-]*?\.grammarly\.io$

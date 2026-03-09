@@ -35,9 +35,3 @@ domain:p2plog.douyucdn.cn
 domain:gjfzpt.cn
 keyword:-p2p.pull.yximgs.com
 keyword:-p2p-v2.pull.yximgs.com
-regexp:^p2p[\w.-]*?\.qq\.com$
-regexp:^p2p-[\w.-]*?\.douyucdn\.cn$
-regexp:^p2pchunk-[\w.-]*?\.douyucdn\.cn$
-regexp:^dyp2p-[\w.-]*?\.douyucdn\.cn$
-regexp:^p2plive-[\w.-]*?\.douyucdn\.cn$
-regexp:^stun[\w.-]*?\.douyucdn\.cn$

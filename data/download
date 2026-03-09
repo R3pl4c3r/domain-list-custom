@@ -1893,10 +1893,3 @@ domain:mirror.digitalpacific.com.au
 domain:mirror.amaze.com.au
 domain:mirror.gnc.am
 domain:mirror.homacloud.ai
-regexp:^download[\w.-]*?\.mediafire\.com$
-regexp:^ftp\.[\w.-][\w.-]\.debian\.org$
-regexp:^ftp\.[\w.-][\w.-]\.freebsd\.org$
-regexp:^[\w.-]*?\.s3\.[\w.-]*?\.backblazeb2\.com$
-regexp:^cdn-[\w.-]*?\.comaps\.app$
-regexp:^cdn-[\w.-]*?\.comaps\.tech$
-regexp:^cdn-[\w.-]*?\.organicmaps\.app$
