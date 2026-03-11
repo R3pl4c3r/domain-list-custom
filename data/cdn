@@ -2506,6 +2506,8 @@ full:assets.kagi.com
 full:social-reaction-api.hk01.com
 full:cdn.hk01.com
 full:assets.habr.com
+full:event-assets.gsma.com
+full:fa.gsma.com
 full:cms-cdn.goat.com
 full:assets.goat.com
 full:image.goat.com
@@ -4189,6 +4191,7 @@ domain:via0.com
 domain:sirv.com
 domain:www.s81c.com
 domain:nv7s.com
+domain:fonts.gsma.com
 domain:fsdn.com
 domain:ax1x.com
 domain:a1tb.com
