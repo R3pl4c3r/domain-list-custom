@@ -158,6 +158,7 @@ full:speedtest03.bluestreamfiber.net
 full:speedtest.bloomingdalecom.net
 full:speedtest.artofautomation.net
 full:speedtest.voip-unlimited.net
+full:speedtest-az.survivalflight.net
 full:speedtest.provedoracesso.net
 full:speedtest.newberlinfiber.net
 full:speedtest.fortdodgefiber.net
@@ -1543,6 +1544,7 @@ full:speedtest-m22.quickline.co.uk
 full:speedtest-london-east.vodafone.co.uk
 full:speedtest-manchester.vodafone.co.uk
 full:speedtest.redactus.co.uk
+full:speedtest.ip-house.co.uk
 full:speedtest.scotnet.co.uk
 full:speedtestvol.optinet.co.uk
 full:speedtestthw.optinet.co.uk
@@ -2197,7 +2199,9 @@ full:sp1.speedy.breitband-rostock.de
 full:speedtest.stadtwerke-soest.de
 full:speedtest.schlueter-server.de
 full:speedtest.hochschule-trier.de
+full:dtmd-tc.wsqm.telekom-dienste.de
 full:dssd-tc.wsqm.telekom-dienste.de
+full:hmb-tc.wsqm.telekom-dienste.de
 full:ham.wsqm.telekom-dienste.de
 full:ffm.wsqm.telekom-dienste.de
 full:dus.wsqm.telekom-dienste.de
