@@ -575,6 +575,7 @@ full:tile2.intervals.icu
 full:static.izanmei.icu
 full:time-a.nist.gov
 full:images-assets.nasa.gov
+full:gibs-c.earthdata.nasa.gov
 full:assets.science.nasa.gov
 full:tile.loc.gov
 full:cdn.usd.fan
@@ -870,6 +871,7 @@ full:cdn77-t.ashemaletube.com
 full:cdn77.ashemaletube.com
 full:server.arcgisonline.com
 full:photos5.appleinsider.com
+full:map.adsbexchange.com
 full:widgets.zohosalesiq.com
 full:images.youracclaim.com
 full:bookface-static.ycombinator.com
@@ -2765,6 +2767,7 @@ full:cdn.birdie.so
 full:storage.tally.so
 full:assets-v2.super.so
 full:sites.super.so
+full:assets.shots.so
 full:assets.cello.so
 full:cdn.mida.so
 full:images.spr.so
@@ -3374,6 +3377,7 @@ domain:hits.b3log.org
 domain:91pic.org
 domain:pgl.yoyo.org
 domain:tnmr.org
+domain:jspm.org
 domain:hsto.org
 domain:ehgt.org
 domain:ipfs.busy.org
