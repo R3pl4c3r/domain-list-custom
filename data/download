@@ -481,6 +481,7 @@ full:mirror.softaculous.com
 full:mirror.scaleuptech.com
 full:ubuntu.rootlicense.com
 full:downloads.raspberrypi.com
+full:archive.raspberrypi.com
 full:mirrors.rackhosting.com
 full:mirror.nodesdirect.com
 full:mirrors.nepalicloud.com
@@ -714,6 +715,7 @@ full:mirror.xtom.com
 full:download.xbox.com
 full:cpan.pair.com
 full:cdnorg.d.miui.com
+full:download01.logi.com
 full:cdn.kagi.com
 full:edgedl.me.gvt1.com
 full:mirror.enzu.com
@@ -1399,6 +1401,7 @@ domain:tmpfiles.org
 domain:artfiles.org
 domain:iso.reactos.org
 domain:mirrors.ionfish.org
+domain:files.ghostty.org
 domain:archive.org
 domain:mirrors.dotsrc.org
 domain:ftp-master.debian.org

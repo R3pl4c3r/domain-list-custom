@@ -47,6 +47,7 @@ full:images.github.media
 full:jssdk.opin.media
 full:global-assets.fitch.group
 full:node.green
+full:tomshardware-data.community.forum
 full:assets.buttondown.email
 full:media.cleanshot.cloud
 full:cdn.bullwhip.cloud
@@ -1822,6 +1823,7 @@ full:cdn.quadpay.com
 full:image.prntscr.com
 full:st.prntscr.com
 full:cdn.privacy.com
+full:app-static-prod.posthog.com
 full:app-static.eu.posthog.com
 full:us-assets.i.posthog.com
 full:eu-assets.i.posthog.com
