@@ -8,6 +8,7 @@ full:mirrors.esto.network
 full:ubuntu.netforce.hosting
 full:debian.netforce.hosting
 full:mirror.eliv.digital
+full:cr.yandex
 full:mirror.jeonnam.school
 full:mirrors.gethosted.online
 full:mirror.kkg.berlin
@@ -550,6 +551,7 @@ full:amupdatedl.microsoft.com
 full:packages.microsoft.com
 full:cdn.winget.microsoft.com
 full:msdl.microsoft.com
+full:mcr.microsoft.com
 full:mirrors.liquidweb.com
 full:packages.linuxmint.com
 full:download-cdn.jetbrains.com
