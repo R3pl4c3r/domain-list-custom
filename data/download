@@ -555,6 +555,7 @@ full:mcr.microsoft.com
 full:mirrors.liquidweb.com
 full:packages.linuxmint.com
 full:download-cdn.jetbrains.com
+full:downloads.marketplace.jetbrains.com
 full:download.jetbrains.com
 full:cdn.hyperbeam.com
 full:mirror.gotmyhost.com
@@ -1059,6 +1060,7 @@ full:dl.nwjs.io
 full:u.keka.io
 full:dl-portal.iina.io
 full:dl.iina.io
+full:dl.min.io
 full:npm.jsr.io
 full:mirror.bom2.albony.in
 full:mirror.del.albony.in

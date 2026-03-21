@@ -94,6 +94,7 @@ full:speedtest.ams14.usenet.farm
 full:speedtest.heartofiowa.coop
 full:speedtest.brooketel.coop
 full:speedtest.citizens.coop
+full:sp1.ecolink.coop
 full:speedtest04.ber.server.camp
 full:speedtest03.ber.server.camp
 full:speedtest01.ber.server.camp
@@ -131,10 +132,12 @@ full:speedtest.amsterdam.valtrix.org
 full:speedtest.warsaw.valtrix.org
 full:test1.telitel.org
 full:speedtest.philasd.org
+full:speedtest.chanute.org
 full:speedtest-wa.waveip.org
 full:speedtest1.top-ix.org
 full:bsnlooklachd.mywire.org
 full:speedtest.eidnet.org
+full:ookla.esu10.org
 full:speedtest.advps.org
 full:akrd-speedtest.loni.org
 full:speedtest.esu5.org
@@ -162,6 +165,7 @@ full:speedtest-az.survivalflight.net
 full:speedtest.provedoracesso.net
 full:speedtest.newberlinfiber.net
 full:speedtest.fortdodgefiber.net
+full:speedtest.chickasawphone.net
 full:speedtest.whiteprovider.net
 full:dllstx-ookla1.vyvebroadband.net
 full:node01-eulon-free.tropicalgames.net
@@ -182,7 +186,9 @@ full:speedtest-cv-1.zoominternet.net
 full:speedtest-bd-1.zoominternet.net
 full:speedtest-ad-1.zoominternet.net
 full:speedtest.zoominternet.net
+full:speedtest.wakewireless.net
 full:speedtest.vacastelecom.net
+full:speedtest.unitedtelcom.net
 full:sb-speedtest-1.twmbroadband.net
 full:speed.tajbroadband.net
 full:speedtest.supersonicbb.net
@@ -207,6 +213,7 @@ full:speedtest.cteducation.net
 full:altoonaspeedtest.crowsnestbb.net
 full:speedtest.ama-networx.net
 full:speed04.ama-networx.net
+full:speedtest.twinvalley.net
 full:dal-speedtest.transtelco.net
 full:speedtest.tcaexpress.net
 full:speedtest31.suddenlink.net
@@ -215,6 +222,7 @@ full:speedtest19.suddenlink.net
 full:speedtest17.suddenlink.net
 full:speedtest15.suddenlink.net
 full:speedtest13.suddenlink.net
+full:speedtest03.suddenlink.net
 full:speed1.spitfireuk.net
 full:speedtest.skywaywest.net
 full:sp1.simplybits.net
@@ -228,6 +236,7 @@ full:speedtest.netcalibre.net
 full:speedtest.correggio.netandwork.net
 full:speedtest3.myninestar.net
 full:txdllsspeedtest01.mybluepeak.net
+full:okokcyspeedtest01.mybluepeak.net
 full:speedtest.nl3.mirhosting.net
 full:speedtest.nl1.mirhosting.net
 full:speedtest.us.mirhosting.net
@@ -270,6 +279,7 @@ full:lg-ams.fdcservers.net
 full:speedtest.mia.fdcservers.net
 full:speedtest.hnd.fdcservers.net
 full:speedtest4.ekowebtech.net
+full:ookla2.eaglecable.net
 full:lon-hex-speedtest.cloudconnx.net
 full:speedtest.bluevalley.net
 full:speedtest-ns.bellaliant.net
@@ -286,6 +296,7 @@ full:speedtest.uzmansoft.net
 full:speed.tritan-bb.net
 full:speedtest.tierpoint.net
 full:speed1.syseleven.net
+full:speedtest2.springnet.net
 full:speedtest.wp.shawcable.net
 full:speedtest.vc.shawcable.net
 full:speedtest.ok.shawcable.net
@@ -367,6 +378,7 @@ full:ookla.lanetcie.net
 full:velocimetrostm.interlig.net
 full:speedtest-txg.infinirc.net
 full:speedtest.hostabil.net
+full:speed.hamilton.net
 full:speed.golddata.net
 full:speedtest5.fybercom.net
 full:speedtest.ftmojave.net
@@ -375,6 +387,7 @@ full:ookla.delhitel.net
 full:speedtest.currenta.net
 full:mtcspeedtest.catskill.net
 full:open.cachefly.net
+full:speedtest.bwtelcom.net
 full:sp7.atcc-gns.net
 full:sp3.atcc-gns.net
 full:ookla.as400442.net
@@ -413,6 +426,7 @@ full:ld1.vayutel.net
 full:speedtest.twerion.net
 full:test1.telitel.net
 full:speedtest.telerys.net
+full:speedtest.tctelco.net
 full:st1.tbaytel.net
 full:speedtest.sogetel.net
 full:edinburg-va.speedtest.shentel.net
@@ -478,6 +492,7 @@ full:randomlake-speedtest1.as36001.net
 full:speedtest1-sttlwawb.as20055.net
 full:speedtest-ntt-ldn.as20011.net
 full:speedtest-ntt-fra.as20011.net
+full:speed.sgf01.as17303.net
 full:spt-nyc.as13786.net
 full:speedtest10g.bhm.as13760.net
 full:speedtest10g.atl.as13760.net
@@ -496,6 +511,7 @@ full:testdebit.vialis.net
 full:bpwoippy.vialis.net
 full:ookla.ukcell.net
 full:speedtest.swnnms.net
+full:speedtest1.st-tel.net
 full:speed.sparcs.net
 full:speedtest3a.socket.net
 full:speedtest1a.socket.net
@@ -504,6 +520,9 @@ full:speedtestnet.relaix.net
 full:speedtest.quadro.net
 full:speedtest1.sma.nj.us.planet.net
 full:bursaspeedtest.pendns.net
+full:tul-speedtest.onenet.net
+full:okc-speedtest.onenet.net
+full:spdookla10g0201.noanet.net
 full:speedtest.nethiz.net
 full:speedtest.neitel.net
 full:speedtest.n4uspl.net
@@ -513,7 +532,9 @@ full:speedtest.maryno.net
 full:speedtest.lwlcom.net
 full:netservice01.ber01.lwlcom.net
 full:lsdspeed01.lsdops.net
+full:speedtest.lrecok.net
 full:speedtest.kapper.net
+full:speedtest-wichita.kanren.net
 full:speedtest-kc.kanren.net
 full:speedtest-london.its-tg.net
 full:speedtestookla.itgate.net
@@ -572,6 +593,7 @@ full:speedtest.vt.mycci.net
 full:speedtest2.pa.mycci.net
 full:speedtest.me.mycci.net
 full:speedtest.il.mycci.net
+full:st-lwr.midco.net
 full:st-fmt.midco.net
 full:speedtest.lumos.net
 full:perf.keyyo.net
@@ -586,6 +608,7 @@ full:tc1.chtm.hinet.net
 full:kh1.chtm.hinet.net
 full:hc1.chtm.hinet.net
 full:ch1.chtm.hinet.net
+full:speedtest.gobec.net
 full:speedtest.gmtel.net
 full:speed.gmavt.net
 full:speedtest.chd.gispl.net
@@ -596,6 +619,7 @@ full:speedtest.lon1.edgoo.net
 full:speedtest1.cirbn.net
 full:speedtest.cirbn.net
 full:speedtest.cdlan.net
+full:speedtest-fyvl.areon.net
 full:speedtest.apnic.net
 full:speedtest.aoter.net
 full:speedtest.3wave.net
@@ -610,6 +634,8 @@ full:speedtest-msk.retn.net
 full:speedtest-lon.retn.net
 full:speedtest-hkg.retn.net
 full:speedtest-ams.retn.net
+full:speedtest.ptsi.net
+full:speedtest.pldi.net
 full:speedtest.nemr.net
 full:40gspeedtest.mnsi.net
 full:speedtest.mhtc.net
@@ -655,6 +681,7 @@ full:speedtest.hay.net
 full:speedtest2.grm.net
 full:speedtest.grm.net
 full:ptb.speedtest.gci.net
+full:speed.ckt.net
 full:speedtest.cfu.net
 full:bytp-speedtest-1.123.net
 full:ipl3pt.syd.ops.aspac.uu.net
@@ -677,13 +704,16 @@ full:speedtest-coda.noc.gatech.edu
 full:ookla-mgw.wvnet.edu
 full:ookla-crw.wvnet.edu
 full:speedtest-gdrp.merit.edu
+full:speedtest.fhsu.edu
 full:speedtest.oit.duke.edu
 full:ookla.net.unc.edu
 full:speedtest.rit.edu
 full:speedtest.gsu.edu
+full:speedtest.oc.edu
 full:speedtest.lazco.dev
 full:albuquerque-speedtest.sacredwindcommunications.com
 full:speedtest.mifflincountywireless.com
+full:speedtest.optic-communications.com
 full:speedtest.unmbroadbandservice.com
 full:st.racsanntechnologies.com
 full:speedtest.heartlandtechnology.com
@@ -700,12 +730,14 @@ full:speedtest-buffalo.greenlightnetworks.com
 full:speedtest-albany.greenlightnetworks.com
 full:speedtest.greenlightnetworks.com
 full:speed.circlecityinternet.com
+full:speedtest.circlebwirelessllc.com
 full:speedtest.absolutevalidation.com
 full:d-pcommunications.com
 full:cugspeed.chinaunicomglobal.com
 full:sgspeed.chinaunicomglobal.com
 full:speedtest.bradfordbroadband.com
 full:speedtest.acrospirenetworks.com
+full:speedtest.waveruralconnect.com
 full:stmum.tatatelebusiness.com
 full:stdel.tatatelebusiness.com
 full:suntechspeedtest.com
@@ -731,8 +763,11 @@ full:speedtest.belmontcountygig.com
 full:airspeed.airwavesinternet.com
 full:speed.airwavesinternet.com
 full:speedtest.accessoninternet.com
+full:speedtest.xstreamservices.com
+full:speedtest.wilsontelephone.com
 full:speed.webseitenserver.com
 full:ooklaserver1-del1.skymaxbroadband.com
+full:speedtest.resoundnetworks.com
 full:speedtest14.point-broadband.com
 full:speedtest4.point-broadband.com
 full:speedtest3.point-broadband.com
@@ -740,6 +775,7 @@ full:speedtest.parishbroadband.com
 full:speedtest2.pacificinternet.com
 full:speedtest.naturalwireless.com
 full:speedtest.masteritsupport.com
+full:st1.liberty-connect.com
 full:speedeusebio.infolinktelecom.com
 full:speedfor.infolinktelecom.com
 full:speedtest.heartland-fiber.com
@@ -778,6 +814,7 @@ full:speed1.directnet7star.com
 full:de-speedtest.digitalexample.com
 full:speedtest.dathannetworks.com
 full:speedtest.dakshbroadband.com
+full:wellington-speedtest.connectwithusa.com
 full:speedtest-atl.conexonconnect.com
 full:speedtest-kc.conexonconnect.com
 full:cspeedtest.candorsolution.com
@@ -794,6 +831,7 @@ full:sp1.angelbroadband.com
 full:speedtest.airnetnetworks.com
 full:speedtestvlc.zafirotelecom.com
 full:sp1.worldfibernet.com
+full:ooklaspeedtest.wilcowireless.com
 full:speedtest.waterloofiber.com
 full:sipl.speedtest.sukaininfoway.com
 full:speedtest.squirrellogic.com
@@ -875,6 +913,7 @@ full:speedtest.sc1.loopinternet.com
 full:speedtest.lightsource1.com
 full:sp1.jdmbroadband.com
 full:speedtest.jcnettelecom.com
+full:alln-ks-st.highlinefast.com
 full:stdal.highlinefast.com
 full:stchi.highlinefast.com
 full:speedtestmnc.grainconnect.com
@@ -886,6 +925,7 @@ full:speedtest.empireaccess.com
 full:speedtest.dsgroupmedia.com
 full:speedtest.cmltelephone.com
 full:sp1.campanaworks.com
+full:speed.btcbroadband.com
 full:miaspeedtest.blackburn-pr.com
 full:nms.bhrbroadband.com
 full:inbbhaldwani.speedtest.bhaukaalbaba.com
@@ -921,6 +961,7 @@ full:speedtest.plasmanodes.com
 full:speedtest.pimcommcorp.com
 full:speedtest.nxt-telecom.com
 full:speedtest-01.nhbroadband.com
+full:speedtest.mycvecfiber.com
 full:ookla.mthnetworks.com
 full:speed.mpvnetworks.com
 full:mib-rst-sp1.mibroadband.com
@@ -934,6 +975,7 @@ full:speedtest.nrflvaaa.metronetinc.com
 full:speedtest.lnngmiaa.metronetinc.com
 full:speedtest.dvnpiaaa.metronetinc.com
 full:speedtest.dllstx97.metronetinc.com
+full:speedtest.brarokaa.metronetinc.com
 full:speedtest.bltnilaa.metronetinc.com
 full:speedtest.amesiaaa.metronetinc.com
 full:speedtest.massivemesh.com
@@ -941,6 +983,7 @@ full:srv02-sjdm.imj-wanklik.com
 full:speedtest.i3broadband.com
 full:speedtest-nl.hyperfilter.com
 full:speedtest-ams-nl.host-palace.com
+full:speedtest.homecomminc.com
 full:sunmobile.hkspeedtest.com
 full:1010.hkspeedtest.com
 full:hkt.hkspeedtest.com
@@ -968,8 +1011,10 @@ full:speedtest.hk.chinamobile.com
 full:csfw.fj.chinamobile.com
 full:speedtest.cascadecomm.com
 full:wrsw-speedtest-02.brightspeed.com
+full:wrbg-speedtest-02.brightspeed.com
 full:rcmt-speedtest-02.brightspeed.com
 full:lcrs-speedtest-02.brightspeed.com
+full:grnr-speedtest-02.brightspeed.com
 full:crls-speedtest-02.brightspeed.com
 full:cmrn-speedtest-02.brightspeed.com
 full:chvl-speedtest-02.brightspeed.com
@@ -1065,6 +1110,7 @@ full:speedtestdelhi.digiwaynet.com
 full:speedtest.deltacable.com
 full:speedtest1.ctstelecom.com
 full:speed.cronomagic.com
+full:speedtest.chisholmbb.com
 full:zeusnet.almotafael.com
 full:sky.almotafael.com
 full:reflector.aberythmic.com
@@ -1123,6 +1169,7 @@ full:speedtest.hostdzire.com
 full:venusone.horystech.com
 full:speedtest.hazalhost.com
 full:hasanspts.hascoding.com
+full:myspeed.giantcomm.com
 full:speedtest-la.getonward.com
 full:speedtest-zion.fireflyva.com
 full:st-5.fibrenest.com
@@ -1143,7 +1190,10 @@ full:riorancho1.cabospeed.com
 full:prescott1.cabospeed.com
 full:phoenix1.cabospeed.com
 full:chicago1.cabospeed.com
+full:joplin1.cabospeed.com
+full:duncan1.cabospeed.com
 full:dallas1.cabospeed.com
+full:speedtest.boltfiber.com
 full:speedtest-van.beanfield.com
 full:speedtest-tor.beanfield.com
 full:speedtest-mtl.beanfield.com
@@ -1178,6 +1228,8 @@ full:st1.scaleway.com
 full:speedtest.rackoona.com
 full:postapps.com
 full:speedtest.pingless.com
+full:speedtest.okencore.com
+full:speedtest.oecfiber.com
 full:speedtest.oceansls.com
 full:speed.navegalo.com
 full:speedtest.micron21.com
@@ -1233,6 +1285,7 @@ full:speedtest.brnchost.com
 full:sahuarita.speedtest.bluespan.com
 full:tucson.speedtest.bluespan.com
 full:stdel.blazencr.com
+full:ookla.bigredne.com
 full:babeltik.com
 full:speedtest.3jglobal.com
 full:speedtest.0dayhost.com
@@ -1252,6 +1305,7 @@ full:speed.turbodc.com
 full:speedtest.townisp.com
 full:speedtestmiabr.telxius.com
 full:nl.tanhost.com
+full:speedtest.sstelco.com
 full:speedtest.sizatek.com
 full:chspeed.shawnee.com
 full:speedtest.sercomm.com
@@ -1279,9 +1333,12 @@ full:testdevelocidadsev.jazztel.com
 full:testdevelocidadmad.jazztel.com
 full:testdevelocidadbil.jazztel.com
 full:speedtest.ioflood.com
+full:speedtest-ict.ideatek.com
+full:speedtest-dcy.ideatek.com
 full:speedtest.lax.gigenet.com
 full:speedtest.chi.gigenet.com
 full:speedtest.geneseo.com
+full:ellsworth.from-ks.com
 full:speedtest.fiber91.com
 full:spt-sjo1.edgeuno.com
 full:spt-lon1.edgeuno.com
@@ -1433,6 +1490,7 @@ full:mirror.nforce.com
 full:test-mi.netoip.com
 full:speedtest.netafy.com
 full:speedtest.mysmbs.com
+full:speedtest.mtc4me.com
 full:speedtest.miplhr.com
 full:wpa-speed.magna5.com
 full:va-speed.magna5.com
@@ -1448,6 +1506,7 @@ full:speedtest.finovy.com
 full:speedtest2.dpdfsd.com
 full:speedtest1.dpdfsd.com
 full:speedtest.datatr.com
+full:speedtest.ctsiok.com
 full:speedtest.us310.lax.us.ctcsci.com
 full:speedtest.sg220.sgp.sg.ctcsci.com
 full:speedtest.kr260.gmp.kr.ctcsci.com
@@ -1459,6 +1518,7 @@ full:speedtest2.aureon.com
 full:speedtest.hkg01.node.as9516.com
 full:st2-msn.5nines.com
 full:speedtest1.xbase.com
+full:speedtest.wtcks.com
 full:lax1a-speedtest.webnx.com
 full:nyc1-speedtest.webnx.com
 full:speedtest.wccta.com
@@ -1476,6 +1536,8 @@ full:rsghost.rsgsn.com
 full:speedtest.rlimn.com
 full:speedtest.pendc.com
 full:sp.pendc.com
+full:speedtest2.nckcn.com
+full:speedtest1.nckcn.com
 full:speedtest1.nardc.com
 full:speedtest.nardc.com
 full:speedtest2.mywnz.com
@@ -1500,6 +1562,7 @@ full:brd.speedtest.secv.com
 full:rochester.speedtest.rtc1.com
 full:akron.speedtest.rtc1.com
 full:speedapi.race.com
+full:speedtest.pnpt.com
 full:clg-105-sptest.ncri.com
 full:speedtest.mvec.com
 full:speedtest.itel.com
@@ -1507,6 +1570,7 @@ full:speedtest.hbci.com
 full:one.speed.c4g7.com
 full:speedtest-6.aebc.com
 full:speedtest.upp.com
+full:speedtest.pld.com
 full:uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 full:speedtestd.kpn.com
 full:speedtest.23m.com
@@ -1937,6 +2001,7 @@ full:st02.mynet.it
 full:st01.mynet.it
 full:it3.speedtest.aruba.it
 full:speedtest.wime.it
+full:speedtestfe.stel.it
 full:st-be-rm2.infra.garr.it
 full:st-be-bo1.infra.garr.it
 full:st-be-ba1.infra.garr.it
@@ -2055,6 +2120,7 @@ full:speedtestsaha1.airtel.in
 full:speedtestspc1.airtel.in
 full:speedtestmum1.airtel.in
 full:speedtestmrt1.airtel.in
+full:speedtestmrd1.airtel.in
 full:speedtestguw1.airtel.in
 full:speedtestjmu.airtel.in
 full:speedtest.stnet.in
@@ -2086,6 +2152,7 @@ full:speedtest2.bitsandbyte.co.in
 full:speedtest.microscan.co.in
 full:speedtestdelhi.ultranet.co.in
 full:speedtest.ssnetcom.co.in
+full:speed.lazygone.co.in
 full:speedtest.rpworld.co.in
 full:speedtestchd.netplus.co.in
 full:test.geocity.co.in
