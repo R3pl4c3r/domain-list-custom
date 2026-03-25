@@ -1411,6 +1411,7 @@ full:cdn1.epicgames.com
 full:talon-website-prod.ecosec.on.epicgames.com
 full:epic-social-social-modules-prod.ol.epicgames.com
 full:assets.endorsely.com
+full:static.assets-stash.eet-china.com
 full:marber-cdn.economist.com
 full:cmp-cdn.p.aws.economist.com
 full:cdn.doofinder.com
@@ -1742,6 +1743,7 @@ full:static.afterpay.com
 full:assets.adobedtm.com
 full:static.addtoany.com
 full:image.p-c2-x.abema-tv.com
+full:cdn.zolplay.com
 full:cdn.zigpoll.com
 full:web-assets.zendesk.com
 full:assets.zendesk.com
@@ -2007,6 +2009,7 @@ full:image.civitai.com
 full:w.chatlio.com
 full:static.cdnlogo.com
 full:static.bytepan.com
+full:assets2.blubrry.com
 full:cms.blavity.com
 full:organizer.bizzabo.com
 full:static.news.bitcoin.com
@@ -2659,6 +2662,7 @@ full:chat-assets.front.app
 full:cdn.rive.app
 full:web-cdn.bsky.app
 full:video.bsky.app
+full:images.rss.app
 full:cdn.7tv.app
 full:cdn.24.co.za
 full:s.pacn.ws
@@ -3067,6 +3071,7 @@ full:cdn.nolt.io
 full:images.loox.io
 full:fonts.loox.io
 full:static.itch.io
+full:ipxy.io
 full:libraries.hund.io
 full:badge.fury.io
 full:cdn.cuty.io
