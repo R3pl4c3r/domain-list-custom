@@ -2728,6 +2728,8 @@ full:cdn1.hotmoza.tv
 full:clips-media-assets2.twitch.tv
 full:assets.twitch.tv
 full:embed.twitch.tv
+full:starlight.nebula.tv
+full:images.nebula.tv
 full:static.tella.tv
 full:static-homepage-en.pluto.tv
 full:images.pluto.tv
@@ -3534,6 +3536,7 @@ domain:cdnbf.net
 domain:img3.acsta.net
 domain:img2.acsta.net
 domain:img1.acsta.net
+domain:zobj.net
 domain:ipfs.mttk.net
 domain:loli.net
 domain:c-dn.net
@@ -3811,6 +3814,7 @@ domain:imagetwist.com
 domain:hs-scripts.com
 domain:images.hentaicity.com
 domain:hanime-cdn.com
+domain:grouponcdn.com
 domain:content-storage-upload.googleapis.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:commondatastorage.googleapis.com
