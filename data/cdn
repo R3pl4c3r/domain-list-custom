@@ -2224,6 +2224,10 @@ full:static.gmgard.com
 full:tuf-repo.github.com
 full:raw.github.com
 full:assets.genius.com
+full:static.garmin.com
+full:fonts.garmin.com
+full:res.garmin.com
+full:share-assets.fe.garmin.com
 full:assets.foxdcg.com
 full:thumbor.forbes.com
 full:imageio.forbes.com
@@ -3897,6 +3901,7 @@ domain:hdzyk-cdn.com
 domain:img.haiwaikan.com
 domain:gitmirror.com
 domain:assets.getpocket.com
+domain:garmincdn.com
 domain:framercdn.com
 domain:forbesimg.com
 domain:fncstatic.com
