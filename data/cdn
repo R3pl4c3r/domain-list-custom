@@ -4,6 +4,7 @@ full:media.infosec.exchange
 full:static.ada.support
 full:images.web3.storage
 full:api.web3.storage
+full:assets.tangled.network
 full:cdn.robinpro.gallery
 full:screenshot.domains
 full:bcdn.starapps.studio
@@ -2791,6 +2792,7 @@ full:assets.cello.so
 full:cdn.mida.so
 full:images.spr.so
 full:assets.vantage.sh
+full:avatar.tangled.sh
 full:cdn.cracked.sh
 full:api-frameworks.vercel.sh
 full:gitpkg-fork.vercel.sh
@@ -4265,6 +4267,7 @@ domain:gitpage.si
 domain:gitapp.si
 domain:gcr.si
 domain:surge.sh
+domain:gateway.scarf.sh
 domain:ttl.sh
 domain:now.sh
 domain:esm.sh
