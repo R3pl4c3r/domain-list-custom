@@ -503,6 +503,7 @@ full:mirrors.arpnetworks.com
 full:bigfiles.virustotal.com
 full:mirrors.usinternet.com
 full:mirror.pit.teraswitch.com
+full:download.technitium.com
 full:mirror.team-cymru.com
 full:downloads.slack-edge.com
 full:mirror.plusserver.com
@@ -714,6 +715,7 @@ full:mirror.kakao.com
 full:free.hands.com
 full:addins.deepl.com
 full:download.cpuid.com
+full:extensionupdater.brave.com
 full:componentupdater.brave.com
 full:go-updater.brave.com
 full:mirror-cdn.xtom.com
@@ -1422,6 +1424,7 @@ domain:pypi.org
 domain:mirrors.tds.net.org
 domain:mirror.noc.one
 domain:launchpadlibrarian.net
+domain:launchpadcontent.net
 domain:mirrors.lucidnetworks.net
 domain:dl.sourceforge.net
 domain:dl.playstation.net
