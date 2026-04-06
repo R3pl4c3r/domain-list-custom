@@ -2108,6 +2108,7 @@ full:js.stripe.com
 full:heatmap-external-a.strava.com
 full:web-assets.strava.com
 full:content-a.strava.com
+full:wre-assets.prod.mapping.strava.com
 full:cdn-1.strava.com
 full:cdn.stonly.com
 full:resources-cache.prod.sketch.com
@@ -2141,6 +2142,7 @@ full:tiles1.planet.com
 full:tiles0.planet.com
 full:tiles.planet.com
 full:assets.pixlee.com
+full:assets.pingie.com
 full:images.pexels.com
 full:static.peatio.com
 full:assets.peatio.com
@@ -2335,9 +2337,7 @@ full:cdn.plaid.com
 full:i.pcmag.com
 full:apps.paidy.com
 full:cdn.paidy.com
-full:package-assets.oomol.com
 full:registry.oomol.com
-full:static.oomol.com
 full:static-production.npmjs.com
 full:static.npmjs.com
 full:ws-cdn.nperf.com
