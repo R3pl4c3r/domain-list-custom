@@ -393,6 +393,7 @@ full:s.midishow.net
 full:img.javstore.net
 full:img.highporn.net
 full:cdn.highporn.net
+full:embed.getwally.net
 full:files.gempages.net
 full:connect.facebook.net
 full:static.esimplus.net
@@ -1919,6 +1920,7 @@ full:img3.javmost.com
 full:img2.javmost.com
 full:cdn.javmiku.com
 full:img2.javdove.com
+full:static.isitetv.com
 full:assets.ipstack.com
 full:i.insider.com
 full:static.iris.informa.com
@@ -2646,6 +2648,7 @@ full:geoserveis.icgc.cat
 full:tilemaps.icgc.cat
 full:oss.moe.cat
 full:ns-cdn.neustar.biz
+full:media.currys.biz
 full:pics.mf8.biz
 full:static.sdkassets.chime.aws
 full:img.fzf404.art
@@ -3025,6 +3028,7 @@ full:tiles.terria.io
 full:scripts.tabler.io
 full:static.status.io
 full:image.status.io
+full:cdn.socket.io
 full:media.smooch.io
 full:cdn.smooch.io
 full:wire.shodan.io
