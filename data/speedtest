@@ -913,6 +913,7 @@ full:chcg.ookla.surfinternet.com
 full:st3.surajnetwork.com
 full:speedtest.spectrumvoip.com
 full:mobile.shunicomtest.com
+full:chi-speedtest.shifthosting.com
 full:speedtest.serverpronto.com
 full:speedtest.roweinternet.com
 full:speedtest.osnbroadband.com
@@ -1642,6 +1643,7 @@ full:speedtest-mci-01.pdx.net.uk
 full:speedtest-lhr-01.pdx.net.uk
 full:speedtest.cerberusnetworks.co.uk
 full:st2.octopustelecom.co.uk
+full:st.thw.rocket-fibre.co.uk
 full:speedtest.boxbroadband.co.uk
 full:speedtest2.voicehost.co.uk
 full:speedtest-m22.quickline.co.uk
@@ -2058,6 +2060,8 @@ full:speedtest.hk212.hkg.cn.nerocloud.io
 full:ty-bgp-speedtest.nearoute.io
 full:sg-bgp-speedtest.nearoute.io
 full:hk-bgp-speedtest.nearoute.io
+full:edgemark-lax.cust.edgemark.io
+full:edgemark-chi.cust.edgemark.io
 full:speedtest.thn.uk.syntura.io
 full:speedtest.steppod.io
 full:spd-sndacawa.wyyerd.io
