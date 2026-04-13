@@ -240,6 +240,7 @@ full:mirror.webtastix.net
 full:ftp.ubuntu-tw.net
 full:mirror.steadfast.net
 full:mirror.ossplanet.net
+full:mirror.tw.ossplanet.net
 full:mirror.fi.ossplanet.net
 full:mirror.eu.ossplanet.net
 full:mirror.us.oneandone.net
@@ -661,6 +662,7 @@ full:ubuntu.vpsttt.com
 full:mirror.vpsnet.com
 full:download.umbrel.com
 full:security.ubuntu.com
+full:cdimage.ubuntu.com
 full:ubuntu.tuxuri.com
 full:mirror.tngnet.com
 full:download.sketch.com
@@ -1410,6 +1412,7 @@ domain:getcomposer.org
 domain:freemirror.org
 domain:dl.wireshark.org
 domain:packagist.org
+domain:ossplanet.org
 domain:tmpfiles.org
 domain:artfiles.org
 domain:iso.reactos.org
