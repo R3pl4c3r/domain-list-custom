@@ -899,6 +899,8 @@ full:tag.unifyintent.com
 full:fastly-cloud.typenetwork.com
 full:cloud.typenetwork.com
 full:cms.typenetwork.com
+full:static.tryprofound.com
+full:ph.tryprofound.com
 full:static-assets-1.truthsocial.com
 full:cdn.trustedsite.com
 full:widgets.tree-nation.com
@@ -1285,6 +1287,7 @@ full:cdn.travis-ci.com
 full:cdn.transifex.com
 full:ui.trailhead.com
 full:hawk.tomsguide.com
+full:telemetry.timescale.com
 full:assets.tigerdata.com
 full:thumbsnap.com
 full:static.test-beta.com
@@ -1813,6 +1816,7 @@ full:cdn.sheetjs.com
 full:i.servimg.com
 full:videos2-h.sendvid.com
 full:thumbs2.sendvid.com
+full:static.semrush.com
 full:cdn.segment.com
 full:ocsp.sectigo.com
 full:crt.sectigo.com
@@ -2005,6 +2009,7 @@ full:global.divhunt.com
 full:s1.divhunt.com
 full:cdn.devdojo.com
 full:import-cdn.default.com
+full:pixel-cdn.default.com
 full:cdn.datdota.com
 full:proxy.csidetm.com
 full:static.comicbz.com
@@ -2283,6 +2288,7 @@ full:i.anysex.com
 full:code.buywithprime.amazon.com
 full:d2c.aws.amazon.com
 full:time.akamai.com
+full:static-app.ahrefs.com
 full:static.ahrefs.com
 full:cdn1.affirm.com
 full:img.321cdn.com
@@ -2359,6 +2365,7 @@ full:static-exp2.licdn.com
 full:static-exp1.licdn.com
 full:static.licdn.com
 full:media.licdn.com
+full:ahrefscomscreenshot-3b70.kxcdn.com
 full:wikiwandv2-19431.kxcdn.com
 full:searchanise-ef84.kxcdn.com
 full:wandi-6402.kxcdn.com
@@ -3253,6 +3260,7 @@ full:s3.masto.ai
 full:participants.evolv.ai
 full:media.evolv.ai
 full:cdn.candy.ai
+full:cdn.candu.ai
 full:cdn2.suno.ai
 full:cdn1.suno.ai
 full:cdn.roof.ai
