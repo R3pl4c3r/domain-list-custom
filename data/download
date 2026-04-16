@@ -217,7 +217,6 @@ full:ctan.mc1.root.project-creative.net
 full:debian-archive.trafficmanager.net
 full:fdroid.tetaneutral.net
 full:ctan.tetaneutral.net
-full:cpan.tetaneutral.net
 full:apt.tetaneutral.net
 full:downloads.sourceforge.net
 full:ftp.piotrkosoft.net
@@ -439,7 +438,6 @@ full:mirror.cc.vt.edu
 full:ftp.ussg.iu.edu
 full:mirror.digitaloceans.dev
 full:download.clashverge.dev
-full:drive.massgrave.dev
 full:dl.getaurora.dev
 full:cdn-updates.orbstack.dev
 full:api-updates.orbstack.dev
@@ -522,8 +520,6 @@ full:update.googleapis.com
 full:mirror.downloadvn.com
 full:linux.domainesia.com
 full:cpan.develooper.com
-full:mirror.datapacket.com
-full:mirror.nl.datapacket.com
 full:pkg.cloudflare.com
 full:mirrors-ubuntu.behostings.com
 full:ubuntu.avalicense.com
@@ -641,8 +637,8 @@ full:mirrors.nhanhoa.com
 full:download.nektony.com
 full:download.maxmind.com
 full:mirror.ams.macarne.com
+full:fw.gl-inet.com
 full:mirrors.gigenet.com
-full:mirror.ghproxy.com
 full:download.fosshub.com
 full:mirror.fjordos.com
 full:rsync.fjordos.com
@@ -703,7 +699,6 @@ full:download.docker.com
 full:download.dlsite.com
 full:downloads.cursor.com
 full:download.beeper.com
-full:mirror.anigil.com
 full:mirrors.aliyun.com
 full:mirror.0x626b.com
 full:downloads.xrite.com
@@ -780,7 +775,6 @@ full:espejito.fder.edu.uy
 full:ubuntu.repo.cure.edu.uy
 full:debian.repo.cure.edu.uy
 full:cdn.electronic.us
-full:mirror.timkevin.us
 full:cdn.zoom.us
 full:mirrors.xtom.us
 full:mirror.xtom.us
@@ -822,6 +816,8 @@ full:debian.csie.ntu.edu.tw
 full:ftp.tc.edu.tw
 full:mirrors.yuntu.com.tw
 full:cisco.yuntu.com.tw
+full:mirror6.twds.com.tw
+full:mirror4.twds.com.tw
 full:mirror.twds.com.tw
 full:ftp.linux.org.tr
 full:cpan.ulak.net.tr
@@ -851,7 +847,6 @@ full:mirrors.xtom.sg
 full:mirror.xtom.sg
 full:mirror.djvg.sg
 full:download.nus.edu.sg
-full:mirror.nus.edu.sg
 full:kambing.uu.sg
 full:mirror.0x.sg
 full:mirror.accum.se
@@ -990,7 +985,6 @@ full:repo.morgan.kr
 full:ftp.lanet.kr
 full:mirror.techlabs.co.kr
 full:blizzard.gcdn.cloudn.co.kr
-full:apache.tt.co.kr
 full:ftp.kaist.ac.kr
 full:mirror.sabay.com.kh
 full:mir.linux.kg
@@ -1001,7 +995,7 @@ full:mirrors.xtom.jp
 full:mirror.xtom.jp
 full:debian-mirror.sakura.ne.jp
 full:download.hikarifield.co.jp
-full:client.hikarifield.co.jp
+full:static.hikarifield.co.jp
 full:ftp.kddlabs.co.jp
 full:ftp.sakura.ad.jp
 full:ftp.tsukuba.wide.ad.jp
@@ -1261,8 +1255,13 @@ full:mirror.it4i.cz
 full:ftp.cvut.cz
 full:ftp.sh.cvut.cz
 full:ftp.zcu.cz
-full:mirrors.nic.cz
+full:archlinux.nic.cz
+full:opensuse.nic.cz
+full:ubuntu.nic.cz
+full:fedora.nic.cz
 full:debian.nic.cz
+full:centos.nic.cz
+full:cran.nic.cz
 full:mirror.dkm.cz
 full:mirror.library.ucy.ac.cy
 full:mirrors.ucr.ac.cr
