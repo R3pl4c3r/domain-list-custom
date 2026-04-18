@@ -140,7 +140,6 @@ domain:init-p01st.push.apple.com
 domain:pba0.apple.com
 domain:ocsp.apple.com
 domain:mesu.apple.com
-domain:apps.apple.com
 domain:www.apple.com
 domain:init.ess.apple.com
 domain:crl.apple.com
@@ -169,6 +168,7 @@ domain:amp-api-updates.apps.apple.com
 domain:api-p-ap-c.smoot.apple.com
 domain:api-p-ap-d.smoot.apple.com
 domain:api-p-ap-e.smoot.apple.com
+domain:apps.apple.com
 domain:bag-cdn.itunes-apple.com.akadns.net
 domain:gsp4-cn.ls.apple.com.edgekey.net
 domain:gspe21.ls.apple.com
