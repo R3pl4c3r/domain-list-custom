@@ -45,6 +45,7 @@ full:mirrors.linux-bulgaria.org
 full:openvsx.eclipsecontent.org
 full:meta.prismlauncher.org
 full:i18n.prismlauncher.org
+full:planet.openstreetmap.org
 full:nobara-images.nobaraproject.org
 full:registry.fedoraproject.org
 full:mirrors.fedoraproject.org
@@ -166,6 +167,7 @@ full:ftp.bg.debian.org
 full:ftp.be.debian.org
 full:ftp.au.debian.org
 full:ftp.at.debian.org
+full:download.bbbike.org
 full:repo.maven.apache.org
 full:static.adtidy.org
 full:mirror.siwoo.org
@@ -1218,6 +1220,7 @@ full:debian.apt-mirror.de
 full:ftp.uni-mainz.de
 full:mirror.physik-pool.tu-berlin.de
 full:mirror.netzwerge.de
+full:download.geofabrik.de
 full:ftp.fu-berlin.de
 full:mirrors.ae-online.de
 full:ftp.stw-bonn.de
