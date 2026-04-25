@@ -226,6 +226,9 @@ full:static.tronscan.org
 full:cdn.tronscan.org
 full:static.spigotmc.org
 full:proxy.spigotmc.org
+full:gis.pinkbike.org
+full:ep1.pinkbike.org
+full:es.pinkbike.org
 full:static.opensuse.org
 full:open-vsx.org
 full:images.mobilism.org
@@ -4101,6 +4104,7 @@ domain:amaicdn.com
 domain:99avcdn.com
 domain:1a-1791.com
 domain:ypncdn.com
+domain:wklcdn.com
 domain:winudf.com
 domain:vx-cdn.com
 domain:vancdn.com
