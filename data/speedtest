@@ -122,6 +122,7 @@ full:de.st.spacecore.pro
 full:au.st.spacecore.pro
 full:pl-1.node.delton.ovh
 full:fr-1.node.delton.ovh
+full:speedtest.inclusivebytes.org
 full:speedtest.pinerichland.org
 full:speedtest-tls.one-elephant.org
 full:speedtest-lil.one-elephant.org
@@ -478,6 +479,7 @@ full:speed.farknet.net
 full:iperf-ams-nl.eranium.net
 full:speedtest.elsynet.net
 full:speedtest.ediscom.net
+full:speedtest.duocast.net
 full:speedtest.cvalley.net
 full:msk-speedtest2.corbina.net
 full:speedtester.comwave.net
@@ -551,6 +553,7 @@ full:st02.mtnsat.net
 full:speedtest.maryno.net
 full:speedtest.lwlcom.net
 full:netservice01.ber01.lwlcom.net
+full:lsdspeed02.lsdops.net
 full:lsdspeed01.lsdops.net
 full:speedtest.lrecok.net
 full:speedtest.kapper.net
@@ -637,6 +640,7 @@ full:owst.gilat.net
 full:speedtest.excom.net
 full:speedtest.mad2.edgoo.net
 full:speedtest.lon1.edgoo.net
+full:speedtest.co-fi.net
 full:speedtest1.cirbn.net
 full:speedtest.cirbn.net
 full:speedtest.cdlan.net
@@ -893,6 +897,7 @@ full:speedtest.connectjasper.com
 full:ookla1.ccspublichost.com
 full:speedtest.asimonetworks.com
 full:duliajan-speedtest.arrowebonline.com
+full:speedtest.airmaxnetwork.com
 full:7starinternet.com
 full:st3.wificanarias.com
 full:st2.wificanarias.com
@@ -2227,6 +2232,7 @@ full:speedtest.trunet.co.in
 full:speed.mylink.co.in
 full:speedtestdelhi.weebo.co.in
 full:fibertest.soipl.co.in
+full:speedtest-mumbai.scify.co.in
 full:sp2.unpl.co.in
 full:speedtest-nl.cloudlease.co.il
 full:speedtest.sin.sptrnd.id
