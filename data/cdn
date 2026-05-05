@@ -240,6 +240,7 @@ full:modules.kernelsu.org
 full:api.indexnow.org
 full:assets.exercism.org
 full:david-dm.org
+full:get-it-on.codeberg.org
 full:design.codeberg.org
 full:fonts.codeberg.org
 full:static.aizanmei.org
@@ -591,6 +592,7 @@ full:www.fumadocs.dev
 full:storybooks.fluentui.dev
 full:logos.composio.dev
 full:biomejs.dev
+full:shields.rbtlog.dev
 full:stats.setapp.macpaw.dev
 full:lucide.dev
 full:assets.github.dev
@@ -3241,6 +3243,7 @@ full:tiles.maps.eox.at
 full:i.snap.as
 full:solve-widget.forethought.ai
 full:pplx-next-static-public.perplexity.ai
+full:frontend-cdn.perplexity.ai
 full:r2cdn.perplexity.ai
 full:cdn.engagement.ai
 full:assets.cloudpilot.ai
