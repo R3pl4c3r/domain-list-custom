@@ -6,6 +6,7 @@ domain:prod-support.apple-support.akadns.net
 domain:images.apple.com.edgekey.net.globalredir.akadns.net
 domain:store.apple.com.edgekey.net.globalredir.akadns.net
 domain:www.apple.com.edgekey.net.globalredir.akadns.net
+domain:cl2.apple.com.edgekey.net.globalredir.akadns.net
 domain:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 domain:iphone-ld.origin-apple.com.akadns.net
 domain:cl5-cdn.origin-apple.com.akadns.net
@@ -20,10 +21,8 @@ domain:init-s01st-lb.push-apple.com.akadns.net
 domain:init-p01st-lb.push-apple.com.akadns.net
 domain:init-p01md-lb.push-apple.com.akadns.net
 domain:updates-http.cdn-apple.com.akadns.net
-domain:pancake.cdn-apple.com.akadns.net
 domain:gspe19-2-cn-ssl.ls-apple.com.akadns.net
 domain:gspe19-cn.ls-apple.com.akadns.net
-domain:icloud-cdn.icloud.com.akadns.net
 domain:stocks-sparkline-lb.apple.com.akadns.net
 domain:swcatalog-cdn.apple.com.akadns.net
 domain:configuration.apple.com.akadns.net
@@ -33,9 +32,7 @@ domain:adcdownload.apple.com.akadns.net
 domain:swscan-cdn.apple.com.akadns.net
 domain:mesu-china.apple.com.akadns.net
 domain:clientflow.apple.com.akadns.net
-domain:ocsp2-lb.apple.com.akadns.net
 domain:mesu-cdn.apple.com.akadns.net
-domain:ocsp-lb.apple.com.akadns.net
 domain:swdist.apple.com.akadns.net
 domain:cds.apple.com.akadns.net
 domain:cdn-cn4.apple-mapkit.com
@@ -54,7 +51,6 @@ domain:publicassets.cdn-apple.com
 domain:store.storeimages.cdn-apple.com
 domain:updates.cdn-apple.com
 domain:appleid.cdn-apple.com
-domain:icloud.cdn-apple.com
 domain:cstat.cdn-apple.com
 domain:ml.cdn-apple.com
 domain:is5-ssl.mzstatic.com
@@ -87,7 +83,6 @@ domain:smp-device-content.apple.com
 domain:sh-pod2-smp-device.apple.com
 domain:stocks-sparkline.apple.com
 domain:devstreaming-cdn.apple.com
-domain:reserve-prime.apple.com
 domain:itunesconnect.apple.com
 domain:devimages-cdn.apple.com
 domain:configuration.apple.com
@@ -135,8 +130,6 @@ domain:seed-swallow.siri.apple.com
 domain:seed-sequoia.siri.apple.com
 domain:probe.siri.apple.com
 domain:seed.siri.apple.com
-domain:init-s01st.push.apple.com
-domain:init-p01st.push.apple.com
 domain:pba0.apple.com
 domain:ocsp.apple.com
 domain:mesu.apple.com
@@ -160,6 +153,7 @@ domain:gspe21-ssl.ls.apple.com
 domain:gspe19-cn.ls.apple.com
 domain:gsp13-cn.ls.apple.com
 domain:gsp12-cn.ls.apple.com
+domain:gsp11-cn.ls.apple.com
 domain:gsp5-cn.ls.apple.com
 domain:gsp4-cn.ls.apple.com
 domain:static.gc.apple.com
@@ -172,7 +166,15 @@ domain:apps.apple.com
 domain:bag-cdn.itunes-apple.com.akadns.net
 domain:gsp4-cn.ls.apple.com.edgekey.net
 domain:gspe21.ls.apple.com
+domain:icloud-cdn.icloud.com.akadns.net
+domain:icloud.cdn-apple.com
 domain:images.apple.com.akadns.net
 domain:images.apple.com
+domain:init-p01st.push.apple.com
+domain:init-s01st.push.apple.com
 domain:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+domain:ocsp-lb.apple.com.akadns.net
+domain:ocsp2-lb.apple.com.akadns.net
+domain:pancake.cdn-apple.com.akadns.net
+domain:reserve-prime.apple.com
 domain:www.apple.com.edgekey.net

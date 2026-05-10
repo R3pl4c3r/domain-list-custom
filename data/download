@@ -80,6 +80,7 @@ full:ftp.ubuntu-tw.org
 full:mirror2.tuxinator.org
 full:static.rust-lang.org
 full:mirrors.rpmfusion.org
+full:mirror.pyratelan.org
 full:mirrorbits.lineageos.org
 full:ftp.harukasan.org
 full:cdn.cocoapods.org
@@ -120,11 +121,10 @@ full:debian.osuosl.org
 full:ftp.osuosl.org
 full:cdn.oneget.org
 full:lzip.nongnu.org
+full:mirror2.krfoss.org
 full:mirror.krfoss.org
 full:http.krfoss.org
 full:mirrors.kernel.org
-full:mirrors.edge.kernel.org
-full:eu.edge.kernel.org
 full:mirrors.us.kernel.org
 full:plugins-artifacts.gradle.org
 full:repo.gradle.org
@@ -187,6 +187,7 @@ full:mirrors.tino.org
 full:packages.sury.org
 full:deb.sury.org
 full:ftp.ktug.org
+full:archive-4.kali.org
 full:cdimage.kali.org
 full:archive.kali.org
 full:http.kali.org
@@ -295,6 +296,7 @@ full:blzddist3-a.akamaihd.net
 full:blzddist2-a.akamaihd.net
 full:blzddist1-a.akamaihd.net
 full:origin-a.akamaihd.net
+full:mirror.wonchan.net
 full:mirror.vorboss.net
 full:download-core.sys.truenas.net
 full:mirror.transip.net
@@ -343,6 +345,7 @@ full:mirror.lchost.net
 full:mirror-hk.koddos.net
 full:mirror.koddos.net
 full:mirrors.hopbox.net
+full:mirror.hemino.net
 full:mirrors.glesys.net
 full:cloudfront.debian.net
 full:mirrors.coreix.net
@@ -467,6 +470,7 @@ full:mirrors.advancedhosters.com
 full:ubuntu.securedservers.com
 full:mirror.raiolanetworks.com
 full:mirror2.evolution-host.com
+full:mirror.cspacehostings.com
 full:ctldl.windowsupdate.com
 full:mirror.mythic-beasts.com
 full:mirror.dimensiondata.com
@@ -478,7 +482,10 @@ full:update.code.visualstudio.com
 full:download.sysinternals.com
 full:content-origin.steampowered.com
 full:downloads.lemonsqueezy.com
+full:mirror.us.cdn-perfprod.com
 full:mirror.nl.cdn-perfprod.com
+full:mirror.fr.cdn-perfprod.com
+full:mirror.es.cdn-perfprod.com
 full:mirror.softaculous.com
 full:mirror.scaleuptech.com
 full:ubuntu.rootlicense.com
@@ -577,6 +584,7 @@ full:downloadr2.apkmirror.com
 full:mirror.nl.altushost.com
 full:app-updates.agilebits.com
 full:cache.agilebits.com
+full:mirror.africloud.com
 full:mirror.eu.4psacloud.com
 full:downloads.1password.com
 full:c.1password.com
@@ -602,6 +610,7 @@ full:repo.powerdns.com
 full:download.mikrotik.com
 full:downloads.majestic.com
 full:mirror.linkdata.com
+full:mirror2.keiminem.com
 full:mirror.keiminem.com
 full:mirror.us-ny2.kamatera.com
 full:mirror.us-tx.kamatera.com
@@ -841,6 +850,7 @@ full:mirror.vnet.sk
 full:ftp.upjs.sk
 full:cpan.lnx.sk
 full:ftp.arnes.si
+full:kali.darklab.sh
 full:binaries.prisma.sh
 full:repo.carbon.sh
 full:formulae.brew.sh
@@ -922,7 +932,6 @@ full:mirror.rise.ph
 full:mirror.squ.edu.om
 full:mirror.2degrees.nz
 full:ubuntu.btit.nz
-full:mirror.fsmg.org.nz
 full:cpan.inspire.net.nz
 full:ucmirror.canterbury.ac.nz
 full:ftp.auckland.ac.nz
@@ -976,6 +985,7 @@ full:mirror.cloudhosting.lv
 full:centos-stream.koyanet.lv
 full:ubuntu.koyanet.lv
 full:debian.koyanet.lv
+full:kali.koyanet.lv
 full:ftp.linux.edu.lv
 full:mirror.litnet.lt
 full:ftp.litnet.lt
@@ -986,6 +996,7 @@ full:mirror.fst.kz
 full:mirror.ps.kz
 full:repo.morgan.kr
 full:ftp.lanet.kr
+full:mirror.wane.kr
 full:mirror.techlabs.co.kr
 full:blizzard.gcdn.cloudn.co.kr
 full:ftp.kaist.ac.kr
@@ -1029,6 +1040,7 @@ full:go.opentelemetry.io
 full:packagecloud.io
 full:assets-production.packagecloud.io
 full:mirror.realcompute.io
+full:xsrv.moratelindo.io
 full:download.ameliorated.io
 full:docker.cloudsmith.io
 full:dl.cloudsmith.io
@@ -1090,6 +1102,7 @@ full:cdn.ubuntu.repo.cloudeka.id
 full:cdn.repo.cloudeka.id
 full:mirror-gw.elastis.id
 full:mr.heru.id
+full:mirror.primelink.net.id
 full:kartolo.sby.datautama.net.id
 full:cpan.pesat.net.id
 full:mirror.papua.go.id
@@ -1157,6 +1170,7 @@ full:ctan.crest.fr
 full:www-ftp.lip6.fr
 full:ftp.lip6.fr
 full:mirror.ibcp.fr
+full:ftp.free.fr
 full:ftp.ec-m.fr
 full:ftp.funet.fi
 full:ubuntu.web.trex.fi
@@ -1388,6 +1402,7 @@ full:mirror.sitsa.com.ar
 full:ubuntu.zero.com.ar
 full:apache.mesi.com.ar
 full:mirrors.teamcloud.am
+full:kali.itsec.am
 full:mirrors.asnet.am
 full:updates.64gr.am
 full:downloads.claude.ai
@@ -1422,6 +1437,7 @@ domain:iso.reactos.org
 domain:mirrors.ionfish.org
 domain:files.ghostty.org
 domain:archive.org
+domain:edge.kernel.org
 domain:mirrors.dotsrc.org
 domain:ftp-master.debian.org
 domain:cdimage.debian.org
@@ -1854,6 +1870,7 @@ domain:cloudflare.docker.com
 domain:desktop.docker.com
 domain:fastly.docker.com
 domain:dl.dlsite.com
+domain:mirror.ionos.com
 domain:swupdate.chaos.com
 domain:s3.brave.com
 domain:swupdate.vray.com
@@ -1876,6 +1893,7 @@ domain:mirrors.linux.ro
 domain:mirror.linux.ro
 domain:ubuntumirror.dei.uc.pt
 domain:mega.nz
+domain:fsmg.org.nz
 domain:mega.co.nz
 domain:mirror.triple-it.nl
 domain:mirror.intermax.nl
@@ -1916,5 +1934,7 @@ domain:mirror.ba
 domain:mirror.serversaustralia.com.au
 domain:mirror.digitalpacific.com.au
 domain:mirror.amaze.com.au
+domain:mirror2.gnc.am
+domain:mirror1.gnc.am
 domain:mirror.gnc.am
 domain:mirror.homacloud.ai
