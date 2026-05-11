@@ -248,6 +248,8 @@ full:speedtest4.plateautel.net
 full:speedtest.ontarionet.net
 full:wybo-speedtest.northstate.net
 full:asbn-speedtest.northstate.net
+full:mia-speedtest.northstate.net
+full:atl-speedtest.northstate.net
 full:speedtest.vienna.nodescrape.net
 full:speedtest.netcalibre.net
 full:speedtest.correggio.netandwork.net
@@ -874,6 +876,7 @@ full:sipl.speedtest.sukaininfoway.com
 full:speedtest.squirrellogic.com
 full:speedtest.skybbservices.com
 full:speedtest.skaybroadband.com
+full:speedtest.sahinotomotiv.com
 full:speedtest.rochestercolo.com
 full:mumbaispeedtest.pioneeronline.com
 full:speedtestmera.vs.mythic-beasts.com
@@ -1315,6 +1318,7 @@ full:speedtest.infinirc.com
 full:speed.inet-isp.com
 full:tr.hostligo.com
 full:speedtest.hostimux.com
+full:speedtest.hlinknet.com
 full:speedtest10.haashnet.com
 full:speedtest-miami.grupogtd.com
 full:speedtest.us.grupogtd.com
@@ -2435,6 +2439,7 @@ full:speedtest.fra.plusnet.de
 full:speedtest.dus.plusnet.de
 full:speedtest02.htp-tel.de
 full:speedtest01.dns-net.de
+full:ookla.dns-net.de
 full:a400.speedtest.wobcom.de
 full:speedtest.plutex.de
 full:dus.speedtest.komdsl.de
