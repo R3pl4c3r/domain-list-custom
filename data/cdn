@@ -187,7 +187,6 @@ full:cdn.simpleicons.org
 full:storage.sciencecast.org
 full:cdn.sciencecast.org
 full:play.publicradio.org
-full:tile.opentopomap.org
 full:covers.openlibrary.org
 full:tiles.openfreemap.org
 full:media.hentaifreak.org
@@ -2123,6 +2122,7 @@ full:heatmap-external-a.strava.com
 full:web-assets.strava.com
 full:content-a.strava.com
 full:wre-assets.prod.mapping.strava.com
+full:tiles.strava.com
 full:cdn-1.strava.com
 full:cdn.stonly.com
 full:resources-cache.prod.sketch.com
@@ -3162,6 +3162,7 @@ full:cdn.prod.www.spiegel.de
 full:www.acgpix.de
 full:cdn.ionos.de
 full:tile.mtbmap.cz
+full:mapserver.mapy.cz
 full:assets.openalternative.co
 full:cdn.stackoverflow.co
 full:cdn-avatars.huggingface.co
@@ -3188,6 +3189,7 @@ full:imageproxy.ifunny.co
 full:static.ifunny.co
 full:img.ifunny.co
 full:us-js.zonka.co
+full:cdn.videy.co
 full:app-static.turtl.co
 full:nodei.co
 full:storageapi2.fleek.co
@@ -3389,6 +3391,7 @@ domain:cdn-telegram.org
 domain:schemastore.org
 domain:qbittorrent.org
 domain:stream.publicradio.org
+domain:tile.opentopomap.org
 domain:ipfs.genenetwork.org
 domain:torproject.org
 domain:codeforces.org
@@ -4288,6 +4291,7 @@ domain:2025cdn.sx
 domain:2024cdn.sx
 domain:jpg5.su
 domain:cdn-zlib.sk
+domain:tiles.freemap.sk
 domain:registry.gitplac.si
 domain:gitpage.si
 domain:gitapp.si
