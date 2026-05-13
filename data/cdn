@@ -220,6 +220,7 @@ full:s1.maxstream.org
 full:cdn.freesound.org
 full:cdn.fosstodon.org
 full:moderate.cleantalk.org
+full:uploads.bikeindex.org
 full:images.videolan.org
 full:static.tvtropes.org
 full:assets.tvtropes.org
@@ -1902,6 +1903,7 @@ full:images.moegoat.com
 full:video3.mingpao.com
 full:fs.mingpao.com
 full:image.mgstage.com
+full:cdn.app.metorik.com
 full:acdn.mercury.com
 full:cdn.mercury.com
 full:static.maxmind.com
@@ -3050,6 +3052,7 @@ full:static.replay.io
 full:files.readme.io
 full:cdn.readme.io
 full:favicon.pirsch.io
+full:cdn-static.okendo.io
 full:edge.marker.io
 full:website-cdn.ipinfo.io
 full:assets.hackmd.io
@@ -3243,6 +3246,7 @@ full:subscriptions.news.com.au
 full:tags.news.com.au
 full:tiles.maps.eox.at
 full:i.snap.as
+full:cdn.tabarn.ap
 full:solve-widget.forethought.ai
 full:pplx-next-static-public.perplexity.ai
 full:frontend-cdn.perplexity.ai
