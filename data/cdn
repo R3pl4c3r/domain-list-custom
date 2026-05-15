@@ -1097,6 +1097,7 @@ full:static-web-prod.skillshare.com
 full:pics2.serviporno.com
 full:pics.serviporno.com
 full:static-www.sendsafely.com
+full:app-static.sendsafely.com
 full:assets.sendinblue.com
 full:resources.help.salesforce.com
 full:wp.salesforce.com
@@ -2652,6 +2653,8 @@ full:resource.fs.com
 full:img-en.fs.com
 full:media.fs.com
 full:genesis-cdn.ff.com
+full:cdn.studio.f5.com
+full:cdn.f5.com
 full:media.contentapi.ea.com
 full:cdn.mcr.ea.com
 full:pl.ea.com
@@ -4019,6 +4022,7 @@ domain:frontapp.com
 domain:favicone.com
 domain:dtci-pe-vp-image-resizer.platform.edgedatg.com
 domain:ipfs.ecolatam.com
+domain:cdn.easyling.com
 domain:drivecdn.com
 domain:dditscdn.com
 domain:dditsadn.com
@@ -4267,6 +4271,7 @@ domain:assets.ibm.com
 domain:contents.fc2.com
 domain:assets.brightspot.abebooks.a2z.com
 domain:wp.com
+domain:tags.f5.com
 domain:pixiv.cat
 domain:tile.openstreetmap.bzh
 domain:ipfs.kaleido.art

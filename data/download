@@ -811,6 +811,7 @@ full:cpan.ip-connect.vn.ua
 full:kde.ip-connect.vn.ua
 full:gimp.astra.in.ua
 full:mirror.aptus.co.tz
+full:mirror.archlinux.tw
 full:ftp.mirror.tw
 full:opensource.nchc.org.tw
 full:free.nchc.org.tw
@@ -1819,6 +1820,7 @@ domain:s3-1.amazonaws.com
 domain:s3.amazonaws.com
 domain:allawnofs.com
 domain:mirror.vexxhost.com
+domain:mirror.pkgbuild.com
 domain:cos.na-siliconvalley.myqcloud.com
 domain:cos.eu-frankfurt.myqcloud.com
 domain:cos.ap-singapore.myqcloud.com
