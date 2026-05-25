@@ -3263,6 +3263,7 @@ full:sdk.customfit.ai
 full:static.returngo.ai
 full:prod-cdn.webtune.ai
 full:cms.mistral.ai
+full:widget.prod.equally.ai
 full:widget.docsbot.ai
 full:cdn.aimerce.ai
 full:static.zanmei.ai
@@ -3281,6 +3282,7 @@ full:cdn1.suno.ai
 full:cdn.roof.ai
 full:metrics.kapa.ai
 full:widget.kapa.ai
+full:cdn.gist.ai
 full:cdn.fera.ai
 full:assets-docs.dify.ai
 full:assets.dify.ai
@@ -4251,6 +4253,7 @@ domain:ggpht.com
 domain:fonts.com
 domain:fbsbx.com
 domain:fbcdn.com
+domain:f-cdn.com
 domain:drtst.com
 domain:cldup.com
 domain:applicationinsights.azure.com
