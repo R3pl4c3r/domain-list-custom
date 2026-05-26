@@ -275,6 +275,7 @@ full:file.izanm.org
 full:godoc.org
 full:tileserver.gnome.org
 full:static.gnome.org
+full:error.c.cdn77.org
 full:static.arxiv.org
 full:drscdn.500px.org
 full:pacdn.500px.org
@@ -4387,6 +4388,7 @@ domain:ik.imagekit.io
 domain:ipfs.filebase.io
 domain:ipfs.denarius.io
 domain:rum.cronitor.io
+domain:fonts.coollabs.io
 domain:cloudimg.io
 domain:shields.io
 domain:cdn.prismic.io
