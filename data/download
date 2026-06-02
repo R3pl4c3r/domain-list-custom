@@ -447,6 +447,7 @@ full:dl.getaurora.dev
 full:cdn-updates.orbstack.dev
 full:api-updates.orbstack.dev
 full:cdn-images.orbstack.dev
+full:mirror.tejas101k.workers.dev
 full:packages-cf.termux.dev
 full:packages.termux.dev
 full:ubuntu.gjolly.dev
