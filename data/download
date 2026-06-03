@@ -262,6 +262,7 @@ full:ota.googlezip.net
 full:pf-cdn-content-prod.azureedge.net
 full:playwright-akamai.azureedge.net
 full:playwright.azureedge.net
+full:cdn-ota.azureedge.net
 full:mirror.applebred.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:officecdn-microsoft-com.akamaized.net
@@ -736,6 +737,7 @@ full:mirror.xtom.com
 full:download.xbox.com
 full:cpan.pair.com
 full:cdnorg.d.miui.com
+full:bn.d.miui.com
 full:download01.logi.com
 full:cdn.kagi.com
 full:edgedl.me.gvt1.com
