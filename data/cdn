@@ -2086,7 +2086,6 @@ full:img.xhacgn.com
 full:img.xbooru.com
 full:website-prod.cache.wpscdn.com
 full:frontend-apps.workos.com
-full:cdn.workos.com
 full:embed-cloudfront.wistia.com
 full:embed-ssl.wistia.com
 full:fast.wistia.com
@@ -4134,6 +4133,7 @@ domain:amaicdn.com
 domain:99avcdn.com
 domain:1a-1791.com
 domain:ypncdn.com
+domain:cdn.workos.com
 domain:wklcdn.com
 domain:winudf.com
 domain:vx-cdn.com
