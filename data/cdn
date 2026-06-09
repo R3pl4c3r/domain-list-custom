@@ -255,6 +255,7 @@ full:tile.nextzen.org
 full:archive.mozilla.org
 full:cdn.mathjax.org
 full:pcz.javidol.org
+full:imgproxy.flathub.org
 full:web-static.archive.org
 full:image.ap-mail.org
 full:resources.whatwg.org
@@ -316,6 +317,7 @@ full:static.edge.microsoftapp.net
 full:images.wurstclient.net
 full:images.wsjcommerce.net
 full:static.underhentai.net
+full:assets.transfernow.net
 full:sourcemaps.squarespace.net
 full:static-resource.np.community.playstation.net
 full:akamai-origin.myanimelist.net
@@ -367,6 +369,7 @@ full:edge-cloud-resource-static.azureedge.net
 full:edge-consumer-static.azureedge.net
 full:edge-mobile-static.azureedge.net
 full:edgeassetservice.azureedge.net
+full:catalogartifact.azureedge.net
 full:xpaywalletcdn.azureedge.net
 full:claritystatic.azureedge.net
 full:mobilecenter.azureedge.net
@@ -1010,6 +1013,7 @@ full:use.fortawesome.com
 full:img.fortawesome.com
 full:cdn.fluidplayer.com
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
+full:mozilla-ohttp.fastly-edge.com
 full:ohttp-relay1.fastly-edge.com
 full:live.fanmingming.com
 full:assets.embeddables.com
@@ -1685,6 +1689,7 @@ full:cdn.dnsimple.com
 full:cdn-node.diskpart.com
 full:cacerts.digicert.com
 full:ocsp.digicert.com
+full:crl3.digicert.com
 full:avatars.dicebear.com
 full:api.dicebear.com
 full:cdn.datacamp.com
@@ -2471,6 +2476,7 @@ full:designsystem.brevo.com
 full:corp-backend.brevo.com
 full:assets.brevo.com
 full:safebrowsing.brave.com
+full:variations.brave.com
 full:imgs.search.brave.com
 full:cdn.search.brave.com
 full:static.bodor.com
@@ -3518,6 +3524,7 @@ domain:yastatic.net
 domain:widencdn.net
 domain:turboimg.net
 domain:tildacdn.net
+domain:t-assets.net
 domain:smassets.net
 domain:sitescdn.net
 domain:quoracdn.net
