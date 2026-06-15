@@ -2258,6 +2258,7 @@ full:static.corp.google.com
 full:s3.go2778.com
 full:static.gmgard.com
 full:tuf-repo.github.com
+full:cafe.github.com
 full:raw.github.com
 full:assets.genius.com
 full:static.garmin.com
@@ -2297,6 +2298,7 @@ full:icons.buffer.com
 full:img.bttimg.com
 full:static.beebom.com
 full:www.bbthat.com
+full:static.captcha.awswaf.com
 full:tiledbasemaps.arcgis.com
 full:tiles.arcgis.com
 full:assets.apnews.com
@@ -4367,6 +4369,7 @@ domain:ismcdn.jp
 domain:media.ci-en.jp
 domain:yimg.jp
 domain:cdn.nimg.jp
+domain:img.gmo.jp
 domain:place-hold.it
 domain:unsplash.it
 domain:redd.it
