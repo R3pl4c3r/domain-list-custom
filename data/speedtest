@@ -150,6 +150,7 @@ full:bsnlooklachd.mywire.org
 full:speedtest.eidnet.org
 full:ookla.esu10.org
 full:speedtest.advps.org
+full:speedtests.ord.your.org
 full:akrd-speedtest.loni.org
 full:speedtest.esu5.org
 full:fla.brisanet.eu.org
@@ -1018,6 +1019,7 @@ full:speedtest.global-layer.com
 full:speedtest.gilarivertel.com
 full:speedtest2.flowtrinidad.com
 full:speedtest.empireaccess.com
+full:netspeed.empireaccess.com
 full:speedtest.dsgroupmedia.com
 full:speedtestbltnfl.consolidated.com
 full:speedtest.cns-internet.com
@@ -1746,6 +1748,7 @@ full:sgpspeedtest.cmctelecom.vn
 full:hkgspeedtest.cmctelecom.vn
 full:speedtestsgp.fpt.vn
 full:speedtesthkg.fpt.vn
+full:speed1.airtek.com.ve
 full:btestmcp.vocetelecom.vc
 full:speedtest-wc.truestreamfiber.us
 full:speedtest.unlimitednet.us
@@ -2221,6 +2224,7 @@ full:speedtest.c-con.uniquebroadband.in
 full:speedtest.satellitenetcom.in
 full:speedtest.fastwebnetworks.in
 full:speedtestmoh1.airtelbroadband.in
+full:speedtestmh.airtelbroadband.in
 full:speedtest.wiprabroadband.in
 full:sp1.wiprabroadband.in
 full:speedtest.logonbroadband.in
@@ -2481,6 +2485,7 @@ full:speedtest.aitire.es
 full:testvelocidadmad.simyo.es
 full:speedtest.sewan.es
 full:speedtestmad.adamo.es
+full:speedtest-nix-2.redi.es
 full:ookla.olin.es
 full:speedtest.ohz.es
 full:speedtest.uv.es
