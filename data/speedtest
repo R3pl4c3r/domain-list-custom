@@ -444,6 +444,7 @@ full:speedtest.pl-waw.as210558.net
 full:speedtest.nl-ams.as210558.net
 full:speedtest.as203446.net
 full:speedtest.thn.lon.network.as201838.net
+full:speed.as198997.net
 full:speedtest.pa5.as198831.net
 full:ooklaspeedtest.as198053.net
 full:avspeedtest.apfutura.net
@@ -849,6 +850,7 @@ full:speedtest.accessoninternet.com
 full:speedtest.xstreamservices.com
 full:speedtest.wilsontelephone.com
 full:speed.webseitenserver.com
+full:speedtest.troccolisistemi.com
 full:ooklaserver1-del1.skymaxbroadband.com
 full:speedtest.resoundnetworks.com
 full:speedtest14.point-broadband.com
@@ -1429,6 +1431,7 @@ full:babeltik.com
 full:speedtest.3jglobal.com
 full:speedtest.0dayhost.com
 full:siliguri.zitatel.com
+full:speedtest.x-tabqa.com
 full:speed.x-idleb.com
 full:speedtest01.wowrack.com
 full:speedtest-nl.webdade.com
@@ -2089,6 +2092,7 @@ full:speedtesttn1.telecomitalia.it
 full:speedtestrm1.telecomitalia.it
 full:speedtestmi1.telecomitalia.it
 full:speedtestge1.telecomitalia.it
+full:speedtestfi1.telecomitalia.it
 full:speedtest021.telecomitalia.it
 full:speedtest020.telecomitalia.it
 full:speedtest019.telecomitalia.it
@@ -2115,6 +2119,7 @@ full:sp2.navigabene.it
 full:sp5ookla.flynetwork.it
 full:spd-pub-rm-01-01.fastwebnet.it
 full:spd-pub-mi-01-01.fastwebnet.it
+full:sp1.etruriacom.it
 full:speedtest1.siriustec.it
 full:st3.rocketway.it
 full:speedtest2.openfiber.it
@@ -2129,9 +2134,12 @@ full:speedtest.planetel.it
 full:sp3.novaconn.it
 full:speedtest.mikronet.it
 full:lmb1-ookla.perf.fastedge.it
+full:emr1-ookla.perf.fastedge.it
+full:srv-st12.arcolink.it
 full:srv-st10.arcolink.it
 full:srv-st08.arcolink.it
 full:srv-st04.arcolink.it
+full:srv-st03.arcolink.it
 full:speedtest7.windtre.it
 full:speedtest5.windtre.it
 full:speedtest-sanbonifacio.wifiweb.it
@@ -2160,6 +2168,7 @@ full:speedtest.sistel.it
 full:ookla-mil.seeweb.it
 full:speedtest-milano.proxad.it
 full:speedtest-roma.proxad.it
+full:speedtest3.lepida.it
 full:speedtestmassa.ivoweb.it
 full:test.intred.it
 full:speedtest-pd.flynet.it
@@ -2217,6 +2226,7 @@ full:speedtest.joshicommunication.in
 full:speedtestversatile.meghbelabroadband.in
 full:speedtestbirpara.meghbelabroadband.in
 full:speedtestslg.meghbelabroadband.in
+full:speedtestmum.meghbelabroadband.in
 full:speedtest.maadurgabroadband.in
 full:speedtest.mumbai.charotarbroadband.in
 full:speedtestslg.alliancebroadband.in
@@ -2363,6 +2373,8 @@ full:speedtest.sin.sptrnd.id
 full:speedtest.ny.sptrnd.id
 full:speedtest-sg.iconpln.net.id
 full:sg-speedtest.fast.net.id
+full:speedtest2.tmg.net.id
+full:speedtest1.tmg.net.id
 full:speedtest.sg.hsp.net.id
 full:speedtest-sg.cni.net.id
 full:speedtest-sg.cbn.id
