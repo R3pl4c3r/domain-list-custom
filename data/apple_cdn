@@ -50,6 +50,7 @@ domain:updates-http.cdn-apple.com
 domain:publicassets.cdn-apple.com
 domain:store.storeimages.cdn-apple.com
 domain:updates.cdn-apple.com
+domain:mensura.cdn-apple.com
 domain:appleid.cdn-apple.com
 domain:cstat.cdn-apple.com
 domain:ml.cdn-apple.com
