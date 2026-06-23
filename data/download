@@ -560,6 +560,7 @@ full:amupdatedl2.microsoft.com
 full:amupdatedl.microsoft.com
 full:packages.microsoft.com
 full:cdn.winget.microsoft.com
+full:builds.dotnet.microsoft.com
 full:msdl.microsoft.com
 full:mcr.microsoft.com
 full:mirrors.liquidweb.com
@@ -1496,6 +1497,7 @@ domain:mirrors.tds.net
 domain:mirrors.ovh.net
 domain:catbox.moe
 domain:mirror.clarkson.edu
+domain:t3.storageapi.dev
 domain:mirrors.utermux.dev
 domain:pkg.dev
 domain:r2.dev

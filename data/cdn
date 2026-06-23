@@ -546,6 +546,7 @@ full:fonts.sony.net
 full:www-static.ripe.net
 full:static.plus.net
 full:texture.laby.net
+full:cdn1.espn.net
 full:static1.e621.net
 full:static.blip.net
 full:logs.blip.net
@@ -694,6 +695,7 @@ full:talk.washingtonpost.com
 full:img.washingtonpost.com
 full:static.global.visioncritical.com
 full:static.na1.visioncritical.com
+full:stories.usestoryteller.com
 full:media.telanganatoday.com
 full:image.telanganatoday.com
 full:static.socialshopwave.com
@@ -1856,15 +1858,15 @@ full:reader.readmoo.com
 full:cdn.readmoo.com
 full:cdn-rdstaticassets.readdle.com
 full:static.rakuten.com
+full:luminaire.railway.com
 full:devicons.railway.com
+full:cms.railway.com
 full:cdn.quadpay.com
 full:image.prntscr.com
 full:st.prntscr.com
 full:cdn.privacy.com
 full:app-static-prod.posthog.com
 full:app-static.eu.posthog.com
-full:us-assets.i.posthog.com
-full:eu-assets.i.posthog.com
 full:cdn77-t.pornoxo.com
 full:cdn77.pornoxo.com
 full:pics.pornfhd.com
@@ -1880,6 +1882,7 @@ full:www.pngmart.com
 full:cdn-main.plus500.com
 full:cdn.plus500.com
 full:cdn.pixabay.com
+full:assets.pingone.com
 full:static.pingcap.com
 full:hawky.pcgamer.com
 full:c17.patreon.com
@@ -2039,6 +2042,7 @@ full:static.comicbz.com
 full:image.comicbz.com
 full:cover.comicbz.com
 full:css.comicbz.com
+full:unleash.codeium.com
 full:player-frontend.cnevids.com
 full:embed-audio.cnevids.com
 full:player.cnevids.com
@@ -2572,6 +2576,7 @@ full:fa.gsma.com
 full:cms-cdn.goat.com
 full:assets.goat.com
 full:image.goat.com
+full:digitalhub.fifa.com
 full:img04.en25.com
 full:images.dmca.com
 full:website-media.deel.com
@@ -3193,6 +3198,7 @@ full:www.acgpix.de
 full:cdn.ionos.de
 full:tile.mtbmap.cz
 full:mapserver.mapy.cz
+full:img.kemono.cr
 full:assets.openalternative.co
 full:cdn.stackoverflow.co
 full:cdn-avatars.huggingface.co
@@ -3694,6 +3700,7 @@ domain:cloudflare-ipfs.com
 domain:yourimageshare.com
 domain:xm-apps-static.com
 domain:warnermediacdn.com
+domain:cdn.usestoryteller.com
 domain:trafficdeposit.com
 domain:teamtailor-cdn.com
 domain:seeusercontent.com
@@ -3900,6 +3907,7 @@ domain:ebaystatic.com
 domain:dummyimage.com
 domain:cdn.discordapp.com
 domain:descopecdn.com
+domain:cursor-cdn.com
 domain:ipfs0.sjc.cloudsigma.com
 domain:privacy-gateway.cloudflare.com
 domain:csp-reporting.cloudflare.com
@@ -4086,6 +4094,7 @@ domain:cdn.rollbar.com
 domain:ravenjs.com
 domain:rackcdn.com
 domain:pxlecdn.com
+domain:i.posthog.com
 domain:phprcdn.com
 domain:oktacdn.com
 domain:nordcdn.com
