@@ -97,6 +97,7 @@ full:ciscobinary.openh264.org
 full:cpan.metacpan.org
 full:ubuntu.linux-bg.org
 full:repo.debiancn.org
+full:packages.codeberg.org
 full:tukaani.org
 full:s3.teckids.org
 full:downloads.openwrt.org
@@ -547,6 +548,7 @@ full:download.parallels.com
 full:desktop.parallels.com
 full:update.parallels.com
 full:mirror.nevacloud.com
+full:store.nethunter.com
 full:mirror.navercorp.com
 full:ubuntu.mobinhost.com
 full:mirrors.mivocloud.com
@@ -1249,6 +1251,7 @@ full:ftp.fu-berlin.de
 full:mirrors.ae-online.de
 full:ftp.stw-bonn.de
 full:mirror.liquidrp.de
+full:apt.izzysoft.de
 full:mirror.informatik.hs-fulda.de
 full:debian.charite.de
 full:mirror.23media.de

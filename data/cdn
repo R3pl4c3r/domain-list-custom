@@ -189,6 +189,7 @@ full:cdn.sciencecast.org
 full:play.publicradio.org
 full:covers.openlibrary.org
 full:tiles.openfreemap.org
+full:dlstats.izzyondroid.org
 full:media.hentaifreak.org
 full:ximage.c-spanvideo.org
 full:static.c-spanvideo.org
@@ -1010,6 +1011,8 @@ full:media.graphassets.com
 full:static.gettyimages.com
 full:media.gettyimages.com
 full:assets.gemcommerce.com
+full:static.fundraiseup.com
+full:cdn.fundraiseup.com
 full:stories.freepiklabs.com
 full:static.foxbusiness.com
 full:use.fortawesome.com
@@ -2098,6 +2101,7 @@ full:cdn.xvidzz.com
 full:img.xhacgn.com
 full:img.xbooru.com
 full:website-prod.cache.wpscdn.com
+full:frontend-apps-multi-region.workos.com
 full:frontend-apps.workos.com
 full:embed-cloudfront.wistia.com
 full:embed-ssl.wistia.com
@@ -3054,6 +3058,7 @@ full:cdn.pagefly.io
 full:favicons.nextdns.io
 full:cdn.logbase.io
 full:media.lantern.io
+full:embed.lantern.io
 full:cdn.ipwhois.io
 full:cdn.icomoon.io
 full:assets.holopin.io
@@ -3926,6 +3931,7 @@ domain:adguardcdn.com
 domain:xhpingcdn.com
 domain:xdaimages.com
 domain:wowmodels.com
+domain:workoscdn.com
 domain:files.wordpress.com
 domain:wixstatic.com
 domain:s3.wasabisys.com
