@@ -1,5 +1,6 @@
 full:7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 full:ossmirror.mycloud.services
+full:dl.orangefox.download
 full:mirror.kumi.systems
 full:mirror.level66.network
 full:mirror.hostiko.network
@@ -1915,6 +1916,7 @@ domain:mirror.nl
 domain:mirror.true.nl
 domain:ubuntu.nautile.nc
 domain:mirrors.cicku.me
+domain:dl.twrp.me
 domain:mirror.root.lu
 domain:mirror.serveriai.lt
 domain:mirror.vu.lt
