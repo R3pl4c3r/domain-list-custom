@@ -94,6 +94,7 @@ full:index.rubygems.org
 full:static.redox-os.org
 full:download.opensuse.org
 full:cdn.opensuse.org
+full:updates.openlogi.org
 full:ciscobinary.openh264.org
 full:cpan.metacpan.org
 full:ubuntu.linux-bg.org
@@ -548,6 +549,7 @@ full:softwareupdate.pilotmoon.com
 full:download.parallels.com
 full:desktop.parallels.com
 full:update.parallels.com
+full:persistent.oaistatic.com
 full:mirror.nevacloud.com
 full:store.nethunter.com
 full:mirror.navercorp.com

@@ -307,8 +307,16 @@ full:lg-dme.fdcservers.net
 full:lg-dfw.fdcservers.net
 full:lg-atl.fdcservers.net
 full:lg-ams.fdcservers.net
+full:speedtest.la3eq.fdcservers.net
+full:speedtest.chie.fdcservers.net
+full:speedtest.war.fdcservers.net
+full:speedtest.vie.fdcservers.net
+full:speedtest.tor.fdcservers.net
 full:speedtest.mia.fdcservers.net
+full:speedtest.ld7.fdcservers.net
 full:speedtest.hnd.fdcservers.net
+full:speedtest.atl.fdcservers.net
+full:speedtest.ams.fdcservers.net
 full:speedtest4.ekowebtech.net
 full:ookla2.eaglecable.net
 full:lon-hex-speedtest.cloudconnx.net
@@ -660,6 +668,7 @@ full:speedtest.il.mycci.net
 full:st-lwr.midco.net
 full:st-fmt.midco.net
 full:speedtest.lumos.net
+full:hkg.speedtest.lshiy.net
 full:perf.keyyo.net
 full:speedfuentes.jeyca.net
 full:speedtest.jeebr.net
@@ -1848,6 +1857,7 @@ full:speedtest.host.com.tw
 full:speedtest.vee.com.tw
 full:speedtest.15.com.tw
 full:speedtestwa1.sweet.tv
+full:speedtest.tstt.net.tt
 full:gigenet.tstt.net.tt
 full:turknet16.residential.tr
 full:speedtestacibadem.netspeed.tr
@@ -2751,6 +2761,7 @@ full:speedtest.americatelecom.net.br
 full:velocidade.tecsattelecom.net.br
 full:speedtest1.tecsattelecom.net.br
 full:sp2.semfronteiras.net.br
+full:sp1.semfronteiras.net.br
 full:speedtest.macapatelecom.net.br
 full:speedtest.foxnettelecom.net.br
 full:a-speedtest.brasildigital.net.br
