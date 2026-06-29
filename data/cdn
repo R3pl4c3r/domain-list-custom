@@ -2726,6 +2726,7 @@ full:chat-assets.front.app
 full:cdn.rive.app
 full:web-cdn.bsky.app
 full:video.bsky.app
+full:widget.rss.app
 full:images.rss.app
 full:cdn.7tv.app
 full:cdn.24.co.za
@@ -3127,6 +3128,7 @@ full:cdn-edge.karte.io
 full:statics.goorm.io
 full:sdk.gleap.io
 full:cdn.filen.io
+full:changelog-widget.canny.io
 full:assets2.canny.io
 full:assets.canny.io
 full:cdn.bogos.io
